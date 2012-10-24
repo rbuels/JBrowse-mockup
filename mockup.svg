@@ -52,9 +52,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.608928"
-     inkscape:cx="254.74634"
-     inkscape:cy="731.40679"
+     inkscape:zoom="0.66603254"
+     inkscape:cx="724.61812"
+     inkscape:cy="450.8305"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -93,7 +93,7 @@
      id="layer1"
      transform="translate(0,-152.36218)">
     <rect
-       style="fill:#878787;fill-opacity:1;stroke:none;opacity:1"
+       style="fill:#999999;fill-opacity:1;stroke:none;opacity:1"
        id="rect3969"
        width="1280"
        height="30"
@@ -101,7 +101,7 @@
        y="0"
        transform="translate(0,152.36218)" />
     <rect
-       style="fill:#e6e6e6;fill-opacity:1"
+       style="fill:#cccccc;fill-opacity:1"
        id="rect3018"
        width="161.79901"
        height="900.7782"
@@ -115,7 +115,7 @@
        x="-7.6637727e-09"
        y="152.35857" />
     <rect
-       style="fill:#878787;fill-opacity:1"
+       style="fill:#999999;fill-opacity:1"
        id="rect3042"
        width="150.05397"
        height="27.044611"
@@ -146,7 +146,7 @@
          x="95.633514"
          y="338.85632" /></text>
     <rect
-       style="fill:#878787;fill-opacity:1"
+       style="fill:#999999;fill-opacity:1"
        id="rect3042-7"
        width="150.05397"
        height="27.044611"
@@ -165,7 +165,7 @@
          y="239.94922"
          style="font-size:16px">ESTs</tspan></text>
     <rect
-       style="fill:#878787;fill-opacity:1"
+       style="fill:#999999;fill-opacity:1"
        id="rect3042-4"
        width="150.05397"
        height="27.044611"
@@ -184,7 +184,7 @@
          y="273.85858"
          style="font-size:16px">Test SNPs</tspan></text>
     <rect
-       style="fill:#878787;fill-opacity:1"
+       style="fill:#999999;fill-opacity:1"
        id="rect3042-47"
        width="150.05397"
        height="27.044611"
@@ -240,7 +240,7 @@
          x="207.22426"
          y="69.67382">z</tspan></text>
     <rect
-       style="fill:#878787;fill-opacity:1"
+       style="fill:#999999;fill-opacity:1"
        id="rect3189"
        width="3.5845382"
        height="900.57111"
@@ -259,29 +259,6 @@
        height="29.973398"
        x="340"
        y="152.3262" />
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-       x="165.76666"
-       y="230.7809"
-       id="text3971"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3973"
-         x="165.76666"
-         y="230.7809">1200</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-       x="1403.9369"
-       y="229.6008"
-       id="text3975"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3977"
-         x="1403.9369"
-         y="229.6008"
-         style="font-size:14px">2100</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
@@ -347,5 +324,28 @@
          x="764.88922"
          y="230.84898"
          id="tspan4008">1650</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="165.76666"
+       y="230.7809"
+       id="text3971"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3973"
+         x="165.76666"
+         y="230.7809">1200</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="1403.9369"
+       y="229.6008"
+       id="text3975"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3977"
+         x="1403.9369"
+         y="229.6008"
+         style="font-size:14px">2100</tspan></text>
   </g>
 </svg>

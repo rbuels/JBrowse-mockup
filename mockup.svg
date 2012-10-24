@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1440"
@@ -44,9 +43,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.67326484"
-     inkscape:cx="848.13159"
-     inkscape:cy="446.46779"
+     inkscape:zoom="0.67384428"
+     inkscape:cx="721.33964"
+     inkscape:cy="449.3969"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -75,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -106,49 +105,6 @@
        height="29.962923"
        x="-7.6637727e-09"
        y="152.35857" />
-    <image
-       y="223.49138"
-       x="1458.8115"
-       id="image2993"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAd0AAAFbCAIAAAAftsP8AAAAA3NCSVQICAjb4U/gAAAFhklEQVR4
-nO3WMWqVYRRF0Rf9bQRDqoBpYpUu1asCgiMRnICNg3AKDsJh2IXUCglWghKwMI1aWFhbidXdn6w1
-gsMtNvfg5ZvLHf/u6srd4C/uf7uZnrCke9MDAPiDLgO06DJAiy4DtOgyQIsuA7ToMkCLLgO06DJA
-iy4DtOgyQIsuA7ToMkCLLgO06DJAiy4DtOgyQIsuA7ToMkCLLgO06DJAiy4DtOgyQIsuA7ToMkCL
-LgO06DJAiy4DtOgyQIsuA7ToMkCLLgO06DJAiy4DtOgyQIsuA7ToMkCLLgO06DJAiy4DtOgyQIsu
-A7ToMkCLLgO06DJAiy4DtOgyQIsuA7ToMkCLLgO06DJAiy4DtOgyQIsuA7ToMkCLLgO06DJAiy4D
-tOgyQIsuA7ToMkCLLgO06DJAiy4DtOgyQIsuA7ToMkCLLgO06DJAiy4DtGyPD6cnAP+pD5/upics
-yb8M0KLLAC26DNCiywAtugzQossALboM0KLLAC26DNCiywAtugzQossALboM0KLLAC26DNCiywAt
-ugzQossALboM0KLLAC26DNCiywAtugzQossALboM0KLLAC26DNCiywAtugzQossALboM0KLLAC26
-DNCiywAtugzQossALboM0KLLAC26DNCiywAtugzQossALboM0KLLAC26DNCiywAtugzQossALboM
-0KLLAC26DNCiywAtugzQossALboM0KLLAC26DNCiywAtugzQossALboM0KLLAC26DNCiywAtugzQ
-ossALboM0KLLAC26DNCiywAtugzQossALQfPn76a3rCk419n0xOgbr/fT09Ykn8ZoEWXAVp0GaBF
-lwFadBmgRZcBWnQZoEWXAVp0GaBFlwFadBmgRZcBWnQZoEWXAVp0GaBFlwFadBmgRZcBWnQZoEWX
-AVp0GaBFlwFadBmgRZcBWnQZoEWXAVp0GaBFlwFadBmgRZcBWnQZoEWXAVp0GaBFlwFats/v76Y3
-LOn4bHoB5D08mV6wJv8yQIsuA7ToMkCLLgO06DJAiy4DtOgyQIsuA7ToMkCLLgO06DJAiy4DtOgy
-QIsuA7ToMkCLLgO06DJAiy4DtOgyQIsuA7ToMkCLLgO06DJAiy4DtOgyQIsuA7ToMkCLLgO06DJA
-iy4DtOgyQIsuA7ToMkCLLgO0bOevb6c3LOlo/3Z6AtT9PLmenrAk/zJAiy4DtOgyQIsuA7ToMkCL
-LgO06DJAiy4DtOgyQIsuA7ToMkCLLgO06DJAiy4DtOgyQIsuA7ToMkCLLgO06DJAiy4DtOgyQIsu
-A7ToMkCLLgO06DJAiy4DtOgyQIsuA7ToMkCLLgO06DJAiy4DtOgyQIsuA7Rs118vpzcs6WJ3Pj0B
-6o52p9MTluRfBmjRZYAWXQZo0WWAFl0GaNFlgBZdBmjRZYAWXQZo0WWAFl0GaNFlgBZdBmjRZYAW
-XQZo0WWAFl0GaNFlgBZdBmjRZYAWXQZo0WWAFl0GaNFlgBZdBmjRZYAWXQZo0WWAFl0GaNFlgBZd
-BmjRZYAWXQZo0WWAlu3Fg2fTG5Z08fH79ASoO/zxZXrCkvzLAC26DNCiywAtugzQossALboM0KLL
-AC26DNCiywAtugzQossALboM0KLLAC26DNCiywAtugzQossALboM0KLLAC26DNCiywAtugzQossA
-LboM0KLLAC26DNCiywAtugzQossALboM0KLLAC3b7c276Q1rOt1PL4C8R0+mFyzJvwzQossALboM
-0KLLAC26DNCiywAtugzQossALboM0KLLAC26DNCiywAtugzQossALboM0KLLAC26DNCiywAtugzQ
-ossALboM0KLLAC26DNCiywAtugzQossALboM0KLLAC26DNCiywAtvwHYyiC37n6E9QAAAABJRU5E
-rkJggg==
-"
-       height="347"
-       width="239.3226"
-       style="fill:#86a5ca;fill-opacity:1" />
-    <image
-       y="608.83813"
-       x="1456.702"
-       id="image2993-8"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAd0AAAFbCAIAAAAftsP8AAAAA3NCSVQICAjb4U/gAAAFhklEQVR4 nO3WMWqVYRRF0Rf9bQRDqoBpYpUu1asCgiMRnICNg3AKDsJh2IXUCglWghKwMI1aWFhbidXdn6w1 gsMtNvfg5ZvLHf/u6srd4C/uf7uZnrCke9MDAPiDLgO06DJAiy4DtOgyQIsuA7ToMkCLLgO06DJA iy4DtOgyQIsuA7ToMkCLLgO06DJAiy4DtOgyQIsuA7ToMkCLLgO06DJAiy4DtOgyQIsuA7ToMkCL LgO06DJAiy4DtOgyQIsuA7ToMkCLLgO06DJAiy4DtOgyQIsuA7ToMkCLLgO06DJAiy4DtOgyQIsu A7ToMkCLLgO06DJAiy4DtOgyQIsuA7ToMkCLLgO06DJAiy4DtOgyQIsuA7ToMkCLLgO06DJAiy4D tOgyQIsuA7ToMkCLLgO06DJAiy4DtOgyQIsuA7ToMkCLLgO06DJAiy4DtGyPD6cnAP+pD5/upics yb8M0KLLAC26DNCiywAtugzQossALboM0KLLAC26DNCiywAtugzQossALboM0KLLAC26DNCiywAt ugzQossALboM0KLLAC26DNCiywAtugzQossALboM0KLLAC26DNCiywAtugzQossALboM0KLLAC26 DNCiywAtugzQossALboM0KLLAC26DNCiywAtugzQossALboM0KLLAC26DNCiywAtugzQossALboM 0KLLAC26DNCiywAtugzQossALboM0KLLAC26DNCiywAtugzQossALboM0KLLAC26DNCiywAtugzQ ossALboM0KLLAC26DNCiywAtugzQossALQfPn76a3rCk419n0xOgbr/fT09Ykn8ZoEWXAVp0GaBF lwFadBmgRZcBWnQZoEWXAVp0GaBFlwFadBmgRZcBWnQZoEWXAVp0GaBFlwFadBmgRZcBWnQZoEWX AVp0GaBFlwFadBmgRZcBWnQZoEWXAVp0GaBFlwFadBmgRZcBWnQZoEWXAVp0GaBFlwFats/v76Y3 LOn4bHoB5D08mV6wJv8yQIsuA7ToMkCLLgO06DJAiy4DtOgyQIsuA7ToMkCLLgO06DJAiy4DtOgy QIsuA7ToMkCLLgO06DJAiy4DtOgyQIsuA7ToMkCLLgO06DJAiy4DtOgyQIsuA7ToMkCLLgO06DJA iy4DtOgyQIsuA7ToMkCLLgO0bOevb6c3LOlo/3Z6AtT9PLmenrAk/zJAiy4DtOgyQIsuA7ToMkCL LgO06DJAiy4DtOgyQIsuA7ToMkCLLgO06DJAiy4DtOgyQIsuA7ToMkCLLgO06DJAiy4DtOgyQIsu A7ToMkCLLgO06DJAiy4DtOgyQIsuA7ToMkCLLgO06DJAiy4DtOgyQIsuA7Rs118vpzcs6WJ3Pj0B 6o52p9MTluRfBmjRZYAWXQZo0WWAFl0GaNFlgBZdBmjRZYAWXQZo0WWAFl0GaNFlgBZdBmjRZYAW XQZo0WWAFl0GaNFlgBZdBmjRZYAWXQZo0WWAFl0GaNFlgBZdBmjRZYAWXQZo0WWAFl0GaNFlgBZd BmjRZYAWXQZo0WWAlu3Fg2fTG5Z08fH79ASoO/zxZXrCkvzLAC26DNCiywAtugzQossALboM0KLL AC26DNCiywAtugzQossALboM0KLLAC26DNCiywAtugzQossALboM0KLLAC26DNCiywAtugzQossA LboM0KLLAC26DNCiywAtugzQossALboM0KLLAC3b7c276Q1rOt1PL4C8R0+mFyzJvwzQossALboM 0KLLAC26DNCiywAtugzQossALboM0KLLAC26DNCiywAtugzQossALboM0KLLAC26DNCiywAtugzQ ossALboM0KLLAC26DNCiywAtugzQossALboM0KLLAC26DNCiywAtvwHYyiC37n6E9QAAAABJRU5E rkJggg== "
-       height="347"
-       width="239.3226"
-       style="fill:#936418;fill-opacity:1;filter:url(#filter3014)" />
     <rect
        style="fill:#cccccc;fill-opacity:1"
        id="rect3042"
@@ -348,17 +304,6 @@ rkJggg==
          y="174.57776">6000</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-       x="764.88922"
-       y="230.84898"
-       id="text3971-4"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="764.88922"
-         y="230.84898"
-         id="tspan4008">1650</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        x="780.4978"
        y="174.2997"
@@ -375,5 +320,23 @@ rkJggg==
        height="30.079239"
        x="160.85185"
        y="152.29092" />
+    <rect
+       style="fill:none;stroke:#6d97ca;stroke-width:3.5186708;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4038"
+       width="227.57471"
+       height="29.828346"
+       x="670.35712"
+       y="196.9093" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="764.88922"
+       y="230.84898"
+       id="text3971-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="764.88922"
+         y="230.84898"
+         id="tspan4008">1650</tspan></text>
   </g>
 </svg>

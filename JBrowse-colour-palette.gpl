@@ -3,23 +3,37 @@ Name: JBrowse Colour Palette
 
 #
  57  99 148     primary 1
-  60  83 111     primary 2
-   19  54  96     primary 3
-   109 151 202     primary 4
-   134 165 202     primary 5
-   115  56 152     secondary-a 1
-    93  60 114     secondary-a 2
-     67  18  99     secondary-a 3
-     166 107 203     secondary-a 4
-     176 133 203     secondary-a 5
-     131 203  67     secondary-b 1
-     112 152  76     secondary-b 2
-      74 132  22     secondary-b 3
-      168 229 114     secondary-b 4
-      184 229 145     secondary-b 5
-      227 168  75     complement 1
-      170 137  85     complement 2
-      147 100  24     complement 3
-      241 194 120     complement 4
-      241 207 152     complement 5
+ 60  83 111     primary 2
+ 19  54  96     primary 3
+109 151 202     primary 4
+134 165 202     primary 5
+115  56 152     secondary-a 1
+ 93  60 114     secondary-a 2
+ 67  18  99     secondary-a 3
+166 107 203     secondary-a 4
+176 133 203     secondary-a 5
+131 203  67     secondary-b 1
+ 12 152  76     secondary-b 2
+ 74 132  22     secondary-b 3
+168 229 114     secondary-b 4
+184 229 145     secondary-b 5
+227 168  75     complement 1
+170 137  85     complement 2
+147 100  24     complement 3
+241 194 120     complement 4
+241 207 152     complement 5
+  0   0   0  Black
+ 26  26  26  90% Gray
+ 51  51  51  80% Gray
+ 77  77  77  70% Gray
+102 102 102  60% Gray
+128 128 128  50% Gray
+153 153 153  40% Gray
+179 179 179  30% Gray
+204 204 204  20% Gray
+230 230 230  10% Gray
+236 236 236  7.5% Gray
+242 242 242  5% Gray
+249 249 249  2.5% Gray
+255 255 255  White
 

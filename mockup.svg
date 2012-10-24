@@ -2,6 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -20,6 +21,14 @@
    sodipodi:docname="mockup.svg">
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient3798"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3800" />
+    </linearGradient>
     <filter
        id="filter3014"
        inkscape:label="Desaturate"
@@ -43,9 +52,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.67384428"
-     inkscape:cx="721.33964"
-     inkscape:cy="449.3969"
+     inkscape:zoom="1.608928"
+     inkscape:cx="254.74634"
+     inkscape:cy="731.40679"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -84,7 +93,7 @@
      id="layer1"
      transform="translate(0,-152.36218)">
     <rect
-       style="fill:#cccccc;fill-opacity:1;stroke:none;opacity:1"
+       style="fill:#878787;fill-opacity:1;stroke:none;opacity:1"
        id="rect3969"
        width="1280"
        height="30"
@@ -99,14 +108,14 @@
        x="-2.8978646e-09"
        y="152.28207" />
     <rect
-       style="fill:#6d97ca;fill-opacity:1"
+       style="fill:#396394;fill-opacity:1"
        id="rect3032"
        width="161.75679"
        height="29.962923"
        x="-7.6637727e-09"
        y="152.35857" />
     <rect
-       style="fill:#cccccc;fill-opacity:1"
+       style="fill:#878787;fill-opacity:1"
        id="rect3042"
        width="150.05397"
        height="27.044611"
@@ -137,7 +146,7 @@
          x="95.633514"
          y="338.85632" /></text>
     <rect
-       style="fill:#cccccc;fill-opacity:1"
+       style="fill:#878787;fill-opacity:1"
        id="rect3042-7"
        width="150.05397"
        height="27.044611"
@@ -156,7 +165,7 @@
          y="239.94922"
          style="font-size:16px">ESTs</tspan></text>
     <rect
-       style="fill:#cccccc;fill-opacity:1"
+       style="fill:#878787;fill-opacity:1"
        id="rect3042-4"
        width="150.05397"
        height="27.044611"
@@ -175,7 +184,7 @@
          y="273.85858"
          style="font-size:16px">Test SNPs</tspan></text>
     <rect
-       style="fill:#cccccc;fill-opacity:1"
+       style="fill:#878787;fill-opacity:1"
        id="rect3042-47"
        width="150.05397"
        height="27.044611"
@@ -231,32 +240,25 @@
          x="207.22426"
          y="69.67382">z</tspan></text>
     <rect
-       style="fill:#cccccc;fill-opacity:1"
+       style="fill:#878787;fill-opacity:1"
        id="rect3189"
        width="3.5845382"
        height="900.57111"
        x="161.07753"
        y="152.23885" />
     <path
-       style="fill:#86a5ca;fill-opacity:1;stroke:none"
+       style="fill:#6d97ca;fill-opacity:1;stroke:none"
        d="m 352.70963,179.28363 -188.24542,38.70384 4.17741,11.69824 1266.31788,-2.53068 4.5759,-10.4329 -901.59257,-34.47548 z"
        id="path3199"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc" />
     <rect
-       style="fill:#6d97ca;fill-opacity:1"
+       style="fill:#396394;fill-opacity:1"
        id="rect3171"
        width="200"
        height="29.973398"
        x="340"
        y="152.3262" />
-    <rect
-       style="fill:#6d97ca;fill-opacity:1"
-       id="rect3197"
-       width="1275.5708"
-       height="16.80703"
-       x="164.42918"
-       y="217.55515" />
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
@@ -314,19 +316,26 @@
          x="780.4978"
          y="174.2997">3000</tspan></text>
     <rect
-       style="fill:#396394;fill-opacity:1;stroke:none"
+       style="fill:#3c536f;fill-opacity:1;stroke:none"
        id="rect4033"
        width="4.1244068"
        height="30.079239"
        x="160.85185"
        y="152.29092" />
     <rect
-       style="fill:none;stroke:#6d97ca;stroke-width:3.5186708;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#6d97ca;fill-opacity:1;stroke:#396394;stroke-opacity:1;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4038"
        width="227.57471"
        height="29.828346"
        x="670.35712"
        y="196.9093" />
+    <rect
+       style="fill:#396394;fill-opacity:1"
+       id="rect3197"
+       width="1275.5708"
+       height="16.80703"
+       x="164.42918"
+       y="217.55515" />
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"

@@ -52,9 +52,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.66855889"
-     inkscape:cx="722.6836"
-     inkscape:cy="443.03007"
+     inkscape:zoom="1.2514748"
+     inkscape:cx="525.32052"
+     inkscape:cy="662.18445"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -93,7 +93,7 @@
      id="layer1"
      transform="translate(0,-152.36218)">
     <rect
-       style="fill:#0c984c;fill-opacity:1;stroke:none;opacity:1"
+       style="fill:#83cb43;fill-opacity:1;stroke:none;opacity:1"
        id="rect3969"
        width="1280"
        height="30"
@@ -101,7 +101,7 @@
        y="0"
        transform="translate(0,152.36218)" />
     <rect
-       style="fill:#a8e572;fill-opacity:1"
+       style="fill:#b8e591;fill-opacity:1"
        id="rect3018"
        width="161.79901"
        height="900.7782"
@@ -115,7 +115,7 @@
        x="-7.6637727e-09"
        y="152.35857" />
     <rect
-       style="fill:#0c984c;fill-opacity:1"
+       style="fill:#83cb43;fill-opacity:1"
        id="rect3042"
        width="150.05397"
        height="27.044611"
@@ -146,7 +146,7 @@
          x="95.633514"
          y="338.85632" /></text>
     <rect
-       style="fill:#0c984c;fill-opacity:1"
+       style="fill:#83cb43;fill-opacity:1"
        id="rect3042-7"
        width="150.05397"
        height="27.044611"
@@ -165,7 +165,7 @@
          y="239.94922"
          style="font-size:16px">ESTs</tspan></text>
     <rect
-       style="fill:#0c984c;fill-opacity:1"
+       style="fill:#83cb43;fill-opacity:1"
        id="rect3042-4"
        width="150.05397"
        height="27.044611"
@@ -184,7 +184,7 @@
          y="273.85858"
          style="font-size:16px">Test SNPs</tspan></text>
     <rect
-       style="fill:#0c984c;fill-opacity:1"
+       style="fill:#83cb43;fill-opacity:1"
        id="rect3042-47"
        width="150.05397"
        height="27.044611"

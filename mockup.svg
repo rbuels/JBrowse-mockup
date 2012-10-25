@@ -69,19 +69,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.5995489"
-     inkscape:cx="211.28929"
-     inkscape:cy="747.04095"
+     inkscape:zoom="0.75555556"
+     inkscape:cx="720"
+     inkscape:cy="238.23529"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="841"
      inkscape:window-x="0"
      inkscape:window-y="35"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      guidetolerance="10000"
      inkscape:guide-bbox="true">
     <inkscape:grid
@@ -114,8 +114,8 @@
        id="rect4175"
        width="1440.2323"
        height="900.22455"
-       x="-95.112053"
-       y="152.13727" />
+       x="-1.1414647"
+       y="150.81374" />
     <rect
        style="fill:#cccccc;fill-opacity:1;stroke:none;opacity:1;fill-rule:nonzero"
        id="rect3969"

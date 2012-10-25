@@ -52,9 +52,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.88170504"
-     inkscape:cx="557.47205"
-     inkscape:cy="807.85905"
+     inkscape:zoom="1"
+     inkscape:cx="479.79019"
+     inkscape:cy="609.66969"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -94,12 +94,11 @@
      transform="translate(0,-152.36218)">
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="rect4075"
-       width="1287.2167"
-       height="49.900013"
-       x="152.75514"
-       y="21.148735"
-       transform="translate(0,152.36218)" />
+       id="rect4175"
+       width="1440.2323"
+       height="900.22455"
+       x="-0.034011628"
+       y="152.32469" />
     <rect
        style="fill:#cccccc;fill-opacity:1;stroke:none;opacity:1;fill-rule:nonzero"
        id="rect3969"
@@ -109,21 +108,21 @@
        y="0"
        transform="translate(0,152.36218)" />
     <rect
-       style="fill:#cccccc;fill-opacity:1"
+       style="fill:#e6e6e6;fill-opacity:1"
        id="rect3018"
-       width="161.79901"
-       height="900.7782"
+       width="161.79433"
+       height="900.69861"
        x="-2.8978646e-09"
-       y="152.28207" />
+       y="152.36168" />
     <rect
        style="fill:#396394;fill-opacity:1"
        id="rect3032"
        width="161.75679"
-       height="29.962923"
+       height="29.996193"
        x="-7.6637727e-09"
        y="152.35857" />
     <rect
-       style="fill:#999999;fill-opacity:1"
+       style="fill:#cccccc;fill-opacity:1"
        id="rect3042"
        width="150.05397"
        height="27.044611"
@@ -131,7 +130,7 @@
        y="187.90242" />
     <text
        xml:space="preserve"
-       style="font-size:14.88774967px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       style="font-size:14.88774966999999982px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        x="14.830917"
        y="206.65146"
        id="text3044"
@@ -140,7 +139,7 @@
          id="tspan3046"
          x="14.830917"
          y="206.65146"
-         style="font-size:16px">DNA</tspan></text>
+         style="font-size:16px;fill:#1a1a1a">DNA</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
@@ -154,7 +153,7 @@
          x="95.633514"
          y="338.85632" /></text>
     <rect
-       style="fill:#999999;fill-opacity:1"
+       style="fill:#cccccc;fill-opacity:1"
        id="rect3042-7"
        width="150.05397"
        height="27.044611"
@@ -162,7 +161,7 @@
        y="220.98592" />
     <text
        xml:space="preserve"
-       style="font-size:14.88774967px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       style="font-size:14.88774966999999982px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        x="14.830914"
        y="239.94922"
        id="text3044-7"
@@ -171,9 +170,9 @@
          id="tspan3046-3"
          x="14.830914"
          y="239.94922"
-         style="font-size:16px">ESTs</tspan></text>
+         style="font-size:16px;fill:#1a1a1a">ESTs</tspan></text>
     <rect
-       style="fill:#999999;fill-opacity:1"
+       style="fill:#cccccc;fill-opacity:1"
        id="rect3042-4"
        width="150.05397"
        height="27.044611"
@@ -181,7 +180,7 @@
        y="254.68106" />
     <text
        xml:space="preserve"
-       style="font-size:14.88774967px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       style="font-size:14.88774966999999982px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        x="15.045166"
        y="273.85858"
        id="text3044-6"
@@ -190,9 +189,9 @@
          id="tspan3046-6"
          x="15.045166"
          y="273.85858"
-         style="font-size:16px">Test SNPs</tspan></text>
+         style="font-size:16px;fill:#1a1a1a">Test SNPs</tspan></text>
     <rect
-       style="fill:#999999;fill-opacity:1"
+       style="fill:#cccccc;fill-opacity:1"
        id="rect3042-47"
        width="150.05397"
        height="27.044611"
@@ -200,7 +199,7 @@
        y="288.3367" />
     <text
        xml:space="preserve"
-       style="font-size:14.88774967px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       style="font-size:14.88774966999999982px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        x="15.045166"
        y="307.72852"
        id="text3044-5"
@@ -209,7 +208,7 @@
          id="tspan3046-8"
          x="15.045166"
          y="307.72852"
-         style="font-size:16px">Predicted Genes</tspan></text>
+         style="font-size:16px;fill:#1a1a1a">Predicted Genes</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot3034"
@@ -248,14 +247,14 @@
          x="207.22426"
          y="69.67382">z</tspan></text>
     <rect
-       style="fill:#999999;fill-opacity:1"
+       style="fill:#b3b3b3;fill-opacity:1"
        id="rect3189"
        width="3.5845382"
-       height="900.57111"
+       height="900.4447"
        x="161.07753"
-       y="152.23885" />
+       y="152.36528" />
     <path
-       style="fill:#6d97ca;fill-opacity:1;stroke:none"
+       style="fill:#3c536f;fill-opacity:1;stroke:none"
        d="m 352.70963,179.28363 -187.98459,37.79093 3.91658,12.61115 1266.31788,-2.53068 4.5759,-10.4329 -901.59257,-34.47548 z"
        id="path3199"
        inkscape:connector-curvature="0"
@@ -269,7 +268,7 @@
        y="152.3262" />
     <text
        xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        x="169.61021"
        y="174.14897"
        id="text3979"
@@ -280,80 +279,80 @@
          y="174.14897">0</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        x="1410.1272"
        y="174.57776"
        id="text3983"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3985"
          x="1410.1272"
-         y="174.57776">6000</tspan></text>
+         y="174.57776"
+         id="tspan4167">6079</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        x="780.4978"
        y="174.2997"
        id="text3983-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3985-0"
          x="780.4978"
-         y="174.2997">3000</tspan></text>
+         y="174.2997"
+         id="tspan4171">3039</tspan></text>
     <rect
        style="fill:#3c536f;fill-opacity:1;stroke:none"
        id="rect4033"
-       width="4.1244068"
-       height="30.079239"
-       x="160.85185"
-       y="152.29092" />
+       width="3.5919106"
+       height="29.999599"
+       x="161.06964"
+       y="152.36116" />
     <rect
        style="fill:#396394;fill-opacity:1"
        id="rect3197"
-       width="1275.4403"
-       height="17.328665"
-       x="164.5596"
-       y="217.03348" />
+       width="1275.3374"
+       height="21.053881"
+       x="164.61107"
+       y="216.97858" />
     <rect
-       style="fill:#999999;fill-opacity:1;stroke:#3c536f;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#cccccc;fill-opacity:1;stroke:#133660;stroke-width:1.10221422000000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect4038"
-       width="54.729885"
-       height="16.327641"
-       x="205.87981"
-       y="217.52495" />
+       width="54.725468"
+       height="19.837662"
+       x="205.92795"
+       y="217.5757" />
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        x="764.88922"
-       y="230.84898"
+       y="232.84898"
        id="text3971-4"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="764.88922"
-         y="230.84898"
+         y="232.84898"
          id="tspan4008">1650</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-       x="165.76666"
-       y="230.7809"
+       x="166.21101"
+       y="232.7809"
        id="text3971"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3973"
-         x="165.76666"
-         y="230.7809">1200</tspan></text>
+         x="166.21101"
+         y="232.7809">1200</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        x="1403.9369"
-       y="229.6008"
+       y="231.6008"
        id="text3975"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3977"
          x="1403.9369"
-         y="229.6008"
+         y="231.6008"
          style="font-size:14px">2100</tspan></text>
     <path
        style="fill:#133660;stroke:none"
@@ -392,41 +391,41 @@
     <path
        inkscape:connector-curvature="0"
        style="fill:#133660;fill-opacity:1;stroke:none"
-       d="m 611.05761,236.45134 c -5.41191,0 -9.79912,4.33169 -9.79912,9.67508 0,5.34341 4.38721,9.67508 9.79912,9.67508 1.54997,0 3.01524,-0.35581 4.31812,-0.98844 l 5.24066,6.26012 3.80647,-3.18627 -5.27556,-6.29887 c 1.07798,-1.55407 1.70943,-3.43578 1.70943,-5.46162 0,-5.34339 -4.38721,-9.67508 -9.79912,-9.67508 z m 0,3.81422 c 3.86564,0 5.94227,2.04415 5.94227,5.86086 0,3.81672 -2.07663,5.86087 -5.94227,5.86087 -3.86564,0 -5.94227,-2.04415 -5.94227,-5.86087 0,-3.81671 2.07663,-5.86086 5.94227,-5.86086 z m -0.98457,1.65903 0,2.97695 -2.79088,0 0,1.98462 2.79088,0 0,2.97695 1.86059,0 0,-2.97695 2.7909,0 0,-1.98462 -2.7909,0 0,-2.97695 -1.86059,0 z"
+       d="m 611.05761,244.45134 c -5.41191,0 -9.79912,4.33169 -9.79912,9.67508 0,5.34341 4.38721,9.67508 9.79912,9.67508 1.54997,0 3.01524,-0.35581 4.31812,-0.98844 l 5.24066,6.26012 3.80647,-3.18627 -5.27556,-6.29887 c 1.07798,-1.55407 1.70943,-3.43578 1.70943,-5.46162 0,-5.34339 -4.38721,-9.67508 -9.79912,-9.67508 z m 0,3.81422 c 3.86564,0 5.94227,2.04415 5.94227,5.86086 0,3.81672 -2.07663,5.86087 -5.94227,5.86087 -3.86564,0 -5.94227,-2.04415 -5.94227,-5.86087 0,-3.81671 2.07663,-5.86086 5.94227,-5.86086 z m -0.98457,1.65903 0,2.97695 -2.79088,0 0,1.98462 2.79088,0 0,2.97695 1.86059,0 0,-2.97695 2.7909,0 0,-1.98462 -2.7909,0 0,-2.97695 -1.86059,0 z"
        id="path3112-0" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#133660;fill-opacity:1;stroke:none"
-       d="m 640.82707,236.45134 c -5.4119,0 -9.79911,4.33169 -9.79911,9.67508 0,5.34341 4.38721,9.67508 9.79911,9.67508 1.54998,0 3.01524,-0.35581 4.31813,-0.98844 l 5.24067,6.26012 3.80646,-3.18627 -5.27556,-6.29887 c 1.07797,-1.55407 1.70942,-3.43578 1.70942,-5.46162 0,-5.34339 -4.38721,-9.67508 -9.79912,-9.67508 z m 0,3.81422 c 3.86565,0 5.94228,2.04415 5.94228,5.86086 0,3.81672 -2.07663,5.86087 -5.94228,5.86087 -3.86564,0 -5.94226,-2.04415 -5.94226,-5.86087 0,-3.81671 2.07662,-5.86086 5.94226,-5.86086 z m -3.43047,4.79877 0,2.22109 7.03925,0 0,-2.22109 -7.03925,0 z"
+       d="m 640.82707,244.45134 c -5.4119,0 -9.79911,4.33169 -9.79911,9.67508 0,5.34341 4.38721,9.67508 9.79911,9.67508 1.54998,0 3.01524,-0.35581 4.31813,-0.98844 l 5.24067,6.26012 3.80646,-3.18627 -5.27556,-6.29887 c 1.07797,-1.55407 1.70942,-3.43578 1.70942,-5.46162 0,-5.34339 -4.38721,-9.67508 -9.79912,-9.67508 z m 0,3.81422 c 3.86565,0 5.94228,2.04415 5.94228,5.86086 0,3.81672 -2.07663,5.86087 -5.94228,5.86087 -3.86564,0 -5.94226,-2.04415 -5.94226,-5.86087 0,-3.81671 2.07662,-5.86086 5.94226,-5.86086 z m -3.43047,4.79877 0,2.22109 7.03925,0 0,-2.22109 -7.03925,0 z"
        id="path3112-5-8" />
     <rect
-       style="fill:#999999;fill-opacity:1;stroke:#3c536f;stroke-width:1.01911533;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#cccccc;fill-opacity:1;stroke:#133660;stroke-width:1.12328339000000010;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect4038-9"
-       width="122.19485"
-       height="16.309029"
-       x="290.0542"
-       y="217.54118" />
+       width="122.18498"
+       height="19.815048"
+       x="290.09555"
+       y="217.59543" />
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        x="208.66148"
-       y="229.54216"
+       y="231.54216"
        id="text4098"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4100"
          x="208.66148"
-         y="229.54216">ctgA</tspan></text>
+         y="231.54216">ctgA</tspan></text>
     <rect
-       style="fill:#999999;fill-opacity:1;stroke:#3c536f;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#cccccc;fill-opacity:1;stroke:#133660;stroke-width:1.17201756999999995;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect4038-2"
-       width="16.044331"
-       height="16.301348"
-       x="258.02963"
-       y="217.52945" />
+       width="18.20355"
+       height="19.735914"
+       x="258.10846"
+       y="217.61606" />
     <path
        sodipodi:type="star"
-       style="fill:#3c536f;fill-opacity:1;fill-rule:nonzero;stroke:#3c536f;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path4126"
        sodipodi:sides="3"
        sodipodi:cx="261.39758"
@@ -439,22 +438,22 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 261.39758,75.681572 -2.24599,-3.890167 -2.24599,-3.890167 4.49198,-1e-6 4.49198,0 -2.24599,3.890168 z"
-       transform="matrix(0.68740975,0,0,0.68740975,86.420346,176.67649)"
-       inkscape:transform-center-y="0.89137937" />
+       transform="matrix(1.1555491,0,0,0.90983968,-34.80312,162.39829)"
+       inkscape:transform-center-y="1.1798179" />
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        x="293.05167"
-       y="230.28909"
+       y="232.28909"
        id="text4098-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4100-4"
          x="293.05167"
-         y="230.28909">1200..2100</tspan></text>
+         y="232.28909">1200..2100</tspan></text>
     <path
-       style="fill:#3c536f;stroke:none"
-       d="m 400.35254,219.91413 3.93062,0 5.82314,5.82314 -5.82314,5.82314 -3.93062,0 4.36736,-4.36736 -10.1905,0 0,-2.91157 10.1905,0 z"
+       style="fill:#1a1a1a;stroke:none"
+       d="m 400.35254,221.91413 3.93062,0 5.82314,5.82314 -5.82314,5.82314 -3.93062,0 4.36736,-4.36736 -10.1905,0 0,-2.91157 10.1905,0 z"
        id="path3110-3-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccc" />

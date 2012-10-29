@@ -22,6 +22,107 @@
   <defs
      id="defs4">
     <linearGradient
+       id="linearGradient8241">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="0"
+         id="stop8653" />
+      <stop
+         id="stop8655"
+         offset="0.5"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop8245" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7519"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop7521" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleInL"
+       style="overflow:visible">
+      <path
+         id="path4372"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(-0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutL"
+       style="overflow:visible">
+      <path
+         id="path4381"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lstart"
+       style="overflow:visible">
+      <path
+         id="path4257"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;">
+      <path
+         id="path4260"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path4239"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path4242"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <linearGradient
        id="linearGradient3798"
        osb:paint="solid">
       <stop
@@ -69,9 +170,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.7240865"
-     inkscape:cx="70.497405"
-     inkscape:cy="699.13495"
+     inkscape:zoom="21.00096"
+     inkscape:cx="23.028912"
+     inkscape:cy="863.05507"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -81,7 +182,7 @@
      inkscape:window-y="35"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      guidetolerance="10000"
      inkscape:guide-bbox="true">
     <inkscape:grid
@@ -139,7 +240,8 @@
        x="-7.6637727e-09"
        y="152.34659" />
     <g
-       id="g3266">
+       id="g3266"
+       transform="translate(0,-31.107624)">
       <rect
          y="242.04723"
          x="5"
@@ -152,9 +254,9 @@
          id="text3044"
          y="262.76794"
          x="13.798724"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans;text-anchor:start;text-align:start;writing-mode:lr"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          xml:space="preserve"><tspan
-           style="font-size:16px;fill:#333333;-inkscape-font-specification:Open Sans;font-family:Open Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans"
            y="262.76794"
            x="13.798724"
            id="tspan3046"
@@ -173,7 +275,8 @@
          x="95.633514"
          y="338.85632" /></text>
     <g
-       id="g3261">
+       id="g3261"
+       transform="translate(0,-31.107624)">
       <rect
          y="277.04718"
          x="5"
@@ -186,16 +289,17 @@
          id="text3044-7"
          y="297.7619"
          x="13.730297"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans;text-anchor:start;text-align:start;writing-mode:lr"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          xml:space="preserve"><tspan
-           style="font-size:16px;fill:#333333;-inkscape-font-specification:Open Sans;font-family:Open Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans"
            y="297.7619"
            x="13.730297"
            id="tspan3046-3"
            sodipodi:role="line">ESTs</tspan></text>
     </g>
     <g
-       id="g3271">
+       id="g3271"
+       transform="translate(0,-31.107624)">
       <rect
          y="312.04718"
          x="5"
@@ -208,16 +312,17 @@
          id="text3044-6"
          y="332.79391"
          x="14.759743"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans;text-anchor:start;text-align:start;writing-mode:lr"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          xml:space="preserve"><tspan
-           style="font-size:16px;fill:#333333;-inkscape-font-specification:Open Sans;font-family:Open Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans"
            y="332.79391"
            x="14.759743"
            id="tspan3046-6"
            sodipodi:role="line">Test SNPs</tspan></text>
     </g>
     <g
-       id="g3276">
+       id="g3276"
+       transform="translate(0,-31.107624)">
       <rect
          y="347.04718"
          x="5"
@@ -230,9 +335,9 @@
          id="text3044-5"
          y="368.00821"
          x="13.798724"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans;text-anchor:start;text-align:start;writing-mode:lr"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          xml:space="preserve"><tspan
-           style="font-size:16px;fill:#333333;-inkscape-font-specification:Open Sans;font-family:Open Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#333333;font-family:Open Sans;-inkscape-font-specification:Open Sans"
            y="368.00821"
            x="13.798724"
            id="tspan3046-8"
@@ -272,7 +377,7 @@
        y="152.36218" />
     <path
        style="fill:#76a3db;fill-opacity:1;stroke:none"
-       d="M 352.70963,179.28363 165,210.91841 l 3.64162,10.26482 1266.31788,-2.10377 4.8502,-8.12439 -901.86687,-29.20826 z"
+       d="M 353.82873,180.08299 165,210.91841 l 3.64162,10.26482 1266.31788,-2.10377 4.8502,-8.12439 -906.34328,-28.88852 z"
        id="path3199"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc" />
@@ -293,7 +398,8 @@
          sodipodi:role="line"
          id="tspan3981"
          x="169.61021"
-         y="174.14897">0</tspan></text>
+         y="174.14897"
+         style="font-size:22px">0</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -315,7 +421,8 @@
          sodipodi:role="line"
          x="764.4978"
          y="174.2997"
-         id="tspan4171">3039</tspan></text>
+         id="tspan4171"
+         style="font-size:22px">3039</tspan></text>
     <rect
        style="fill:#3c536f;fill-opacity:1;stroke:none"
        id="rect4033"
@@ -356,7 +463,7 @@
          style="font-size:16.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Open Sans;-inkscape-font-specification:Open Sans">1200</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       style="font-size:16.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        x="1385.6154"
        y="231.54317"
        id="text3975"
@@ -365,7 +472,7 @@
          id="tspan3977"
          x="1385.6154"
          y="231.54317"
-         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Open Sans;-inkscape-font-specification:Open Sans">2100</tspan></text>
+         style="font-size:16.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Open Sans;-inkscape-font-specification:Open Sans">2100</tspan></text>
     <path
        style="fill:#133660;stroke:none"
        d="m 1585.6144,389.37213 -54,0 -80,80 80,80 54,0 -60,-60 140,0 0,-40 -140,0 z"
@@ -420,7 +527,8 @@
            y="229.50815"
            x="215.37259"
            id="tspan4100"
-           sodipodi:role="line">ctgA</tspan></text>
+           sodipodi:role="line"
+           dy="0.52298987">ctgA</tspan></text>
       <rect
          y="211.62206"
          x="263.88632"
@@ -447,31 +555,34 @@
          sodipodi:type="star" />
     </g>
     <g
-       id="g3250">
+       id="g4033"
+       transform="translate(-6,0)">
       <rect
-         y="211.74213"
-         x="290.09555"
-         height="25.62005"
-         width="122.18498"
+         y="211.63258"
+         x="289.98599"
+         height="25.839172"
+         width="110.35313"
          id="rect4038-9"
-         style="fill:#cccccc;fill-opacity:1;stroke:#6d97ca;stroke-width:1.27726722;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:#cccccc;fill-opacity:1;stroke:#6d97ca;stroke-width:1.21903038;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <text
          sodipodi:linespacing="125%"
          id="text4098-3"
-         y="230.63977"
+         y="231.16277"
          x="293.05167"
-         style="font-size:16.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          xml:space="preserve"><tspan
-           style="font-size:16.5px;-inkscape-font-specification:Open Sans;font-family:Open Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
-           y="230.63977"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           y="231.16277"
            x="293.05167"
            id="tspan4100-4"
-           sodipodi:role="line">1200..2100</tspan></text>
+           sodipodi:role="line"><tspan
+             style="font-size:16.5px"
+             id="tspan4047">1200..2100 </tspan></tspan></text>
       <path
          sodipodi:nodetypes="cccccccccc"
          inkscape:connector-curvature="0"
          id="path3110-3-3"
-         d="m 400.35254,219.88011 3.93062,0 5.82314,5.82314 -5.82314,5.82314 -3.93062,0 4.36736,-4.36736 -10.1905,0 0,-2.91157 10.1905,0 z"
+         d="m 386.35254,219.03931 3.93062,0 5.82314,5.82314 -5.82314,5.82314 -3.93062,0 4.36736,-4.36736 -10.1905,0 0,-2.91157 10.1905,0 z"
          style="fill:#4d4d4d;stroke:none" />
     </g>
     <g
@@ -532,10 +643,12 @@
     </g>
     <g
        id="g5518"
-       transform="matrix(0.94665835,0,0,0.94665835,-321.78712,-72.085527)">
+       transform="matrix(0.94665835,0,0,0.94665835,-342.86262,-72.085527)"
+       style="fill:#4d4d4d">
       <g
          transform="translate(43.949022,117.73168)"
-         id="g4711">
+         id="g4711"
+         style="fill:#4d4d4d">
         <path
            style="fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none"
            d="m 749.42842,183.37156 c -5.66815,0 -10.26307,4.59493 -10.26307,10.26307 0,5.66814 4.59492,10.26307 10.26307,10.26307 5.66814,0 10.26306,-4.59493 10.26306,-10.26307 0,-5.66814 -4.59492,-10.26307 -10.26306,-10.26307 z m 0,2.38617 c 4.36136,0 7.8769,3.51553 7.8769,7.8769 0,4.36137 -3.51554,7.87691 -7.8769,7.87691 -4.36137,0 -7.87691,-3.51554 -7.87691,-7.87691 0,-4.36137 3.51554,-7.8769 7.87691,-7.8769 z"
@@ -588,42 +701,15 @@
     <text
        xml:space="preserve"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       x="9"
-       y="233.76843"
+       x="8.8095322"
+       y="205.04877"
        id="text4648"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4650"
-         x="9"
-         y="233.76843"
+         x="8.8095322"
+         y="205.04877"
          style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans">Tracks</tspan></text>
-    <g
-       id="g3325">
-      <text
-         sodipodi:linespacing="125%"
-         id="text4652"
-         y="202.36218"
-         x="6.1233168"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;color:#000000;fill:#396394;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans;font-size:16.5px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
-         xml:space="preserve"><tspan
-           style="font-size:16.5px;fill:#396394;fill-opacity:1;-inkscape-font-specification:Open Sans;font-family:Open Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
-           y="202.36218"
-           x="6.1233168"
-           id="tspan4654"
-           sodipodi:role="line">Share</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text4660"
-         y="202.36218"
-         x="57"
-         style="font-size:16.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#396394;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         xml:space="preserve"><tspan
-           style="font-size:16.5px;fill:#396394;fill-opacity:1;-inkscape-font-specification:Open Sans;font-family:Open Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
-           y="202.36218"
-           x="57"
-           id="tspan4662"
-           sodipodi:role="line">Help</tspan></text>
-    </g>
     <rect
        style="fill:none;stroke:none"
        width="4.1231084"
@@ -696,5 +782,46 @@
          id="tspan3216"
          x="-27.021906"
          y="34.979248" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="419.39835"
+       y="173.85356"
+       id="text4029"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4031"
+         x="419.39835"
+         y="173.85356"
+         style="font-size:16.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans">0.9kb</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="433.55862"
+       y="-11.571355"
+       id="text4049"
+       sodipodi:linespacing="125%"
+       transform="translate(0,152.36218)"><tspan
+         sodipodi:role="line"
+         id="tspan4051"
+         x="433.55862"
+         y="-11.571355" /></text>
+    <path
+       inkscape:transform-center-y="1.4995598"
+       transform="matrix(1.4687194,0,0,1.1564191,-248.27004,84.450585)"
+       d="m 261.39758,75.681572 -2.24599,-3.890167 -2.24599,-3.890167 4.49198,-1e-6 4.49198,0 -2.24599,3.890168 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="2.6179939"
+       sodipodi:arg1="1.5707963"
+       sodipodi:r2="2.5934448"
+       sodipodi:r1="5.1868896"
+       sodipodi:cy="70.494682"
+       sodipodi:cx="261.39758"
+       sodipodi:sides="3"
+       id="path4126-5"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       sodipodi:type="star" />
   </g>
 </svg>

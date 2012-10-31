@@ -18,10 +18,9 @@ Name: JBrowse Colour Palette
 253  63  73     red 4
 253 114 121     red 5
 253 173 177     red 6
-255 156   0     orange 1
-255 181  64     orange 2
-255 201 115     orange 3
-255 219   0     gold-orange
+255 219   0     orange 1
+255 228  64     orange 2
+255 235 115     orange 3
   0   0   0     Black
  26  26  26     90% Gray
  51  51  51     80% Gray

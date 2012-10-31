@@ -2,38 +2,38 @@ GIMP Palette
 Name: JBrowse Colour Palette
 
 #
- 14  83 167     primary 1
- 38  79 128     primary 2
-  5  54 113     primary 3
- 66 132 211     primary 4
-104 153 211     primary 5
- 20 209   0     secondary-a 1
- 49 160  37     secondary-a 2
- 13 141   0     secondary-a 3
- 74 232  58     secondary-a 4
-116 232 104     secondary-a 5
-251   0  13     secondary-b 1
-192  45  52     secondary-b 2
-169   0   8     secondary-b 3
-253  63  73     secondary-b 4
-253 114 121     secondary-b 5
-255 156   0     complement 1
-196 137  45     complement 2
-172 105   0     complement 3
-255 181  64     complement 4
-255 201 115     complement 5
-  0   0   0  Black
- 26  26  26  90% Gray
- 51  51  51  80% Gray
- 77  77  77  70% Gray
-102 102 102  60% Gray
-128 128 128  50% Gray
-153 153 153  40% Gray
-179 179 179  30% Gray
-204 204 204  20% Gray
-230 230 230  10% Gray
-236 236 236  7.5% Gray
-242 242 242  5% Gray
-249 249 249  2.5% Gray
-255 255 255  White
+ 14  83 167     blue 1
+ 38  79 128     blue 2
+  5  54 113     blue 3
+ 66 132 211     blue 4
+104 153 211     blue 5
+ 20 209   0     green 1
+ 49 160  37     green 2
+ 13 141   0     green 3
+ 74 232  58     green 4
+116 232 104     green 5
+251   0  13     red 1
+192  45  52     red 2
+169   0   8     red 3
+253  63  73     red 4
+253 114 121     red 5
+253 173 177     red 6
+255 156   0     orange 1
+255 181  64     orange 2
+255 201 115     orange 3
+255 219   0     gold-orange
+  0   0   0     Black
+ 26  26  26     90% Gray
+ 51  51  51     80% Gray
+ 77  77  77     70% Gray
+102 102 102     60% Gray
+128 128 128     50% Gray
+153 153 153     40% Gray
+179 179 179     30% Gray
+204 204 204     20% Gray
+230 230 230     10% Gray
+236 236 236     7.5% Gray
+242 242 242     5% Gray
+249 249 249     2.5% Gray
+255 255 255     White
 

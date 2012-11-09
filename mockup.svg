@@ -178,9 +178,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1003049"
-     inkscape:cx="507.46988"
-     inkscape:cy="821.92771"
+     inkscape:zoom="31.737941"
+     inkscape:cx="435.84708"
+     inkscape:cy="840.92833"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -726,10 +726,10 @@
     <rect
        style="fill:#4284d3;fill-opacity:1"
        id="rect3171"
-       width="200"
-       height="28.099121"
-       x="434"
-       y="182.3262" />
+       width="201.5439"
+       height="26.744276"
+       x="432.96024"
+       y="183.68105" />
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
@@ -5029,12 +5029,12 @@
          id="tspan4171-0"
          style="font-size:22px">4000</tspan></text>
     <rect
-       style="fill:none;stroke:#ff3a44;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:none;stroke:#ff3a44;stroke-width:2.01144171;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3530"
-       width="201.52234"
-       height="26.696207"
-       x="433"
-       y="183.36218" />
+       width="201.5424"
+       height="26.999846"
+       x="433.00571"
+       y="183.3679" />
     <text
        inkscape:transform-center-x="-161"
        xml:space="preserve"

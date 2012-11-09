@@ -15,7 +15,7 @@
    height="900"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.48.3.1 r9886"
    inkscape:export-filename="/home/ederohanian/1.png"
    inkscape:export-xdpi="90"
    sodipodi:docname="mockup.svg"
@@ -178,16 +178,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="794.53349"
-     inkscape:cy="720.7095"
+     inkscape:zoom="2.1003049"
+     inkscape:cx="507.46988"
+     inkscape:cy="821.92771"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="965"
+     inkscape:window-width="1440"
+     inkscape:window-height="841"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="35"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:snap-global="true"
@@ -509,7 +509,7 @@
          inkscape:tile-y0="115.81046" />
     </g>
     <rect
-       style="fill:#0e53a7;fill-opacity:1"
+       style="fill:#264f80;fill-opacity:1"
        id="rect3197"
        width="1274.9485"
        height="27.221811"
@@ -727,7 +727,7 @@
        style="fill:#4284d3;fill-opacity:1"
        id="rect3171"
        width="200"
-       height="29.973398"
+       height="28.099121"
        x="434"
        y="182.3262" />
     <text
@@ -5029,10 +5029,10 @@
          id="tspan4171-0"
          style="font-size:22px">4000</tspan></text>
     <rect
-       style="fill:none;stroke:#fb000d;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-linejoin:miter"
+       style="fill:none;stroke:#ff3a44;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3530"
-       width="199"
-       height="29"
+       width="201.52234"
+       height="26.696207"
        x="433"
        y="183.36218" />
     <text

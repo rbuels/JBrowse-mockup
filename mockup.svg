@@ -15,7 +15,7 @@
    height="900"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.1 r9760"
    inkscape:export-filename="/home/ederohanian/1.png"
    inkscape:export-xdpi="90"
    sodipodi:docname="mockup.svg"
@@ -178,16 +178,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.0057803"
-     inkscape:cx="491.72197"
-     inkscape:cy="810.45752"
+     inkscape:zoom="1"
+     inkscape:cx="714.246"
+     inkscape:cy="530.45752"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="841"
+     inkscape:window-width="1680"
+     inkscape:window-height="965"
      inkscape:window-x="0"
-     inkscape:window-y="35"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:snap-global="true"
@@ -576,7 +576,7 @@
       <path
          id="rect3969"
          transform="translate(0,152.36218)"
-         d="m 160,5 0,24.96875 0,5.03125 0,865 5,0 0,-841 1275,0 0,-29 C 1049.5588,30.224453 670.5975,29.790636 280.3125,29.9375 L 260,5 z"
+         d="m 160,5 0,24.96875 0,5.03125 0,865 5,0 0,-841 1275,0 0,-29 C 1049.5588,30.224453 726.5975,29.790636 336.3125,29.9375 L 316,5 z"
          style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccccccc" />
@@ -5400,6 +5400,6 @@
          id="tspan5479-3"
          x="170"
          y="177.36218"
-         style="font-size:18px;font-weight:bold;fill:#333333;fill-opacity:1">Overview</tspan></text>
+         style="font-size:18px;font-weight:bold;fill:#333333;fill-opacity:1">Overview - ctgA</tspan></text>
   </g>
 </svg>

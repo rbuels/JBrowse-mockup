@@ -465,6 +465,11 @@
          inkscape:tile-y0="115.81046" />
     </g>
     <path
+       id="path3576"
+       d="m 433,210.36218 0,65 2,0 198,0 2,0 0,-65 -202,0 z"
+       style="fill:#4284d3;fill-opacity:1;opacity:0.3"
+       inkscape:connector-curvature="0" />
+    <path
        style="fill:#4284d3;fill-opacity:1"
        d="m 165,100 0,22.78125 0,7.21875 0,20 1275,0 0,-27.21875 -836.40625,0 L 582,100 z"
        transform="translate(0,152.36218)"

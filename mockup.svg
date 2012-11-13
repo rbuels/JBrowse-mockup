@@ -179,8 +179,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.0057803"
-     inkscape:cx="558.26043"
-     inkscape:cy="797.14983"
+     inkscape:cx="491.72197"
+     inkscape:cy="810.45752"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -466,9 +466,11 @@
     </g>
     <path
        style="fill:#4284d3;fill-opacity:1"
-       d="M 165 100 L 165 122.78125 L 165 130 L 165 150 L 1440 150 L 1440 122.78125 L 237.59375 122.78125 L 230 100 L 165 100 z "
+       d="m 165,100 0,22.78125 0,7.21875 0,20 1275,0 0,-27.21875 -836.40625,0 L 582,100 z"
        transform="translate(0,152.36218)"
-       id="rect3197" />
+       id="rect3197"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
     <path
        style="fill:#053671;fill-opacity:1;stroke:none"
        d="m 1743.6144,389.37213 -54,0 -80,80 80,80 54,0 -60,-60 140,0 0,-40 -140,0 z"
@@ -574,8 +576,10 @@
       <path
          id="rect3969"
          transform="translate(0,152.36218)"
-         d="M 160 5 L 160 29.96875 L 160 35 L 160 900 L 165 900 L 165 59 L 1440 59 L 1440 30 C 1049.5588 30.224453 658.5975 29.790636 268.3125 29.9375 L 260 5 L 160 5 z "
-         style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+         d="m 160,5 0,24.96875 0,5.03125 0,865 5,0 0,-841 1275,0 0,-29 C 1049.5588,30.224453 670.5975,29.790636 280.3125,29.9375 L 260,5 z"
+         style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccc" />
       <g
          id="g4663">
         <rect
@@ -626,7 +630,7 @@
          style="font-size:22px">0</tspan></text>
     <g
        id="g3223"
-       transform="matrix(0.90400516,0,0,0.90400516,25.39063,16.015321)">
+       transform="matrix(0.90400516,0,0,0.90400516,1.39063,16.015321)">
       <g
          id="g3236">
         <g
@@ -847,7 +851,7 @@
          y="1326.892">2Bp</tspan></text>
     <g
        id="g4715"
-       transform="translate(2,0)">
+       transform="translate(-8,2)">
       <rect
          y="253.96144"
          x="239.562"
@@ -1477,19 +1481,19 @@
     </g>
     <g
        id="g11597"
-       transform="matrix(0.72734862,0,0,0.72734862,172.02521,141.52608)"
-       style="fill:#4d4d4d">
+       transform="matrix(0.76912562,0,0,0.76912562,147.88103,136.52206)"
+       style="fill:#ffffff">
       <g
          transform="matrix(0.94665835,0,0,0.94665835,-157.78203,-18.139802)"
          id="g4711"
-         style="fill:#4d4d4d">
+         style="fill:#ffffff">
         <path
-           style="fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
            d="m 749.42842,183.37156 c -5.66815,0 -10.26307,4.59493 -10.26307,10.26307 0,5.66814 4.59492,10.26307 10.26307,10.26307 5.66814,0 10.26306,-4.59493 10.26306,-10.26307 0,-5.66814 -4.59492,-10.26307 -10.26306,-10.26307 z m 0,2.38617 c 4.36136,0 7.8769,3.51553 7.8769,7.8769 0,4.36137 -3.51554,7.87691 -7.8769,7.87691 -4.36137,0 -7.87691,-3.51554 -7.87691,-7.87691 0,-4.36137 3.51554,-7.8769 7.87691,-7.8769 z"
            id="path4446-2"
            inkscape:connector-curvature="0" />
         <rect
-           style="fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
            id="rect4456-4"
            width="2.7368183"
            height="8.2104549"
@@ -1499,21 +1503,21 @@
         <path
            inkscape:connector-curvature="0"
            id="path4463-2"
-           style="font-size:144px;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible"
+           style="font-size:144px;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible"
            d="m 750.06297,187.5855 0,5.35925 5.35926,0 0,1.63567 -5.35926,0 0,5.35925 -1.61643,0 0,-5.35925 -5.35925,0 0,-1.63567 5.35925,0 0,-5.35925 1.61643,0" />
       </g>
       <g
-         style="fill:#4d4d4d;fill-opacity:1"
+         style="fill:#ffffff;fill-opacity:1"
          id="g4465-7-7"
          transform="matrix(0.12954159,0,0,0.12954159,164.24869,68.351572)">
         <path
-           style="fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
            d="m 1545,520 c -41.4214,0 -75,33.57864 -75,75 0,41.42136 33.5786,75 75,75 41.4214,0 75,-33.57864 75,-75 0,-41.42136 -33.5786,-75 -75,-75 z m 0,17.4375 c 31.8718,0 57.5625,25.69067 57.5625,57.5625 0,31.87183 -25.6907,57.5625 -57.5625,57.5625 -31.8718,0 -57.5625,-25.69067 -57.5625,-57.5625 0,-31.87183 25.6907,-57.5625 57.5625,-57.5625 z"
            transform="translate(0,152.36218)"
            id="path4446-4-9"
            inkscape:connector-curvature="0" />
         <rect
-           style="fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
            id="rect4456-8-8"
            width="20"
            height="60.000004"
@@ -1521,12 +1525,12 @@
            y="1547.896"
            transform="matrix(0.83149337,-0.55553467,0.55553467,0.83149337,0,0)" />
         <g
-           style="font-size:144px;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           style="font-size:144px;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            id="text4458-2-6">
           <path
              sodipodi:nodetypes="cccc"
              d="m 1588.8013,742.32068 0,11.95312 -90.1407,0 0,-11.95312"
-             style="fill:#4d4d4d;fill-opacity:1;marker:none"
+             style="fill:#ffffff;fill-opacity:1;marker:none"
              id="path4463-5-5"
              inkscape:connector-curvature="0" />
         </g>
@@ -1543,7 +1547,7 @@
          height="20.140856"
          width="1.5680333"
          id="rect11273"
-         style="fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
       <use
          height="900"
          width="1440"
@@ -1552,7 +1556,7 @@
          inkscape:tiled-clone-of="#rect11273"
          y="0"
          x="0"
-         style="fill:#4d4d4d" />
+         style="fill:#ffffff" />
       <use
          height="900"
          width="1440"
@@ -1562,7 +1566,7 @@
          inkscape:tiled-clone-of="#rect11273"
          y="0"
          x="0"
-         style="fill:#4d4d4d" />
+         style="fill:#ffffff" />
       <use
          height="900"
          width="1440"
@@ -1572,7 +1576,7 @@
          inkscape:tiled-clone-of="#rect11273"
          y="0"
          x="0"
-         style="fill:#4d4d4d" />
+         style="fill:#ffffff" />
       <use
          height="900"
          width="1440"
@@ -1582,7 +1586,7 @@
          inkscape:tiled-clone-of="#rect11273"
          y="0"
          x="0"
-         style="fill:#4d4d4d" />
+         style="fill:#ffffff" />
       <use
          height="900"
          width="1440"
@@ -1592,7 +1596,7 @@
          inkscape:tiled-clone-of="#rect11273"
          y="0"
          x="0"
-         style="fill:#4d4d4d" />
+         style="fill:#ffffff" />
       <use
          height="900"
          width="1440"
@@ -1602,7 +1606,7 @@
          inkscape:tiled-clone-of="#rect11273"
          y="0"
          x="0"
-         style="fill:#4d4d4d" />
+         style="fill:#ffffff" />
       <use
          height="900"
          width="1440"
@@ -1612,7 +1616,7 @@
          inkscape:tiled-clone-of="#rect11273"
          y="0"
          x="0"
-         style="fill:#4d4d4d" />
+         style="fill:#ffffff" />
       <use
          height="900"
          width="1440"
@@ -1622,7 +1626,7 @@
          inkscape:tiled-clone-of="#rect11273"
          y="0"
          x="0"
-         style="fill:#4d4d4d" />
+         style="fill:#ffffff" />
       <use
          height="900"
          width="1440"
@@ -1632,7 +1636,7 @@
          inkscape:tiled-clone-of="#rect11273"
          y="0"
          x="0"
-         style="fill:#4d4d4d" />
+         style="fill:#ffffff" />
       <use
          height="900"
          width="1440"
@@ -1642,7 +1646,7 @@
          inkscape:tiled-clone-of="#rect11273"
          y="0"
          x="0"
-         style="fill:#4d4d4d" />
+         style="fill:#ffffff" />
       <use
          height="900"
          width="1440"
@@ -1652,7 +1656,7 @@
          inkscape:tiled-clone-of="#rect11273"
          y="0"
          x="0"
-         style="fill:#4d4d4d" />
+         style="fill:#ffffff" />
       <use
          height="900"
          width="1440"
@@ -1662,7 +1666,7 @@
          inkscape:tiled-clone-of="#rect11273"
          y="0"
          x="0"
-         style="fill:#4d4d4d" />
+         style="fill:#ffffff" />
       <use
          height="900"
          width="1440"
@@ -1672,7 +1676,7 @@
          inkscape:tiled-clone-of="#rect11273"
          y="0"
          x="0"
-         style="fill:#4d4d4d" />
+         style="fill:#ffffff" />
       <use
          height="900"
          width="1440"
@@ -1682,7 +1686,7 @@
          inkscape:tiled-clone-of="#rect11273"
          y="0"
          x="0"
-         style="fill:#4d4d4d" />
+         style="fill:#ffffff" />
       <use
          height="900"
          width="1440"
@@ -1692,7 +1696,7 @@
          inkscape:tiled-clone-of="#rect11273"
          y="0"
          x="0"
-         style="fill:#4d4d4d" />
+         style="fill:#ffffff" />
       <use
          height="900"
          width="1440"
@@ -1702,9 +1706,9 @@
          inkscape:tiled-clone-of="#rect11273"
          xlink:href="#rect11273"
          id="use11593"
-         style="fill:#4d4d4d" />
+         style="fill:#ffffff" />
       <use
-         style="opacity:0.68000034;fill:#4d4d4d"
+         style="opacity:0.68000034;fill:#ffffff"
          id="use11595"
          xlink:href="#rect11273"
          inkscape:tiled-clone-of="#rect11273"

@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="301.74463"
-     inkscape:cy="766.6746"
+     inkscape:cx="190.95973"
+     inkscape:cy="704.58119"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1414"
      inkscape:window-height="907"
-     inkscape:window-x="176"
-     inkscape:window-y="57"
+     inkscape:window-x="92"
+     inkscape:window-y="27"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -7089,7 +7089,7 @@ XQCE9AAeIBMxFOl1LgAAAABJRU5ErkJggg==
        width="412"
        height="126"
        x="91"
-       y="342.36218"
+       y="346.36218"
        rx="0"
        ry="0" />
     <text
@@ -7144,7 +7144,7 @@ XQCE9AAeIBMxFOl1LgAAAABJRU5ErkJggg==
     <rect
        ry="0"
        rx="0"
-       y="206.36218"
+       y="203.36218"
        x="91"
        height="137"
        width="412"
@@ -7154,27 +7154,27 @@ XQCE9AAeIBMxFOl1LgAAAABJRU5ErkJggg==
        xml:space="preserve"
        style="font-size:15px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Sans Bold"
        x="97"
-       y="227.29111"
+       y="224.29111"
        id="text2998-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3000-4"
          x="97"
-         y="227.29111">Files and URLs</tspan></text>
+         y="224.29111">Files and URLs</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-       x="181.78432"
-       y="267.48877"
+       x="185.78432"
+       y="264.48877"
        id="text3079"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3081"
-         x="181.78432"
-         y="267.48877"
+         x="185.78432"
+         y="264.48877"
          style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">.../RawReadsNJ3bt2JGIlocal.sorted.bam</tspan></text>
     <image
-       y="250.36218"
+       y="247.36218"
        x="103.70711"
        id="image3093"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAWCAYAAACCAs+RAAAABHNCSVQICAgIfAhkiAAAAw9JREFU
@@ -7201,13 +7201,13 @@ gg==
     <text
        sodipodi:linespacing="125%"
        id="text3096"
-       y="293.48877"
-       x="181.78432"
+       y="290.48877"
+       x="185.78432"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
        xml:space="preserve"><tspan
          style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-         y="293.48877"
-         x="181.78432"
+         y="290.48877"
+         x="185.78432"
          id="tspan3098"
          sodipodi:role="line">.../RawReadsNJ3bt2JGIlocal.sorted.bam.bai</tspan></text>
     <image
@@ -7234,9 +7234,9 @@ gg==
 "
        id="image3100"
        x="103.70711"
-       y="276.36218" />
+       y="273.36218" />
     <image
-       y="253.36218"
+       y="250.36218"
        x="162.20711"
        id="image3110"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAASCAYAAACEnoQPAAAABHNCSVQICAgIfAhkiAAAAMxJREFU
@@ -7270,21 +7270,21 @@ bYQBjAAjpOHtfyw2v/3PRlAjXpvndUWQpnvAAAATyG2gMteaqgAAAABJRU5ErkJggg==
 "
        id="image3155"
        x="162.20711"
-       y="279.36218" />
+       y="276.36218" />
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-       x="180.70711"
-       y="316.36218"
+       x="184.70711"
+       y="313.36218"
        id="text3157"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3159"
-         x="180.70711"
-         y="316.36218"
-         style="font-size:13px;font-weight:normal;-inkscape-font-specification:Bitstream Vera Sans;font-family:Bitstream Vera Sans;font-style:normal;font-stretch:normal;font-variant:normal">http://foo.com/nog.gff3</tspan></text>
+         x="184.70711"
+         y="313.36218"
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">http://foo.com/nog.gff3</tspan></text>
     <image
-       y="302.36218"
+       y="299.36218"
        x="161.70711"
        id="image3169"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAABHNCSVQICAgIfAhkiAAAAQFJREFU
@@ -7297,7 +7297,7 @@ CQNSYCMbUjTjEyMDwyeifILVa0Qn+yEBANNU+QsgpidUAAAAAElFTkSuQmCC
        height="18"
        width="18" />
     <image
-       y="302.36218"
+       y="299.36218"
        x="103.70711"
        id="image3271"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAWCAYAAACCAs+RAAAABHNCSVQICAgIfAhkiAAAAw9JREFU
@@ -7483,7 +7483,7 @@ mDw3yGSgQeQy8/mnvHm8SXosSf+tCKdOm1CvhOB328WF6VFeXL1C/8sIw8+/8G4k8MaLNtu2JR6P
          id="tspan4224"
          sodipodi:role="line">Features</tspan></text>
     <image
-       y="280.36218"
+       y="277.36218"
        x="484"
        id="image4245"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAARdJREFU
@@ -7509,9 +7509,9 @@ AABJRU5ErkJggg==
 "
        id="image4248"
        x="484"
-       y="304.36218" />
+       y="301.36218" />
     <image
-       y="256.36218"
+       y="253.36218"
        x="484"
        id="image4250"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAARdJREFU
@@ -7536,5 +7536,29 @@ AABJRU5ErkJggg==
          x="298.58667"
          y="126.94861"
          style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">http://foo.com/nog.gff3</tspan></text>
+    <rect
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       id="rect4326"
+       width="11"
+       height="5.875"
+       x="291.5"
+       y="340.48718"
+       inkscape:transform-center-y="1.2296511" />
+    <rect
+       inkscape:transform-center-y="1.4389535"
+       y="196.36218"
+       x="187"
+       height="6.875"
+       width="11"
+       id="rect4328"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       id="rect4330"
+       width="11"
+       height="7"
+       x="392.5"
+       y="196.36218"
+       inkscape:transform-center-y="1.4651163" />
   </g>
 </svg>

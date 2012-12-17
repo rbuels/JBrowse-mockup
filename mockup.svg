@@ -346,11 +346,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.71777778"
-     inkscape:cx="478.97833"
-     inkscape:cy="450"
+     inkscape:zoom="1.773962"
+     inkscape:cx="388.88153"
+     inkscape:cy="713.67638"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="841"
@@ -377,7 +377,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -410,7 +410,7 @@
     <path
        id="path3576"
        d="M 433,208.40774 165.75628,258.2687 534,290.69495 1441.5126,284.66518 635,208.40774 z"
-       style="opacity:0.3;fill:#4284d3;fill-opacity:1"
+       style="opacity:1;fill:#a9c6eb;fill-opacity:1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
     <g
@@ -6134,7 +6134,7 @@
        id="path4994"
        inkscape:connector-curvature="0" />
     <rect
-       y="183.13603"
+       y="175.13603"
        x="172.02364"
        height="19.952806"
        width="232.96196"
@@ -6143,18 +6143,18 @@
     <text
        sodipodi:linespacing="125%"
        id="text5674"
-       y="198.93459"
+       y="190.93459"
        x="191.1799"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
          id="tspan5699"
          style="font-size:16px"
-         y="198.93459"
+         y="190.93459"
          x="191.1799"
          sodipodi:role="line">Simulated next-gen reads</tspan></text>
     <path
        inkscape:transform-center-y="1.1798179"
-       transform="matrix(1.1555491,0,0,0.90983968,90.346947,127.91919)"
+       transform="matrix(1.1555491,0,0,0.90983968,90.346947,119.91919)"
        d="m 261.39758,75.681572 -2.24599,-3.890167 -2.24599,-3.890167 4.49198,-1e-6 4.49198,0 -2.24599,3.890168 z"
        inkscape:randomized="0"
        inkscape:rounded="0"
@@ -6179,8 +6179,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="logo"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
        inkscape:connector-curvature="0"
        style="fill:#4284d3;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;marker-start:none;marker-mid:none;marker-end:none"
@@ -6198,8 +6197,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="logo shading"
-     style="opacity:0.5;display:inline;filter:url(#filter5772)"
-     sodipodi:insensitive="true">
+     style="opacity:0.5;display:inline;filter:url(#filter5772)">
     <path
        style="opacity:0.65652173;fill:url(#linearGradient5977);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;marker-start:none;marker-mid:none;marker-end:none;display:inline"
        d="m 28.364408,3.8526786 c -0.904097,0.634573 -1.669741,0.957875 -2.786244,1.4659491 1.360673,0.6740753 2.660885,1.2751401 3.787036,2.1472407 1.576446,-1.1888387 1.459416,-1.5532495 1.442456,-3.6131898 l -2.443248,0 z m -8.875572,4.3132738 c -3.151497,1.2625282 -4.962321,1.9826966 -6.859891,3.0164726 -3.180095,1.73248 -3.604553,3.052123 -3.650779,3.5756 -3.61e-4,0.0042 3.16e-4,0.01009 0,0.01409 0.0017,1.024878 0.233602,1.595277 1.104161,2.485536 8.12e-4,7.52e-4 0.0039,-7.52e-4 0.0047,0 1.219514,-1.176878 3.145521,-2.143078 4.581093,-2.809736 5.674423,-2.631745 7.886017,-3.19177 9.801185,-4.130032 -1.524431,-0.7163087 -3.25091,-1.434784 -4.980466,-2.1519418 z"

@@ -405,14 +405,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.81887559"
-     inkscape:cx="428.77408"
-     inkscape:cy="661.065"
+     inkscape:zoom="1"
+     inkscape:cx="797.56827"
+     inkscape:cy="515.46223"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g9054"
      showgrid="false"
-     inkscape:window-width="1375"
-     inkscape:window-height="876"
+     inkscape:window-width="1615"
+     inkscape:window-height="1026"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -1535,16 +1535,16 @@
         <rect
            style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.01535678;stroke-miterlimit:4;stroke-opacity:0.34509804;stroke-dasharray:none"
            id="rect4903"
-           width="209.34175"
+           width="261.01993"
            height="22.679155"
-           x="1226.3674"
+           x="1174.6964"
            y="427.69547" />
         <rect
            style="fill:#f2f2f2;fill-opacity:1;stroke:none;display:inline;enable-background:new"
            id="rect4542-1"
-           width="22.001677"
+           width="73.432373"
            height="21.648283"
-           x="1413.2146"
+           x="1175.2697"
            y="428.21091" />
         <path
            sodipodi:type="star"
@@ -1561,20 +1561,41 @@
            inkscape:rounded="0"
            inkscape:randomized="0"
            d="m 261.39758,75.681572 -2.24599,-3.890167 -2.24599,-3.890167 4.49198,-1e-6 4.49198,0 -2.24599,3.890168 z"
-           transform="matrix(1.4471343,0,0,1.0599757,1046.438,363.45333)"
+           transform="matrix(1.4471343,0,0,1.0599757,859.92312,363.45333)"
            inkscape:transform-center-y="1.126602" />
         <text
            sodipodi:linespacing="125%"
            id="text4389-8"
            y="444.09341"
-           x="1234.0104"
+           x="1254.0118"
            style="font-size:16.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans"
            xml:space="preserve"><tspan
              style="font-size:16.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;font-family:Open Sans;-inkscape-font-specification:Open Sans"
              id="tspan4391-2"
              y="444.09341"
-             x="1234.0104"
-             sodipodi:role="line">Find tracks</tspan></text>
+             x="1254.0118"
+             sodipodi:role="line">Search tracks</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:16.24570847px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           x="1197.7793"
+           y="437.40088"
+           id="text8094"
+           sodipodi:linespacing="125%"
+           transform="scale(0.98495065,1.0152793)"><tspan
+             sodipodi:role="line"
+             id="tspan8096"
+             x="1197.7793"
+             y="437.40088"
+             style="font-weight:bold;fill:#4d4d4d">Tracks</tspan></text>
+        <rect
+           style="opacity:0.71193417;fill:#4d4d4d;fill-opacity:1;stroke:none"
+           id="rect8098"
+           width="1"
+           height="21.341183"
+           x="1093.375"
+           y="287.93054"
+           transform="matrix(1.0000763,0,0,1.0308707,155.11863,131.26288)" />
       </g>
       <g
          style="fill:none;stroke:#4d4d4d;stroke-width:1.1990658;stroke-miterlimit:4;stroke-dasharray:none"

@@ -51,9 +51,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.79615776"
-     inkscape:cx="656.09915"
-     inkscape:cy="370.83865"
+     inkscape:zoom="1.2226529"
+     inkscape:cx="328.44665"
+     inkscape:cy="397.66656"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -64,8 +64,8 @@
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:snap-global="true"
-     inkscape:snap-grids="false"
+     inkscape:snap-global="false"
+     inkscape:snap-grids="true"
      inkscape:snap-to-guides="false"
      inkscape:snap-page="true"
      inkscape:snap-bbox="true"
@@ -73,7 +73,8 @@
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:bbox-paths="true"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox-midpoints="false">
     <inkscape:grid
        type="xygrid"
        id="grid2986" />
@@ -327,10 +328,9 @@
        style="display:inline;enable-background:new"
        transform="matrix(1.0007789,0,0,1,-27.58556,-10.99999)" />
     <g
-       id="g8185"
-       transform="translate(0,-17)">
+       id="g15844">
       <rect
-         y="373.07205"
+         y="356.07205"
          x="0"
          height="28.345486"
          width="228.49106"
@@ -342,22 +342,22 @@
          width="217.72984"
          height="26.269077"
          x="0"
-         y="374.11026" />
+         y="357.11026" />
       <text
          sodipodi:linespacing="125%"
          id="text6362"
-         y="394.75552"
+         y="377.75552"
          x="29.489906"
          style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          xml:space="preserve"><tspan
            style="font-size:18px;font-weight:bold"
-           y="394.75552"
+           y="377.75552"
            x="29.489906"
            id="tspan6364"
            sodipodi:role="line">My Tracks</tspan></text>
       <path
          inkscape:transform-center-y="1.0928672"
-         transform="matrix(1.4470239,0,0,1.0282334,-361.50079,314.11748)"
+         transform="matrix(1.4470239,0,0,1.0282334,-361.50079,297.11748)"
          d="m 261.39758,75.681572 -2.24599,-3.890167 -2.24599,-3.890167 4.49198,-1e-6 4.49198,0 -2.24599,3.890168 z"
          inkscape:randomized="0"
          inkscape:rounded="0"
@@ -374,89 +374,83 @@
          sodipodi:type="star" />
     </g>
     <g
-       id="g7487"
-       transform="matrix(0.83742247,0,0,0.8075,0,118.14912)">
+       id="g15832">
       <rect
          style="fill:#808080"
          id="rect7489"
-         width="260"
-         height="35.102768"
+         width="217.72984"
+         height="28.345486"
          x="0"
-         y="387.69342" />
+         y="431.21155" />
       <rect
-         y="388.97913"
+         y="432.24976"
          x="0"
-         height="32.531364"
-         width="260"
+         height="26.269077"
+         width="217.72984"
          id="rect7491"
          style="fill:#b3b3b3" />
-    </g>
-    <text
-       sodipodi:linespacing="125%"
-       id="text7493"
-       y="452.89502"
-       x="29.489906"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       xml:space="preserve"><tspan
-         style="font-size:18px;font-weight:bold"
-         y="452.89502"
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          x="29.489906"
-         sodipodi:role="line"
-         id="tspan7499">Category</tspan></text>
-    <path
-       inkscape:transform-center-y="1.0928672"
-       transform="matrix(1.4470239,0,0,1.0282334,-361.50079,372.25698)"
-       d="m 261.39758,75.681572 -2.24599,-3.890167 -2.24599,-3.890167 4.49198,-1e-6 4.49198,0 -2.24599,3.890168 z"
-       inkscape:randomized="0"
-       inkscape:rounded="0"
-       inkscape:flatsided="false"
-       sodipodi:arg2="2.6179939"
-       sodipodi:arg1="1.5707963"
-       sodipodi:r2="2.5934448"
-       sodipodi:r1="5.1868896"
-       sodipodi:cy="70.494682"
-       sodipodi:cx="261.39758"
-       sodipodi:sides="3"
-       id="path7497"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
-       sodipodi:type="star" />
+         y="452.89502"
+         id="text7493"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan7499"
+           sodipodi:role="line"
+           x="29.489906"
+           y="452.89502"
+           style="font-size:18px;font-weight:bold">Category</tspan></text>
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
+         id="path7497"
+         sodipodi:sides="3"
+         sodipodi:cx="261.39758"
+         sodipodi:cy="70.494682"
+         sodipodi:r1="5.1868896"
+         sodipodi:r2="2.5934448"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.6179939"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 261.39758,75.681572 -2.24599,-3.890167 -2.24599,-3.890167 4.49198,-1e-6 4.49198,0 -2.24599,3.890168 z"
+         transform="matrix(1.4470239,0,0,1.0282334,-361.50079,372.25698)"
+         inkscape:transform-center-y="1.0928672" />
+    </g>
     <g
-       id="g7894"
-       transform="translate(0,-17)">
-      <g
-         id="g7503"
-         transform="matrix(0.83742247,0,0,0.8075,0,450.71152)">
-        <rect
-           style="fill:#808080"
-           id="rect7505"
-           width="260"
-           height="35.102768"
-           x="0"
-           y="387.69342" />
-        <rect
-           y="388.97913"
-           x="0"
-           height="32.531364"
-           width="260"
-           id="rect7507"
-           style="fill:#b3b3b3" />
-      </g>
+       id="g15893">
+      <rect
+         y="746.77399"
+         x="0"
+         height="28.345486"
+         width="217.72984"
+         id="rect7505"
+         style="fill:#808080" />
+      <rect
+         style="fill:#b3b3b3"
+         id="rect7507"
+         width="217.72984"
+         height="26.269077"
+         x="0"
+         y="747.81213" />
       <text
          sodipodi:linespacing="125%"
          id="text7509"
-         y="785.45746"
+         y="768.45746"
          x="29.489904"
          style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          xml:space="preserve"><tspan
            style="font-size:18px;font-weight:bold"
-           y="785.45746"
+           y="768.45746"
            x="29.489904"
            sodipodi:role="line"
            id="tspan7511">Conditions</tspan></text>
       <path
          inkscape:transform-center-x="-1.0928672"
          inkscape:transform-center-y="1.7177638e-05"
-         transform="matrix(0,-1.4470239,1.0282334,0,-55.977694,1155.7934)"
+         transform="matrix(0,-1.4470239,1.0282334,0,-55.977694,1138.7934)"
          d="m 261.39758,75.681572 -2.24599,-3.890167 -2.24599,-3.890167 4.49198,-1e-6 4.49198,0 -2.24599,3.890168 z"
          inkscape:randomized="0"
          inkscape:rounded="0"
@@ -473,41 +467,32 @@
          sodipodi:type="star" />
     </g>
     <g
-       id="g7902"
-       transform="translate(0,-17)">
-      <g
-         transform="matrix(0.83742247,0,0,1,0,208.90914)"
-         id="g7604">
-        <g
-           id="g7515"
-           transform="matrix(1,0,0,0.8075,0,269.10966)">
-          <rect
-             style="fill:#808080"
-             id="rect7517"
-             width="260"
-             height="35.102768"
-             x="0"
-             y="387.69342" />
-          <rect
-             y="388.97913"
-             x="0"
-             height="32.531364"
-             width="260"
-             id="rect7519"
-             style="fill:#b3b3b3" />
-        </g>
-      </g>
+       id="g15912">
+      <rect
+         style="fill:#808080"
+         id="rect7517"
+         width="217.72984"
+         height="28.345486"
+         x="0"
+         y="774.08124" />
+      <rect
+         y="775.11945"
+         x="0"
+         height="26.269077"
+         width="217.72984"
+         id="rect7519"
+         style="fill:#b3b3b3" />
       <text
          xml:space="preserve"
          style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          x="29.489904"
-         y="812.76477"
+         y="795.76477"
          id="text7521"
          sodipodi:linespacing="125%"><tspan
            id="tspan7523"
            sodipodi:role="line"
            x="29.489904"
-           y="812.76477"
+           y="795.76477"
            style="font-size:18px;font-weight:bold">Factor</tspan></text>
       <path
          inkscape:transform-center-x="-1.0928672"
@@ -525,14 +510,13 @@
          inkscape:rounded="0"
          inkscape:randomized="0"
          d="m 261.39758,75.681572 -2.24599,-3.890167 -2.24599,-3.890167 4.49198,-1e-6 4.49198,0 -2.24599,3.890168 z"
-         transform="matrix(0,-1.4470239,1.0282334,0,-55.977694,1183.1007)"
+         transform="matrix(0,-1.4470239,1.0282334,0,-55.977694,1166.1007)"
          inkscape:transform-center-y="1.7177638e-05" />
     </g>
     <g
-       id="g7911"
-       transform="translate(0,-17)">
+       id="g15925">
       <rect
-         y="818.38855"
+         y="801.38855"
          x="-1.2143555e-06"
          height="28.345486"
          width="217.72984"
@@ -544,27 +528,27 @@
          width="217.72984"
          height="26.269077"
          x="-1.2143555e-06"
-         y="819.42676" />
+         y="802.42676" />
       <text
          sodipodi:linespacing="125%"
          id="text7533"
-         y="840.07208"
+         y="823.07208"
          x="29.489904"
          style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          xml:space="preserve"><tspan
            style="font-size:18px;font-weight:bold"
-           y="840.07208"
+           y="823.07208"
            x="29.489904"
            sodipodi:role="line"
            id="tspan7535">Organism</tspan><tspan
            id="tspan7539"
            style="font-size:22px"
-           y="862.57208"
+           y="845.57208"
            x="29.489904"
            sodipodi:role="line" /></text>
       <path
          inkscape:transform-center-y="1.0928672"
-         transform="matrix(1.4470239,0,0,1.0282334,-361.50079,759.43394)"
+         transform="matrix(1.4470239,0,0,1.0282334,-361.50079,742.43394)"
          d="m 261.39758,75.681572 -2.24599,-3.890167 -2.24599,-3.890167 4.49198,-1e-6 4.49198,0 -2.24599,3.890168 z"
          inkscape:randomized="0"
          inkscape:rounded="0"
@@ -847,62 +831,57 @@
        y="369.58969"
        ry="3.2537994" />
     <g
-       transform="translate(-7.4453128e-7,254.32593)"
-       id="g8206">
-      <g
-         id="g8226">
-        <g
-           id="g8208"
-           transform="matrix(0.83742247,0,0,0.8075,0,450.71152)">
-          <rect
-             style="fill:#808080"
-             id="rect8210"
-             width="260"
-             height="35.102768"
-             x="0"
-             y="387.69342" />
-          <rect
-             y="388.97913"
-             x="0"
-             height="32.531364"
-             width="260"
-             id="rect8212"
-             style="fill:#b3b3b3" />
-        </g>
-        <text
-           sodipodi:linespacing="125%"
-           id="text8214"
-           y="785.45746"
-           x="29.489904"
-           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-           xml:space="preserve"><tspan
-             style="font-size:18px;font-weight:bold"
-             y="785.45746"
-             x="29.489904"
-             sodipodi:role="line"
-             id="tspan8216">P.I.</tspan></text>
-        <path
-           inkscape:transform-center-x="-1.0928672"
-           inkscape:transform-center-y="1.7177638e-05"
-           transform="matrix(0,-1.4470239,1.0282334,0,-55.977694,1155.7934)"
-           d="m 261.39758,75.681572 -2.24599,-3.890167 -2.24599,-3.890167 4.49198,-1e-6 4.49198,0 -2.24599,3.890168 z"
-           inkscape:randomized="0"
-           inkscape:rounded="0"
-           inkscape:flatsided="false"
-           sodipodi:arg2="2.6179939"
-           sodipodi:arg1="1.5707963"
-           sodipodi:r2="2.5934448"
-           sodipodi:r1="5.1868896"
-           sodipodi:cy="70.494682"
-           sodipodi:cx="261.39758"
-           sodipodi:sides="3"
-           id="path8218"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
-           sodipodi:type="star" />
-      </g>
+       id="g15950">
       <rect
-         y="791.08124"
-         x="0"
+         style="fill:#808080"
+         id="rect8210"
+         width="217.72984"
+         height="28.345486"
+         x="-7.4453129e-07"
+         y="1018.0999" />
+      <rect
+         y="1019.1381"
+         x="-7.4453129e-07"
+         height="26.269077"
+         width="217.72984"
+         id="rect8212"
+         style="fill:#b3b3b3" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         x="29.489904"
+         y="1039.7834"
+         id="text8214"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan8216"
+           sodipodi:role="line"
+           x="29.489904"
+           y="1039.7834"
+           style="font-size:18px;font-weight:bold">P.I.</tspan></text>
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
+         id="path8218"
+         sodipodi:sides="3"
+         sodipodi:cx="261.39758"
+         sodipodi:cy="70.494682"
+         sodipodi:r1="5.1868896"
+         sodipodi:r2="2.5934448"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.6179939"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 261.39758,75.681572 -2.24599,-3.890167 -2.24599,-3.890167 4.49198,-1e-6 4.49198,0 -2.24599,3.890168 z"
+         transform="matrix(0,-1.4470239,1.0282334,0,-55.977695,1410.1193)"
+         inkscape:transform-center-y="1.7177638e-05"
+         inkscape:transform-center-x="-1.0928672" />
+    </g>
+    <g
+       id="g15957">
+      <rect
+         y="1045.4072"
+         x="-7.4453129e-07"
          height="6.9550061"
          width="217.72984"
          id="rect8238"
@@ -912,8 +891,356 @@
          id="rect8240"
          width="217.72984"
          height="5.9167981"
-         x="0"
-         y="792.11945" />
+         x="-7.4453129e-07"
+         y="1046.4454" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="253.99538"
+       y="345.25549"
+       id="text8256"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8258"
+         x="253.99538"
+         y="345.25549"
+         style="font-size:18px">Contains Text:</tspan></text>
+    <rect
+       style="fill:#ffffff"
+       id="rect8260"
+       width="331.19632"
+       height="24.413067"
+       x="381.92029"
+       y="327.42572" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text14979"
+       y="345.25549"
+       x="1204.349"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         style="font-size:18px"
+         y="345.25549"
+         x="1204.349"
+         id="tspan14981"
+         sodipodi:role="line">Sort By:</tspan></text>
+    <rect
+       y="327.42572"
+       x="1275.8751"
+       height="24.413067"
+       width="77.613091"
+       id="rect14983"
+       style="fill:#ffffff" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="1284.349"
+       y="345.25549"
+       id="text14985"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan14987"
+         x="1284.349"
+         y="345.25549"
+         style="font-size:18px">None</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
+       id="path4544-1"
+       sodipodi:sides="3"
+       sodipodi:cx="261.39758"
+       sodipodi:cy="70.494682"
+       sodipodi:r1="5.1868896"
+       sodipodi:r2="2.5934448"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.6179939"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 261.39758,75.681572 -2.24599,-3.890167 -2.24599,-3.890167 4.49198,-1e-6 4.49198,0 -2.24599,3.890168 z"
+       transform="matrix(1.447024,0,0,1.0282334,962.52407,265.89366)"
+       inkscape:transform-center-y="1.126602" />
+    <rect
+       style="fill:#0e53a7;fill-opacity:1;stroke:none"
+       id="rect15969"
+       width="240"
+       height="512.73523"
+       x="280"
+       y="392.36218" />
+    <rect
+       style="fill:#0e53a7;fill-opacity:1;stroke:none"
+       id="rect15969-5"
+       width="240"
+       height="512.73523"
+       x="540"
+       y="392.36218" />
+    <rect
+       style="fill:#0e53a7;fill-opacity:1;stroke:none"
+       id="rect15969-2"
+       width="240"
+       height="512.73523"
+       x="800"
+       y="392.36218" />
+    <rect
+       style="fill:#0e53a7;fill-opacity:1;stroke:none"
+       id="rect15969-8"
+       width="240"
+       height="512.73523"
+       x="1060"
+       y="392.36218" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot16003"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       transform="translate(0,284.36218)"><flowRegion
+         id="flowRegion16005"><rect
+           id="rect16007"
+           width="220.77821"
+           height="360.2171"
+           x="287.91547"
+           y="118.57635"
+           style="font-size:16px;fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara16009" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot16011"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Open Sans;font-style:normal;font-weight:normal;font-size:32px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Open Sans;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion16013"><rect
+           id="rect16015"
+           width="213.03162"
+           height="392.49463"
+           x="295.66205"
+           y="134.06955" /></flowRegion><flowPara
+         id="flowPara16017"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot16019"
+       style="fill:#ffffff;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Open Sans;font-style:normal;font-weight:normal;font-size:16px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Open Sans;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion16021"><rect
+           id="rect16023"
+           width="220.77821"
+           height="420.89883"
+           x="289.20654"
+           y="117.28525"
+           style="font-size:16px;fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara16025"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot16055"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Open Sans;font-style:normal;font-weight:normal;font-size:16px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Open Sans;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion16057"><rect
+           id="rect16059"
+           width="229.17038"
+           height="369.90036"
+           x="285.33325"
+           y="114.70304"
+           style="font-size:16px" /></flowRegion><flowPara
+         id="flowPara16061"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot16071"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       transform="translate(3.0870539,284.36218)"><flowRegion
+         id="flowRegion16073"><rect
+           id="rect16075"
+           width="228.1008"
+           height="220.01405"
+           x="284.04214"
+           y="112.76639"
+           style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara16077"><flowSpan
+   style="font-weight:bold;word-spacing:0px"
+   id="flowSpan16109">Organism</flowSpan> : C. Elegans</flowPara><flowPara
+         id="flowPara16079"><flowSpan
+   style="font-weight:bold;word-spacing:0px"
+   id="flowSpan16107">Technique</flowSpan>: Race</flowPara><flowPara
+         id="flowPara16081"><flowSpan
+   style="font-weight:bold;word-spacing:0px"
+   id="flowSpan16105">Target</flowSpan>: mRNA</flowPara><flowPara
+         id="flowPara16083"><flowSpan
+   style="font-weight:bold;word-spacing:0px"
+   id="flowSpan16103">Factor</flowSpan>: 3-prime-UTR</flowPara><flowPara
+         id="flowPara16093"><flowSpan
+   style="font-weight:bold;word-spacing:0px"
+   id="flowSpan16101">Conditions</flowSpan>: L1 8 hr post-L1 stage larvae</flowPara><flowPara
+         id="flowPara16095"><flowSpan
+   style="font-weight:bold;word-spacing:0px"
+   id="flowSpan16097">Dataset</flowSpan>: 3-prime-UTR;N2;L1 8 hr post-L1 stage larvae;20 degree celcius;RACE</flowPara><flowPara
+         id="flowPara16114"><flowSpan
+   style="font-weight:bold;word-spacing:0px"
+   id="flowSpan16124">P.I. </flowSpan>: Piano, F.</flowPara><flowPara
+         id="flowPara16118"><flowSpan
+   style="font-weight:bold;word-spacing:0px"
+   id="flowSpan16120">Submission ID</flowSpan>: 2327</flowPara><flowPara
+         id="flowPara16116" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="320.14853"
+       y="399.60098"
+       id="text16142"
+       sodipodi:linespacing="125%"
+       transform="translate(0,284.36218)"><tspan
+         sodipodi:role="line"
+         id="tspan16144"
+         x="320.14853"
+         y="399.60098" /></text>
+    <g
+       id="g16212">
+      <rect
+         y="626.36218"
+         x="290"
+         height="69.999962"
+         width="220"
+         id="rect16140"
+         style="fill:#6899d3;fill-opacity:1;stroke:none" />
+      <g
+         id="g16208">
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke:none"
+           id="rect16132"
+           width="16.30084"
+           height="16.30084"
+           x="293.69916"
+           y="630.06134" />
+        <rect
+           y="632.09894"
+           x="295.73676"
+           height="12.22563"
+           width="12.22563"
+           id="rect16134"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+      <flowRoot
+         transform="translate(4.40625,247.3523)"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         id="flowRoot16146"
+         xml:space="preserve"><flowRegion
+           id="flowRegion16148"><rect
+             style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+             y="383.30014"
+             x="315.58429"
+             height="58.030987"
+             width="186.48166"
+             id="rect16150" /></flowRegion><flowPara
+           id="flowPara16172">worm/UTRome_V2_3_</flowPara><flowPara
+           id="flowPara16176">three_prime_UTR_6102_2745</flowPara></flowRoot>    </g>
+    <g
+       id="g16223">
+      <rect
+         style="fill:#6899d3;fill-opacity:1;stroke:none"
+         id="rect16178"
+         width="220"
+         height="69.999962"
+         x="290"
+         y="706.36218" />
+      <g
+         id="g16204">
+        <rect
+           y="710.06134"
+           x="293.69916"
+           height="16.30084"
+           width="16.30084"
+           id="rect16182"
+           style="fill:#666666;fill-opacity:1;stroke:none" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="rect16184"
+           width="12.22563"
+           height="12.22563"
+           x="295.73676"
+           y="712.09894" />
+      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot16186"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         transform="translate(4.40625,327.3523)"><flowRegion
+           id="flowRegion16188"><rect
+             id="rect16190"
+             width="186.48166"
+             height="58.030987"
+             x="315.58429"
+             y="383.30014"
+             style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
+           id="flowPara16192">worm/UTRome_V2_3_</flowPara><flowPara
+           id="flowPara16194">polyA_signal_sequence_6102_2745</flowPara></flowRoot>    </g>
+    <g
+       id="g16234"
+       transform="translate(0,80)">
+      <rect
+         y="706.36218"
+         x="290"
+         height="48.93224"
+         width="220"
+         id="rect16236"
+         style="fill:#6899d3;fill-opacity:1;stroke:none" />
+      <g
+         id="g16238">
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke:none"
+           id="rect16240"
+           width="16.30084"
+           height="16.30084"
+           x="293.69916"
+           y="710.06134" />
+        <rect
+           y="712.09894"
+           x="295.73676"
+           height="12.22563"
+           width="12.22563"
+           id="rect16242"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+      <flowRoot
+         transform="translate(4.40625,327.3523)"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         id="flowRoot16244"
+         xml:space="preserve"><flowRegion
+           id="flowRegion16246"><rect
+             style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+             y="383.30014"
+             x="315.58429"
+             height="39.869171"
+             width="188.66107"
+             id="rect16248" /></flowRegion><flowPara
+           id="flowPara16252">worm/L1.ws220.sam.sorted</flowPara></flowRoot>    </g>
+    <g
+       transform="translate(0,140)"
+       id="g16256">
+      <rect
+         style="fill:#6899d3;fill-opacity:1;stroke:none"
+         id="rect16258"
+         width="220"
+         height="48.93224"
+         x="290"
+         y="706.36218" />
+      <g
+         id="g16260">
+        <rect
+           y="710.06134"
+           x="293.69916"
+           height="16.30084"
+           width="16.30084"
+           id="rect16262"
+           style="fill:#666666;fill-opacity:1;stroke:none" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="rect16264"
+           width="12.22563"
+           height="12.22563"
+           x="295.73676"
+           y="712.09894" />
+      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot16266"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         transform="translate(4.40625,327.3523)"><flowRegion
+           id="flowRegion16268"><rect
+             id="rect16270"
+             width="188.66107"
+             height="39.869171"
+             x="315.58429"
+             y="383.30014"
+             style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRegion><flowPara
+           id="flowPara16272">worm/UTRome_V2_3_</flowPara><flowPara
+           id="flowPara16274">polyA_site_6102_2745</flowPara></flowRoot>    </g>
   </g>
 </svg>

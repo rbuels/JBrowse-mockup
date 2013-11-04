@@ -64,9 +64,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.2773771"
-     inkscape:cx="394.79146"
-     inkscape:cy="621.04715"
+     inkscape:zoom="2.9691477"
+     inkscape:cx="395.53346"
+     inkscape:cy="535.41724"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -850,19 +850,19 @@
     <rect
        y="416.74298"
        x="269.32361"
-       height="176.30302"
+       height="142.62332"
        width="239.87015"
        id="rect19728"
        style="fill:#ececec;fill-opacity:1;stroke:none" />
     <rect
        style="fill:#cccccc;fill-opacity:1;stroke:none"
-       id="rect5628"
-       width="72.75399"
-       height="16.30084"
-       x="277.16672"
-       y="421.93164" />
+       id="rect5638"
+       width="239.87015"
+       height="33.63858"
+       x="269.32361"
+       y="416.74298" />
     <flowRoot
-       transform="translate(-11.770283,285.45392)"
+       transform="translate(-8.443877,261.45392)"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot19730"
        xml:space="preserve"><flowRegion
@@ -870,16 +870,16 @@
            style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000"
            y="139.95587"
            x="284.92627"
-           height="160.64151"
-           width="232.88765"
+           height="162.9991"
+           width="227.49887"
            id="rect19734"
            ry="0" /></flowRegion><flowPara
          style="font-size:13px;fill:#000000"
          id="flowPara19736" /><flowPara
-         style="font-size:13px;font-weight:bold;text-align:center;word-spacing:0px;text-anchor:middle;fill:#000000"
-         id="flowPara5618">worm/UTRome_V2_3_three_prime</flowPara><flowPara
-         style="font-size:13px;font-weight:bold;text-align:center;word-spacing:0px;text-anchor:middle;fill:#000000"
-         id="flowPara5622">_UTR_6102_2745</flowPara><flowPara
+         style="font-size:13px;font-weight:bold;text-align:start;word-spacing:0px;text-anchor:start;fill:#000000"
+         id="flowPara5618">worm/UTRome_V2_3_three_</flowPara><flowPara
+         style="font-size:13px;font-weight:bold;text-align:start;word-spacing:0px;text-anchor:start;fill:#000000"
+         id="flowPara5622">prime_UTR_6102_2745</flowPara><flowPara
          style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d"
          id="flowPara4398">Target</flowPara><flowPara
          id="flowPara5591"
@@ -1704,17 +1704,5 @@
        id="path5566"
        d="m 1111.7736,386.51621 -1.8711,-1.47577 c -0.058,-0.0477 -0.1296,-0.0818 -0.2114,-0.0818 -0.082,0 -0.1567,0.0341 -0.2147,0.0852 l -6.8062,8.74554 c 0,0 -2.6755,-2.57322 -2.7505,-2.6482 -0.075,-0.075 -0.1738,-0.20109 -0.3237,-0.20109 -0.15,0 -0.2182,0.10566 -0.2966,0.18405 -0.058,0.0614 -1.0122,1.06337 -1.4826,1.56097 -0.027,0.0307 -0.044,0.0477 -0.068,0.0716 -0.041,0.058 -0.068,0.1227 -0.068,0.19427 0,0.075 0.027,0.13633 0.068,0.19428 l 0.095,0.0886 c 0,0 4.7477,4.56022 4.8261,4.63861 0.078,0.0784 0.1738,0.17723 0.3135,0.17723 0.1364,0 0.2488,-0.14656 0.3136,-0.21131 l 8.4899,-10.90637 c 0.041,-0.058 0.068,-0.12269 0.068,-0.19767 0,-0.0852 -0.034,-0.15679 -0.082,-0.21813 z"
        inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans"
-       x="281.48145"
-       y="434.46011"
-       id="text5624"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5626"
-         x="281.48145"
-         y="434.46011"
-         style="font-size:11px;font-style:italic;font-weight:normal;fill:#4d4d4d">About track</tspan></text>
   </g>
 </svg>

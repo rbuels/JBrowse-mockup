@@ -64,16 +64,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.9691477"
-     inkscape:cx="395.53346"
-     inkscape:cy="535.41724"
+     inkscape:zoom="1.0497522"
+     inkscape:cx="721.69558"
+     inkscape:cy="391.30012"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showborder="true"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1375"
-     inkscape:window-height="876"
+     inkscape:window-width="1615"
+     inkscape:window-height="1026"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -850,7 +850,7 @@
     <rect
        y="416.74298"
        x="269.32361"
-       height="142.62332"
+       height="157.86502"
        width="239.87015"
        id="rect19728"
        style="fill:#ececec;fill-opacity:1;stroke:none" />
@@ -858,11 +858,11 @@
        style="fill:#cccccc;fill-opacity:1;stroke:none"
        id="rect5638"
        width="239.87015"
-       height="33.63858"
+       height="37.449005"
        x="269.32361"
        y="416.74298" />
     <flowRoot
-       transform="translate(-8.443877,261.45392)"
+       transform="translate(-10.443877,283.45392)"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot19730"
        xml:space="preserve"><flowRegion
@@ -877,9 +877,7 @@
          style="font-size:13px;fill:#000000"
          id="flowPara19736" /><flowPara
          style="font-size:13px;font-weight:bold;text-align:start;word-spacing:0px;text-anchor:start;fill:#000000"
-         id="flowPara5618">worm/UTRome_V2_3_three_</flowPara><flowPara
-         style="font-size:13px;font-weight:bold;text-align:start;word-spacing:0px;text-anchor:start;fill:#000000"
-         id="flowPara5622">prime_UTR_6102_2745</flowPara><flowPara
+         id="flowPara5622" /><flowPara
          style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d"
          id="flowPara4398">Target</flowPara><flowPara
          id="flowPara5591"
@@ -894,7 +892,7 @@
          style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">L1 8 hr post-L1 stage larvae; L1 stage larvae;20 degree celcius;RACE</flowPara><flowPara
          style="font-size:13px;fill:#000000"
          id="flowPara19766" /></flowRoot>    <g
-       transform="translate(193.23592,-208.1297)"
+       transform="translate(-15.906263,-204.31928)"
        id="g19770">
       <rect
          style="fill:#666666;fill-opacity:1;stroke:none"
@@ -1265,7 +1263,7 @@
            height="152.26115"
            x="538.35193"
            y="174.18153" /></flowRegion><flowPara
-         id="flowPara4356"></flowPara></flowRoot>    <g
+         id="flowPara4356" /></flowRoot>    <g
        id="g5568">
       <rect
          y="416.74298"
@@ -1510,7 +1508,7 @@
            height="169.68723"
            x="1098.5596"
            y="78.232422" /></flowRegion><flowPara
-         id="flowPara5449"></flowPara></flowRoot>    <flowRoot
+         id="flowPara5449" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5451"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:13px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
@@ -1521,7 +1519,7 @@
            x="1116.1893"
            y="76.028694"
            style="font-size:13px" /></flowRegion><flowPara
-         id="flowPara5457"></flowPara></flowRoot>    <flowRoot
+         id="flowPara5457" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5467"
        style="font-size:14px;font-style:normal;font-weight:normal;line-height:141.99999571%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1704,5 +1702,21 @@
        id="path5566"
        d="m 1111.7736,386.51621 -1.8711,-1.47577 c -0.058,-0.0477 -0.1296,-0.0818 -0.2114,-0.0818 -0.082,0 -0.1567,0.0341 -0.2147,0.0852 l -6.8062,8.74554 c 0,0 -2.6755,-2.57322 -2.7505,-2.6482 -0.075,-0.075 -0.1738,-0.20109 -0.3237,-0.20109 -0.15,0 -0.2182,0.10566 -0.2966,0.18405 -0.058,0.0614 -1.0122,1.06337 -1.4826,1.56097 -0.027,0.0307 -0.044,0.0477 -0.068,0.0716 -0.041,0.058 -0.068,0.1227 -0.068,0.19427 0,0.075 0.027,0.13633 0.068,0.19428 l 0.095,0.0886 c 0,0 4.7477,4.56022 4.8261,4.63861 0.078,0.0784 0.1738,0.17723 0.3135,0.17723 0.1364,0 0.2488,-0.14656 0.3136,-0.21131 l 8.4899,-10.90637 c 0.041,-0.058 0.068,-0.12269 0.068,-0.19767 0,-0.0852 -0.034,-0.15679 -0.082,-0.21813 z"
        inkscape:connector-curvature="0" />
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3341"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       transform="translate(21.461335,278.40653)"><flowRegion
+         id="flowRegion3343"><rect
+           ry="0"
+           id="rect3345"
+           width="227.49887"
+           height="162.9991"
+           x="284.92627"
+           y="139.95587"
+           style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000" /></flowRegion><flowPara
+         id="flowPara3363"
+         style="font-size:13px;font-weight:bold;fill:#000000">worm/UTRome_V2_3_three_</flowPara><flowPara
+         style="font-size:13px;font-weight:bold;fill:#000000"
+         id="flowPara3409">prime_UTR_6102_2745</flowPara></flowRoot>  </g>
 </svg>

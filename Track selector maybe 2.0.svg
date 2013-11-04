@@ -64,9 +64,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.3014601"
-     inkscape:cx="1117.893"
-     inkscape:cy="587.17455"
+     inkscape:zoom="2.2866168"
+     inkscape:cx="484.04684"
+     inkscape:cy="699.08358"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -776,25 +776,25 @@
          style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
          sodipodi:type="star" />
     </g>
+    <rect
+       y="327.42572"
+       x="241.92029"
+       height="24.413067"
+       width="369.68112"
+       id="rect19706"
+       style="fill:#ffffff" />
     <text
        sodipodi:linespacing="125%"
        id="text19702"
-       y="345.25549"
-       x="253.99538"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       y="346.38086"
+       x="245.55803"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
-         style="font-size:18px"
-         y="345.25549"
-         x="253.99538"
+         style="font-size:18px;font-style:italic;fill:#808080"
+         y="346.38086"
+         x="245.55803"
          id="tspan19704"
-         sodipodi:role="line">Contains Text:</tspan></text>
-    <rect
-       y="327.42572"
-       x="381.92029"
-       height="24.413067"
-       width="331.19632"
-       id="rect19706"
-       style="fill:#ffffff" />
+         sodipodi:role="line">Contains Text</tspan></text>
     <g
        transform="translate(8,0)"
        id="g19708">

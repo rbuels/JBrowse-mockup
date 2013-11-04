@@ -64,20 +64,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.72783045"
-     inkscape:cx="663.32149"
-     inkscape:cy="316.38147"
+     inkscape:zoom="1.4556609"
+     inkscape:cx="789.17845"
+     inkscape:cy="374.47665"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g12323"
      showgrid="false"
      showborder="true"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1375"
-     inkscape:window-height="876"
+     inkscape:window-width="1615"
+     inkscape:window-height="1026"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:snap-grids="true"
      inkscape:snap-to-guides="true"
      inkscape:snap-page="true"
@@ -104,7 +104,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -284,7 +284,7 @@
          xml:space="preserve"
          id="flowRoot7441"
          style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         transform="translate(257.46134,274.40653)"><flowRegion
+         transform="matrix(0.83871133,0,0,0.83871133,300.81295,299.11784)"><flowRegion
            id="flowRegion7443"><rect
              ry="0"
              id="rect7445"
@@ -296,7 +296,17 @@
            style="font-size:13px;font-weight:bold;fill:#000000"
            id="flowPara7590">worm/UTRome_V2_3_polyA_</flowPara><flowPara
            style="font-size:13px;font-weight:bold;fill:#000000"
-           id="flowPara7594">signal_sequence_6102_2745</flowPara></flowRoot>    </g>
+           id="flowPara7594">signal_sequence_6102_2745</flowPara></flowRoot>      <g
+         transform="matrix(0.61247666,0,0,0.61247666,468.62115,188.37865)"
+         style="display:inline;enable-background:new"
+         id="g8707">
+        <path
+           style="fill:#0000ff;fill-opacity:1;stroke:none"
+           d="m 404,376.0625 0,10.25 -3,0 0,12.125 -3,0 0,16.625 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 2.90625,0 0.0937,0 2.90625,0 0,-10.6875 -2.90625,0 0,-11.5 -3,0 0,-6.5625 -3,0 0,-10.25 -3,0 0,13.5 -3,0 0,-13.5 -3,0 0,10.25 -3,0 0,9.5 -3,0 0,5.9375 -3,0 0,-25.6875 -3,0 z"
+           id="rect8652"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
     <use
        inkscape:transform-center-x="44"
        height="1"
@@ -1631,7 +1641,7 @@
            height="172.58823"
            x="302.89233"
            y="188.96648" /></flowRegion><flowPara
-         id="flowPara12199"></flowPara></flowRoot>    <flowRoot
+         id="flowPara12199" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot12201"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;text-align:center"><flowRegion
@@ -1641,7 +1651,7 @@
            height="44.009998"
            x="469.44"
            y="340.84412" /></flowRegion><flowPara
-         id="flowPara12207"></flowPara></flowRoot>    <g
+         id="flowPara12207" /></flowRoot>    <g
        id="g12347"
        transform="translate(5e-5,0)">
       <rect
@@ -1754,7 +1764,7 @@
        x="765.32367"
        y="412.74298" />
     <flowRoot
-       transform="translate(485.55617,279.45392)"
+       transform="translate(485.55617,279.45388)"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot7457"
        xml:space="preserve"><flowRegion
@@ -1805,7 +1815,7 @@
        xml:space="preserve"
        id="flowRoot7487"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="translate(517.46138,283.04037)"><flowRegion
+       transform="translate(517.46138,275.04037)"><flowRegion
          id="flowRegion7489"><rect
            ry="0"
            id="rect7491"
@@ -1815,15 +1825,24 @@
            y="139.95587"
            style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000" /></flowRegion><flowPara
          id="flowPara7598"
-         style="font-size:13px;font-weight:bold;fill:#000000">worm/L1.ws220.sam.sorted</flowPara></flowRoot>    <text
+         style="font-size:13px;font-weight:bold;fill:#000000">worm/L1.ws220.sam</flowPara><flowPara
+         style="font-size:13px;font-weight:bold;fill:#000000"
+         id="flowPara5797">.sorted</flowPara></flowRoot>    <rect
+       y="564.66962"
+       x="765.32367"
+       height="17.522413"
+       width="239.87015"
+       id="rect3550"
+       style="fill:#adc5e3;fill-opacity:1;stroke:none" />
+    <text
        sodipodi:linespacing="125%"
        id="text12266"
-       y="575.51404"
+       y="577.51404"
        x="885.10834"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
-         style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2a4f7d;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic;fill-opacity:1"
-         y="575.51404"
+         style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic"
+         y="577.51404"
          x="885.10834"
          sodipodi:role="line"
          id="tspan12270">2 Subtracks</tspan></text>
@@ -2522,5 +2541,17 @@
        d="m 245.33251,821.6122 1019.35259,0"
        id="path12777"
        inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path3547-8"
+       d="m 963.56073,420.65145 22.5,0 3,4 -3,4 -22.5,0 z"
+       style="fill:#fb000d;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new" />
+    <path
+       style="fill:#fb000d;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
+       d="m 971.56073,432.65145 22.5,0 3,4 -3,4 -22.5,0 z"
+       id="path8622"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
   </g>
 </svg>

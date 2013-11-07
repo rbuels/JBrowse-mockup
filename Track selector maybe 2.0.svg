@@ -56,6 +56,18 @@
        y1="822.98975"
        x2="228.42709"
        y2="822.98975" />
+    <filter
+       inkscape:collect="always"
+       id="filter4648"
+       x="-0.01766033"
+       width="1.0353207"
+       y="-1.1803853"
+       height="3.3607706">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="8.3610625"
+         id="feGaussianBlur4650" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -64,17 +76,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.90755208"
-     inkscape:cx="683"
-     inkscape:cy="384"
+     inkscape:zoom="1"
+     inkscape:cx="677.64635"
+     inkscape:cy="437.0048"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showborder="true"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1600"
-     inkscape:window-height="876"
-     inkscape:window-x="1440"
+     inkscape:window-width="1615"
+     inkscape:window-height="1026"
+     inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:snap-global="false"
@@ -147,13 +159,6 @@
        width="1136.2285"
        id="rect6593"
        style="fill:#e0eaf9;fill-opacity:1;stroke:none" />
-    <rect
-       y="615.07794"
-       x="229.77156"
-       height="39.526424"
-       width="1136.2285"
-       id="rect6585"
-       style="fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        transform="scale(1,-1)"
        y="-693.64886"
@@ -3314,15 +3319,6 @@
        y="0"
        inkscape:tiled-clone-of="#image6365"
        xlink:href="#image6365"
-       transform="translate(0,236.064)"
-       id="use7489"
-       width="1366"
-       height="768" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#image6365"
-       xlink:href="#image6365"
        transform="translate(0,275.408)"
        id="use7491"
        width="1366"
@@ -3358,17 +3354,7 @@
        y="823.6955"
        x="281.62839"
        id="image8134"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAeBJREFU
-OI11kz9oU0Ecxz+1Vn4BsS+D+OL2JnkutS2FKC4JXZIxdKiuGSs4VBfJIPp0qlurg3WSKghJsyQP
-pKaDIX2TdLJbM6abKUhzonAO93p9jzY/uDvu7vf93vd+fwC0HRKvwarm5zfNj5bmsKfxXY2T8EuP
-xMZ1Na1NTa9ugA8rGhGNhy5187r0Na8ppgkukbQPAfi3wXGgtgafGqAU9M319DVYfp2H2TNImsDz
-QI2gs2fACQuXIg66GQCW3+XHEAyOzIuDgSFL2NzjOW7OjwA4Ho1TcNAHEXhUhdWqPZ5ZK3Bj/gpM
-GXD4MrJ3k8Bzu2t3QP0G5yrkrsP3HjO1Bfz7I/5MAiewux3x78vZmxPEqThn5SKzJbi1cGJkA+GL
-fWirlFvqC3I6+SBex4KbHyPCZxNQq8N6MJ5AAVIDqULhgYl0sxuhtoD+EfwaQLkIlbLFXE7LFgqL
-d5jGBKv5OQYrAdcByZg0F+9Bo31eQempAQPs7kSoDfsxCJ5A1oHhEDx3jIIhHE9B+DaCPUxFZrNQ
-rUBGDJc4sL51cQzC9/vwF1O6fSCXg5WKkSwCQyDYgEa6Sm1jCGh8NCuO5q5vGuu0I1ubGs+NfcVi
-UnUgcSY47JlgqTjn9Q68esNF9h+PNME/5TophwAAAABJRU5ErkJggg==
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAeBJREFU OI11kz9oU0Ecxz+1Vn4BsS+D+OL2JnkutS2FKC4JXZIxdKiuGSs4VBfJIPp0qlurg3WSKghJsyQP pKaDIX2TdLJbM6abKUhzonAO93p9jzY/uDvu7vf93vd+fwC0HRKvwarm5zfNj5bmsKfxXY2T8EuP xMZ1Na1NTa9ugA8rGhGNhy5187r0Na8ppgkukbQPAfi3wXGgtgafGqAU9M319DVYfp2H2TNImsDz QI2gs2fACQuXIg66GQCW3+XHEAyOzIuDgSFL2NzjOW7OjwA4Ho1TcNAHEXhUhdWqPZ5ZK3Bj/gpM GXD4MrJ3k8Bzu2t3QP0G5yrkrsP3HjO1Bfz7I/5MAiewux3x78vZmxPEqThn5SKzJbi1cGJkA+GL fWirlFvqC3I6+SBex4KbHyPCZxNQq8N6MJ5AAVIDqULhgYl0sxuhtoD+EfwaQLkIlbLFXE7LFgqL d5jGBKv5OQYrAdcByZg0F+9Bo31eQempAQPs7kSoDfsxCJ5A1oHhEDx3jIIhHE9B+DaCPUxFZrNQ rUBGDJc4sL51cQzC9/vwF1O6fSCXg5WKkSwCQyDYgEa6Sm1jCGh8NCuO5q5vGuu0I1ubGs+NfcVi UnUgcSY47JlgqTjn9Q68esNF9h+PNME/5TophwAAAABJRU5ErkJggg== "
        height="16"
        width="16"
        inkscape:tile-cx="277.62839"
@@ -3613,6 +3599,21 @@ UnUgcSY47JlgqTjn9Q68esNF9h+PNME/5TophwAAAABJRU5ErkJggg==
          y="599.80951"
          x="583.16541"
          sodipodi:role="line">L4 45 hr post-L1 stage larvae</tspan></text>
+    <rect
+       y="593.98718"
+       x="229.75"
+       height="17"
+       width="1136.25"
+       id="rect4622"
+       style="opacity:0.2510288;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4648)"
+       transform="matrix(1,0,0,0.57992826,0,265.08784)" />
+    <rect
+       y="615.07794"
+       x="229.77156"
+       height="39.526424"
+       width="1136.2285"
+       id="rect6585"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -4499,6 +4500,25 @@ UnUgcSY47JlgqTjn9Q68esNF9h+PNME/5TophwAAAABJRU5ErkJggg==
          id="path8259"
          style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
          sodipodi:type="star" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#image6365"
+       xlink:href="#image6365"
+       transform="translate(0,236.064)"
+       id="use7489"
+       width="1366"
+       height="768" />
+    <g
+       id="g4697"
+       style="fill:#4284d3;display:inline;enable-background:new"
+       transform="matrix(0.45863051,0,0,0.45863051,129.27974,451.49445)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4699"
+         d="m 404,376.0625 0,10.25 -3,0 0,12.125 -3,0 0,16.625 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 2.90625,0 0.0937,0 2.90625,0 0,-10.6875 -2.90625,0 0,-11.5 -3,0 0,-6.5625 -3,0 0,-10.25 -3,0 0,13.5 -3,0 0,-13.5 -3,0 0,10.25 -3,0 0,9.5 -3,0 0,5.9375 -3,0 0,-25.6875 -3,0 z"
+         style="fill:#4284d3;fill-opacity:1;stroke:none" />
     </g>
   </g>
 </svg>

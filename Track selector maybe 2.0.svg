@@ -97,7 +97,7 @@
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:bbox-paths="true"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-midpoints="true"
@@ -173,7 +173,7 @@
        height="39.526424"
        width="1136.2285"
        id="rect6579"
-       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none" />
     <rect
        transform="scale(1,-1)"
        y="-615.07794"
@@ -181,7 +181,7 @@
        height="39.044518"
        width="1136.2285"
        id="rect6581"
-       style="fill:#e3f9e0;fill-opacity:1;stroke:none" />
+       style="fill:#c8daf4;fill-opacity:1;stroke:none" />
     <rect
        transform="scale(1,-1)"
        y="-536.50696"
@@ -189,7 +189,7 @@
        height="39.044518"
        width="1136.2285"
        id="rect6575"
-       style="fill:#e3f9e0;fill-opacity:1;stroke:none" />
+       style="fill:#c8daf4;fill-opacity:1;stroke:none" />
     <rect
        transform="matrix(1,0,0,0.57992826,0,149.08784)"
        style="opacity:0.2510288;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4648)"

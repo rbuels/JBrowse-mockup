@@ -64,9 +64,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.90755208"
-     inkscape:cx="683"
-     inkscape:cy="516.22382"
+     inkscape:zoom="1.1151726"
+     inkscape:cx="699.83414"
+     inkscape:cy="584.67728"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -77,7 +77,7 @@
      inkscape:window-x="1440"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:snap-grids="true"
      inkscape:snap-to-guides="true"
      inkscape:snap-page="true"
@@ -132,144 +132,141 @@
      id="layer1"
      transform="translate(0,-284.36218)"
      style="display:inline">
-    <g
-       id="g6637">
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
-         id="rect6591"
-         width="1136.2285"
-         height="39.526424"
-         x="229.77156"
-         y="693.64886" />
-      <rect
-         style="fill:#e0eaf9;fill-opacity:1;stroke:none"
-         id="rect6593"
-         width="1136.2285"
-         height="39.044518"
-         x="229.77156"
-         y="-772.21985"
-         transform="scale(1,-1)" />
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
-         id="rect6585"
-         width="1136.2285"
-         height="39.526424"
-         x="229.77156"
-         y="615.07794" />
-      <rect
-         style="fill:#e0eaf9;fill-opacity:1;stroke:none"
-         id="rect6587"
-         width="1136.2285"
-         height="39.044518"
-         x="229.77156"
-         y="-693.64886"
-         transform="scale(1,-1)" />
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
-         id="rect6579"
-         width="1136.2285"
-         height="39.526424"
-         x="229.77156"
-         y="536.50696" />
-      <rect
-         style="fill:#e0eaf9;fill-opacity:1;stroke:none"
-         id="rect6581"
-         width="1136.2285"
-         height="39.044518"
-         x="229.77156"
-         y="-615.07794"
-         transform="scale(1,-1)" />
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
-         id="rect6573"
-         width="1136.2285"
-         height="39.526424"
-         x="229.77156"
-         y="457.93604" />
-      <rect
-         style="fill:#e0eaf9;fill-opacity:1;stroke:none"
-         id="rect6575"
-         width="1136.2285"
-         height="39.044518"
-         x="229.77156"
-         y="-536.50696"
-         transform="scale(1,-1)" />
-      <rect
-         y="379.36508"
-         x="229.77156"
-         height="39.526424"
-         width="1136.2285"
-         id="rect6513"
-         style="fill:#ffffff;fill-opacity:1;stroke:none" />
-      <rect
-         transform="scale(1,-1)"
-         y="-457.93604"
-         x="229.77156"
-         height="39.044518"
-         width="1136.2285"
-         id="rect5565"
-         style="fill:#e0eaf9;fill-opacity:1;stroke:none" />
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
-         id="rect6597"
-         width="1136.2285"
-         height="39.526424"
-         x="229.77156"
-         y="772.21985" />
-      <rect
-         style="fill:#e0eaf9;fill-opacity:1;stroke:none"
-         id="rect6599"
-         width="1136.2285"
-         height="39.044518"
-         x="229.77156"
-         y="-850.79077"
-         transform="scale(1,-1)" />
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
-         id="rect6603"
-         width="1136.2285"
-         height="39.526424"
-         x="229.77156"
-         y="850.79077" />
-      <rect
-         style="fill:#e0eaf9;fill-opacity:1;stroke:none"
-         id="rect6605"
-         width="1136.2285"
-         height="39.044518"
-         x="229.77156"
-         y="-929.36176"
-         transform="scale(1,-1)" />
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
-         id="rect6609"
-         width="1136.2285"
-         height="39.526424"
-         x="229.77156"
-         y="929.36176" />
-      <rect
-         style="fill:#e0eaf9;fill-opacity:1;stroke:none"
-         id="rect6611"
-         width="1136.2285"
-         height="39.044518"
-         x="229.77156"
-         y="-1007.9327"
-         transform="scale(1,-1)" />
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
-         id="rect6615"
-         width="1136.2285"
-         height="39.526424"
-         x="229.77156"
-         y="1007.9327" />
-      <rect
-         style="fill:#e0eaf9;fill-opacity:1;stroke:none"
-         id="rect6617"
-         width="1136.2285"
-         height="4.9030647"
-         x="229.77156"
-         y="-1052.3622"
-         transform="scale(1,-1)" />
-    </g>
+    <rect
+       y="693.64886"
+       x="229.77156"
+       height="39.526424"
+       width="1136.2285"
+       id="rect6591"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       transform="scale(1,-1)"
+       y="-772.21985"
+       x="229.77156"
+       height="39.044518"
+       width="1136.2285"
+       id="rect6593"
+       style="fill:#e0eaf9;fill-opacity:1;stroke:none" />
+    <rect
+       y="615.07794"
+       x="229.77156"
+       height="39.526424"
+       width="1136.2285"
+       id="rect6585"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       transform="scale(1,-1)"
+       y="-693.64886"
+       x="229.77156"
+       height="39.044518"
+       width="1136.2285"
+       id="rect6587"
+       style="fill:#e0eaf9;fill-opacity:1;stroke:none" />
+    <rect
+       y="536.50696"
+       x="229.77156"
+       height="39.526424"
+       width="1136.2285"
+       id="rect6579"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       transform="scale(1,-1)"
+       y="-615.07794"
+       x="229.77156"
+       height="39.044518"
+       width="1136.2285"
+       id="rect6581"
+       style="fill:#e3f9e0;fill-opacity:1;stroke:none" />
+    <rect
+       y="457.93604"
+       x="229.77156"
+       height="39.526424"
+       width="1136.2285"
+       id="rect6573"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       transform="scale(1,-1)"
+       y="-536.50696"
+       x="229.77156"
+       height="39.044518"
+       width="1136.2285"
+       id="rect6575"
+       style="fill:#e3f9e0;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect6513"
+       width="1136.2285"
+       height="39.526424"
+       x="229.77156"
+       y="379.36508" />
+    <rect
+       style="fill:#e0eaf9;fill-opacity:1;stroke:none"
+       id="rect5565"
+       width="1136.2285"
+       height="39.044518"
+       x="229.77156"
+       y="-457.93604"
+       transform="scale(1,-1)" />
+    <rect
+       y="772.21985"
+       x="229.77156"
+       height="39.526424"
+       width="1136.2285"
+       id="rect6597"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       transform="scale(1,-1)"
+       y="-850.79077"
+       x="229.77156"
+       height="39.044518"
+       width="1136.2285"
+       id="rect6599"
+       style="fill:#e0eaf9;fill-opacity:1;stroke:none" />
+    <rect
+       y="850.79077"
+       x="229.77156"
+       height="39.526424"
+       width="1136.2285"
+       id="rect6603"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       transform="scale(1,-1)"
+       y="-929.36176"
+       x="229.77156"
+       height="39.044518"
+       width="1136.2285"
+       id="rect6605"
+       style="fill:#e0eaf9;fill-opacity:1;stroke:none" />
+    <rect
+       y="929.36176"
+       x="229.77156"
+       height="39.526424"
+       width="1136.2285"
+       id="rect6609"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       transform="scale(1,-1)"
+       y="-1007.9327"
+       x="229.77156"
+       height="39.044518"
+       width="1136.2285"
+       id="rect6611"
+       style="fill:#e0eaf9;fill-opacity:1;stroke:none" />
+    <rect
+       y="1007.9327"
+       x="229.77156"
+       height="39.526424"
+       width="1136.2285"
+       id="rect6615"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       transform="scale(1,-1)"
+       y="-1052.3622"
+       x="229.77156"
+       height="4.9030647"
+       width="1136.2285"
+       id="rect6617"
+       style="fill:#e0eaf9;fill-opacity:1;stroke:none" />
     <g
        id="g19844"
        transform="matrix(6.2738301,0,0,0.85299715,0,-6.632134)">
@@ -2822,7 +2819,13 @@
     <g
        style="display:inline"
        transform="translate(-48.37161,-239.30028)"
-       id="g4500-2-3">
+       id="g4500-2-3"
+       inkscape:tile-cx="253.47797"
+       inkscape:tile-cy="114.5493"
+       inkscape:tile-w="16.30084"
+       inkscape:tile-h="16.30084"
+       inkscape:tile-x0="245.32755"
+       inkscape:tile-y0="106.39888">
       <rect
          style="fill:#666666;fill-opacity:1;stroke:none"
          id="rect4502-4-6"
@@ -2844,7 +2847,13 @@
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAp9JREFU OI1tk11IU2EYx3+TcRhrG3h06iynaGghFnMiIgaSHxe2DI2hN6JBFiKCGhQkmiFe2I1BCBpJxC78 yJRyRkSEEHghWwMryIvKtmqKbZN1Gms3p4szT4U9Vy8vz/99nv/Hq5FlWc7umceeL/K/CoZjfNuL Y88XWe6rBWBpfYvR5Q2mOqrQ7oRjALhXN0Gn+xcdjiLkpuO/dZ4vkTjZPfME338FvQCxBHRUoTUY 9AS9n3A47Tx/FyTxI6GA43E8k+34Q1GyumYgHlcGJMGWY4c5kqpDC8AhAffqJo7qIrwfw9jzRYYb Sym7vvQHCAhGgdkrNTSV57G/uUb6JcsG54TSFI6qU5t758BsAMBiNeO76cBg0NM68UKhuyvhcXWi lSTlJXuhmYaTpZT1z4BOx+LtFlUofyiK9eojErvRAyJr9w8WUY8vEFLF8/kjTHVUAdB69xWJz98V /sBgWyXdp4vIFPVoZFmWNS3TKtdBZyk2a6oCSk5cHDiDNc2EPxSlqTyPoQUfY8/eMnvpFCk74RiC UXnZUZGLLxDC549QX2yBXQnBbFLBPn8EAJs1VaWgiFg9pnL2bgQglsBeUYBnpJGdcIyslimlO0nB UV3EvfZKMkU9KZIUw15znObRFSyiHovVjKOhhIGzJ9Ccm2Di5Sbbc5exVxQo4UmGLstxB++HcFKD unEQTQdtzElXtVlM+j+04GPEtQaBPTwPu9D+TAZPMApcc1arNnpcnQw/ea14DjSPrqgOyI+71SCl SFIMRBP1xRZGXGsIZhMAZf0z2HLS2L5/AUuGUVlfp2PEtYambhzbDfdfIrZN/xNZteJx1cbKoxlc fLCG++kb9T94JtuVIAlGgZJC84GU7Ve3ax2A5d5alvtqWVrfUu9+A2r3KLu5hd6MAAAAAElFTkSu QmCC "
        id="image6365"
        x="269.62839"
-       y="390.91147" />
+       y="390.91147"
+       inkscape:tile-cx="277.62839"
+       inkscape:tile-cy="114.54929"
+       inkscape:tile-w="16"
+       inkscape:tile-h="16"
+       inkscape:tile-x0="269.62839"
+       inkscape:tile-y0="106.54929" />
     <g
        id="g8707-9"
        style="fill:#4284d3;display:inline;enable-background:new"
@@ -2940,7 +2949,7 @@
          x="583.16541"
          y="411.30951"
          style="font-size:14px"
-         id="tspan6677">and 3 kids</tspan></text>
+         id="tspan6691">and 1.2 kids</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text6679"
@@ -2965,5 +2974,1398 @@
          y="402.70764"
          style="font-size:14px"
          id="tspan6689">mRNA</tspan></text>
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g4500-2-3"
+       xlink:href="#g4500-2-3"
+       id="use7145" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g4500-2-3"
+       xlink:href="#g4500-2-3"
+       transform="translate(0,39.325777)"
+       id="use7147"
+       width="1366"
+       height="768" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g4500-2-3"
+       xlink:href="#g4500-2-3"
+       transform="translate(0,78.651554)"
+       id="use7149"
+       width="1366"
+       height="768" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g4500-2-3"
+       xlink:href="#g4500-2-3"
+       transform="translate(24.3963,117.97733)"
+       id="use7151"
+       width="1366"
+       height="768"
+       style="fill:#e3f9e0" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g4500-2-3"
+       xlink:href="#g4500-2-3"
+       transform="translate(24.3963,157.30311)"
+       id="use7153"
+       width="1366"
+       height="768"
+       style="fill:#e3f9e0" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g4500-2-3"
+       xlink:href="#g4500-2-3"
+       transform="translate(24.3963,196.62889)"
+       id="use7155"
+       width="1366"
+       height="768"
+       style="fill:#e3f9e0" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g4500-2-3"
+       xlink:href="#g4500-2-3"
+       transform="translate(0,235.95466)"
+       id="use7157"
+       width="1366"
+       height="768" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g4500-2-3"
+       xlink:href="#g4500-2-3"
+       transform="translate(0,275.28044)"
+       id="use7159"
+       width="1366"
+       height="768" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g4500-2-3"
+       xlink:href="#g4500-2-3"
+       transform="translate(0,314.60622)"
+       id="use7161"
+       width="1366"
+       height="768" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g4500-2-3"
+       xlink:href="#g4500-2-3"
+       transform="translate(0,353.932)"
+       id="use7163"
+       width="1366"
+       height="768" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g4500-2-3"
+       xlink:href="#g4500-2-3"
+       transform="translate(0,393.25777)"
+       id="use7165"
+       width="1366"
+       height="768" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g4500-2-3"
+       xlink:href="#g4500-2-3"
+       transform="translate(0,432.58355)"
+       id="use7167"
+       width="1366"
+       height="768" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g4500-2-3"
+       xlink:href="#g4500-2-3"
+       transform="translate(0,471.90933)"
+       id="use7169"
+       width="1366"
+       height="768" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g4500-2-3"
+       xlink:href="#g4500-2-3"
+       transform="translate(0,511.23511)"
+       id="use7171"
+       width="1366"
+       height="768" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g4500-2-3"
+       xlink:href="#g4500-2-3"
+       transform="translate(0,550.56088)"
+       id="use7173"
+       width="1366"
+       height="768" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g4500-2-3"
+       xlink:href="#g4500-2-3"
+       transform="translate(0,589.88666)"
+       id="use7175"
+       width="1366"
+       height="768" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g4500-2-3"
+       xlink:href="#g4500-2-3"
+       transform="translate(0,629.21244)"
+       id="use7177" />
+    <g
+       transform="matrix(0.61247666,0,0,0.61247666,57.286959,236.63867)"
+       style="fill:#4284d3;display:inline;enable-background:new"
+       id="g7179">
+      <path
+         style="fill:#4284d3;fill-opacity:1;stroke:none"
+         d="m 404,376.0625 0,10.25 -3,0 0,12.125 -3,0 0,16.625 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 2.90625,0 0.0937,0 2.90625,0 0,-10.6875 -2.90625,0 0,-11.5 -3,0 0,-6.5625 -3,0 0,-10.25 -3,0 0,13.5 -3,0 0,-13.5 -3,0 0,10.25 -3,0 0,9.5 -3,0 0,5.9375 -3,0 0,-25.6875 -3,0 z"
+         id="path7181"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g7183"
+       style="display:inline"
+       transform="translate(-1824.508,87.327981)">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path7185"
+         d="m 2125.5607,420.65145 22.5,0 3,4 -3,4 -22.5,0 z"
+         style="fill:#fd3f49;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new" />
+      <path
+         style="fill:#fd3f49;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
+         d="m 2133.5607,432.65145 22.5,0 3,4 -3,4 -22.5,0 z"
+         id="path7187"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+    </g>
+    <g
+       id="g7189"
+       style="fill:#4284d3;display:inline;enable-background:new"
+       transform="matrix(0.61247666,0,0,0.61247666,57.286959,314.63867)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7191"
+         d="m 404,376.0625 0,10.25 -3,0 0,12.125 -3,0 0,16.625 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 2.90625,0 0.0937,0 2.90625,0 0,-10.6875 -2.90625,0 0,-11.5 -3,0 0,-6.5625 -3,0 0,-10.25 -3,0 0,13.5 -3,0 0,-13.5 -3,0 0,10.25 -3,0 0,9.5 -3,0 0,5.9375 -3,0 0,-25.6875 -3,0 z"
+         style="fill:#4284d3;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       transform="matrix(0.61247666,0,0,0.61247666,57.286959,352.63867)"
+       style="fill:#4284d3;display:inline;enable-background:new"
+       id="g7193">
+      <path
+         style="fill:#4284d3;fill-opacity:1;stroke:none"
+         d="m 404,376.0625 0,10.25 -3,0 0,12.125 -3,0 0,16.625 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 2.90625,0 0.0937,0 2.90625,0 0,-10.6875 -2.90625,0 0,-11.5 -3,0 0,-6.5625 -3,0 0,-10.25 -3,0 0,13.5 -3,0 0,-13.5 -3,0 0,10.25 -3,0 0,9.5 -3,0 0,5.9375 -3,0 0,-25.6875 -3,0 z"
+         id="path7195"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="translate(-1824.508,205.32798)"
+       style="display:inline"
+       id="g7197">
+      <path
+         style="fill:#fd3f49;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
+         d="m 2125.5607,420.65145 22.5,0 3,4 -3,4 -22.5,0 z"
+         id="path7199"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path7201"
+         d="m 2133.5607,432.65145 22.5,0 3,4 -3,4 -22.5,0 z"
+         style="fill:#fd3f49;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new" />
+    </g>
+    <g
+       transform="matrix(0.61247666,0,0,0.61247666,57.286959,428.63867)"
+       style="fill:#4284d3;display:inline;enable-background:new"
+       id="g7203">
+      <path
+         style="fill:#4284d3;fill-opacity:1;stroke:none"
+         d="m 404,376.0625 0,10.25 -3,0 0,12.125 -3,0 0,16.625 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 2.90625,0 0.0937,0 2.90625,0 0,-10.6875 -2.90625,0 0,-11.5 -3,0 0,-6.5625 -3,0 0,-10.25 -3,0 0,13.5 -3,0 0,-13.5 -3,0 0,10.25 -3,0 0,9.5 -3,0 0,5.9375 -3,0 0,-25.6875 -3,0 z"
+         id="path7205"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g7207"
+       style="display:inline"
+       transform="translate(-1824.508,279.32798)">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path7209"
+         d="m 2125.5607,420.65145 22.5,0 3,4 -3,4 -22.5,0 z"
+         style="fill:#fd3f49;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new" />
+      <path
+         style="fill:#fd3f49;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
+         d="m 2133.5607,432.65145 22.5,0 3,4 -3,4 -22.5,0 z"
+         id="path7211"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+    </g>
+    <g
+       id="g7213"
+       style="fill:#4284d3;display:inline;enable-background:new"
+       transform="matrix(0.61247666,0,0,0.61247666,57.286959,545.7633)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7215"
+         d="m 404,376.0625 0,10.25 -3,0 0,12.125 -3,0 0,16.625 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 2.90625,0 0.0937,0 2.90625,0 0,-10.6875 -2.90625,0 0,-11.5 -3,0 0,-6.5625 -3,0 0,-10.25 -3,0 0,13.5 -3,0 0,-13.5 -3,0 0,10.25 -3,0 0,9.5 -3,0 0,5.9375 -3,0 0,-25.6875 -3,0 z"
+         style="fill:#4284d3;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       transform="translate(-1824.508,318.3167)"
+       style="display:inline"
+       id="g7217">
+      <path
+         style="fill:#fd3f49;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
+         d="m 2125.5607,420.65145 22.5,0 3,4 -3,4 -22.5,0 z"
+         id="path7219"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path7221"
+         d="m 2133.5607,432.65145 22.5,0 3,4 -3,4 -22.5,0 z"
+         style="fill:#fd3f49;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new" />
+    </g>
+    <g
+       transform="matrix(0.61247666,0,0,0.61247666,57.286959,586.63867)"
+       style="fill:#4284d3;display:inline;enable-background:new"
+       id="g7223">
+      <path
+         style="fill:#4284d3;fill-opacity:1;stroke:none"
+         d="m 404,376.0625 0,10.25 -3,0 0,12.125 -3,0 0,16.625 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 2.90625,0 0.0937,0 2.90625,0 0,-10.6875 -2.90625,0 0,-11.5 -3,0 0,-6.5625 -3,0 0,-10.25 -3,0 0,13.5 -3,0 0,-13.5 -3,0 0,10.25 -3,0 0,9.5 -3,0 0,5.9375 -3,0 0,-25.6875 -3,0 z"
+         id="path7225"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g7227"
+       style="fill:#4284d3;display:inline;enable-background:new"
+       transform="matrix(0.61247666,0,0,0.61247666,57.286959,663.7633)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7229"
+         d="m 404,376.0625 0,10.25 -3,0 0,12.125 -3,0 0,16.625 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 2.90625,0 0.0937,0 2.90625,0 0,-10.6875 -2.90625,0 0,-11.5 -3,0 0,-6.5625 -3,0 0,-10.25 -3,0 0,13.5 -3,0 0,-13.5 -3,0 0,10.25 -3,0 0,9.5 -3,0 0,5.9375 -3,0 0,-25.6875 -3,0 z"
+         style="fill:#4284d3;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g7231"
+       style="display:inline"
+       transform="translate(-1824.508,434.3167)">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path7233"
+         d="m 2125.5607,420.65145 22.5,0 3,4 -3,4 -22.5,0 z"
+         style="fill:#fd3f49;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new" />
+      <path
+         style="fill:#fd3f49;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
+         d="m 2133.5607,432.65145 22.5,0 3,4 -3,4 -22.5,0 z"
+         id="path7235"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+    </g>
+    <g
+       id="g7237"
+       style="display:inline"
+       transform="translate(-1824.508,517.32798)">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path7239"
+         d="m 2125.5607,420.65145 22.5,0 3,4 -3,4 -22.5,0 z"
+         style="fill:#fd3f49;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new" />
+      <path
+         style="fill:#fd3f49;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
+         d="m 2133.5607,432.65145 22.5,0 3,4 -3,4 -22.5,0 z"
+         id="path7241"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+    </g>
+    <g
+       id="g7243"
+       style="fill:#4284d3;display:inline;enable-background:new"
+       transform="matrix(0.61247666,0,0,0.61247666,57.286959,744.63867)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7245"
+         d="m 404,376.0625 0,10.25 -3,0 0,12.125 -3,0 0,16.625 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 2.90625,0 0.0937,0 2.90625,0 0,-10.6875 -2.90625,0 0,-11.5 -3,0 0,-6.5625 -3,0 0,-10.25 -3,0 0,13.5 -3,0 0,-13.5 -3,0 0,10.25 -3,0 0,9.5 -3,0 0,5.9375 -3,0 0,-25.6875 -3,0 z"
+         style="fill:#4284d3;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       transform="matrix(0.61247666,0,0,0.61247666,57.286959,782.63867)"
+       style="fill:#4284d3;display:inline;enable-background:new"
+       id="g7247">
+      <path
+         style="fill:#4284d3;fill-opacity:1;stroke:none"
+         d="m 404,376.0625 0,10.25 -3,0 0,12.125 -3,0 0,16.625 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 2.90625,0 0.0937,0 2.90625,0 0,-10.6875 -2.90625,0 0,-11.5 -3,0 0,-6.5625 -3,0 0,-10.25 -3,0 0,13.5 -3,0 0,-13.5 -3,0 0,10.25 -3,0 0,9.5 -3,0 0,5.9375 -3,0 0,-25.6875 -3,0 z"
+         id="path7249"
+         inkscape:connector-curvature="0" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#image6365"
+       xlink:href="#image6365"
+       id="use7477" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#image6365"
+       xlink:href="#image6365"
+       transform="translate(0,39.344)"
+       id="use7479" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#image6365"
+       xlink:href="#image6365"
+       transform="translate(0,78.688)"
+       id="use7481" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#image6365"
+       xlink:href="#image6365"
+       transform="translate(0,236.064)"
+       id="use7489" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#image6365"
+       xlink:href="#image6365"
+       transform="translate(0,275.408)"
+       id="use7491" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#image6365"
+       xlink:href="#image6365"
+       transform="translate(0,314.752)"
+       id="use7493" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#image6365"
+       xlink:href="#image6365"
+       transform="translate(0,354.096)"
+       id="use7495" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#image6365"
+       xlink:href="#image6365"
+       transform="translate(0,393.44)"
+       id="use7497" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#image6365"
+       xlink:href="#image6365"
+       transform="translate(0,432.784)"
+       id="use7499" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#image6365"
+       xlink:href="#image6365"
+       transform="translate(0,472.128)"
+       id="use7501" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#image6365"
+       xlink:href="#image6365"
+       transform="translate(0,511.472)"
+       id="use7503" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#image6365"
+       xlink:href="#image6365"
+       transform="translate(0,550.816)"
+       id="use7505" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#image6365"
+       xlink:href="#image6365"
+       transform="translate(0,590.16)"
+       id="use7507" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#image6365"
+       xlink:href="#image6365"
+       transform="translate(0,629.504)"
+       id="use7509" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="363.16541"
+       y="433.80951"
+       id="text7511"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="363.16541"
+         y="433.80951"
+         style="font-size:14px"
+         id="tspan7513">Worm sequencing ligands </tspan><tspan
+         id="tspan7515"
+         sodipodi:role="line"
+         x="363.16541"
+         y="451.30951"
+         style="font-size:14px">peptides gene expression gmod</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7517"
+       y="433.80951"
+       x="583.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         style="font-size:14px"
+         y="433.80951"
+         x="583.16541"
+         sodipodi:role="line"
+         id="tspan7519">3-Prime-UTR; happy life; wife</tspan><tspan
+         id="tspan7521"
+         style="font-size:14px"
+         y="451.30951"
+         x="583.16541"
+         sodipodi:role="line">and 1.2 kids</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="795.16541"
+       y="442.70764"
+       id="text7523"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="795.16541"
+         y="442.70764"
+         style="font-size:14px"
+         id="tspan7525">3-Prime-UTR</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7527"
+       y="442.70764"
+       x="913.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         id="tspan7529"
+         style="font-size:14px"
+         y="442.70764"
+         x="913.16541"
+         sodipodi:role="line">mRNA</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7531"
+       y="472.70624"
+       x="363.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         id="tspan7533"
+         style="font-size:14px"
+         y="472.70624"
+         x="363.16541"
+         sodipodi:role="line">Worm sequencing ligands </tspan><tspan
+         style="font-size:14px"
+         y="490.20624"
+         x="363.16541"
+         sodipodi:role="line"
+         id="tspan7535">peptides gene expression gmod</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="583.16541"
+       y="472.70624"
+       id="text7537"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan7539"
+         sodipodi:role="line"
+         x="583.16541"
+         y="472.70624"
+         style="font-size:14px">3-Prime-UTR; happy life; wife</tspan><tspan
+         sodipodi:role="line"
+         x="583.16541"
+         y="490.20624"
+         style="font-size:14px"
+         id="tspan7541">and 1.2 kids</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7543"
+       y="481.60437"
+       x="795.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         id="tspan7545"
+         style="font-size:14px"
+         y="481.60437"
+         x="795.16541"
+         sodipodi:role="line">3-Prime-UTR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="913.16541"
+       y="481.60437"
+       id="text7547"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="913.16541"
+         y="481.60437"
+         style="font-size:14px"
+         id="tspan7549">mRNA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="363.16541"
+       y="511.80951"
+       id="text7551"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="363.16541"
+         y="511.80951"
+         style="font-size:14px"
+         id="tspan7553">Worm sequencing ligands </tspan><tspan
+         id="tspan7555"
+         sodipodi:role="line"
+         x="363.16541"
+         y="529.30951"
+         style="font-size:14px">peptides gene expression gmod</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7557"
+       y="511.80951"
+       x="583.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         style="font-size:14px"
+         y="511.80951"
+         x="583.16541"
+         sodipodi:role="line"
+         id="tspan7559">3-Prime-UTR; happy life; wife</tspan><tspan
+         id="tspan7561"
+         style="font-size:14px"
+         y="529.30951"
+         x="583.16541"
+         sodipodi:role="line">and 1.2 kids</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="795.16541"
+       y="520.70764"
+       id="text7563"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="795.16541"
+         y="520.70764"
+         style="font-size:14px"
+         id="tspan7565">3-Prime-UTR</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7567"
+       y="520.70764"
+       x="913.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         id="tspan7569"
+         style="font-size:14px"
+         y="520.70764"
+         x="913.16541"
+         sodipodi:role="line">mRNA</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7571"
+       y="551.80951"
+       x="363.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         id="tspan7573"
+         style="font-size:14px"
+         y="551.80951"
+         x="363.16541"
+         sodipodi:role="line">Worm sequencing ligands </tspan><tspan
+         style="font-size:14px"
+         y="569.30951"
+         x="363.16541"
+         sodipodi:role="line"
+         id="tspan7575">peptides gene expression gmod</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="583.16541"
+       y="551.80951"
+       id="text7577"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan7579"
+         sodipodi:role="line"
+         x="583.16541"
+         y="551.80951"
+         style="font-size:14px">3-Prime-UTR; happy life; wife</tspan><tspan
+         sodipodi:role="line"
+         x="583.16541"
+         y="569.30951"
+         style="font-size:14px"
+         id="tspan7581">and 1.2 kids</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7583"
+       y="560.70764"
+       x="795.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         id="tspan7585"
+         style="font-size:14px"
+         y="560.70764"
+         x="795.16541"
+         sodipodi:role="line">3-Prime-UTR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="913.16541"
+       y="560.70764"
+       id="text7587"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="913.16541"
+         y="560.70764"
+         style="font-size:14px"
+         id="tspan7589">mRNA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="363.16541"
+       y="590.91278"
+       id="text7591"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="363.16541"
+         y="590.91278"
+         style="font-size:14px"
+         id="tspan7593">Worm sequencing ligands </tspan><tspan
+         id="tspan7595"
+         sodipodi:role="line"
+         x="363.16541"
+         y="608.41278"
+         style="font-size:14px">peptides gene expression gmod</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7597"
+       y="590.91278"
+       x="583.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         style="font-size:14px"
+         y="590.91278"
+         x="583.16541"
+         sodipodi:role="line"
+         id="tspan7599">3-Prime-UTR; happy life; wife</tspan><tspan
+         id="tspan7601"
+         style="font-size:14px"
+         y="608.41278"
+         x="583.16541"
+         sodipodi:role="line">and 1.2 kids</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="795.16541"
+       y="599.81091"
+       id="text7603"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="795.16541"
+         y="599.81091"
+         style="font-size:14px"
+         id="tspan7605">3-Prime-UTR</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7607"
+       y="599.81091"
+       x="913.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         id="tspan7609"
+         style="font-size:14px"
+         y="599.81091"
+         x="913.16541"
+         sodipodi:role="line">mRNA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="363.16541"
+       y="629.80951"
+       id="text7615"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="363.16541"
+         y="629.80951"
+         style="font-size:14px"
+         id="tspan7617">Worm sequencing ligands </tspan><tspan
+         id="tspan7619"
+         sodipodi:role="line"
+         x="363.16541"
+         y="647.30951"
+         style="font-size:14px">peptides gene expression gmod</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7621"
+       y="629.80951"
+       x="583.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         style="font-size:14px"
+         y="629.80951"
+         x="583.16541"
+         sodipodi:role="line"
+         id="tspan7623">3-Prime-UTR; happy life; wife</tspan><tspan
+         id="tspan7625"
+         style="font-size:14px"
+         y="647.30951"
+         x="583.16541"
+         sodipodi:role="line">and 1.2 kids</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="795.16541"
+       y="638.70764"
+       id="text7627"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="795.16541"
+         y="638.70764"
+         style="font-size:14px"
+         id="tspan7629">3-Prime-UTR</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7631"
+       y="638.70764"
+       x="913.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         id="tspan7633"
+         style="font-size:14px"
+         y="638.70764"
+         x="913.16541"
+         sodipodi:role="line">mRNA</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7635"
+       y="669.80951"
+       x="363.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         id="tspan7637"
+         style="font-size:14px"
+         y="669.80951"
+         x="363.16541"
+         sodipodi:role="line">Worm sequencing ligands </tspan><tspan
+         style="font-size:14px"
+         y="687.30951"
+         x="363.16541"
+         sodipodi:role="line"
+         id="tspan7639">peptides gene expression gmod</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="583.16541"
+       y="669.80951"
+       id="text7641"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan7643"
+         sodipodi:role="line"
+         x="583.16541"
+         y="669.80951"
+         style="font-size:14px">3-Prime-UTR; happy life; wife</tspan><tspan
+         sodipodi:role="line"
+         x="583.16541"
+         y="687.30951"
+         style="font-size:14px"
+         id="tspan7645">and 1.2 kids</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7647"
+       y="678.70764"
+       x="795.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         id="tspan7649"
+         style="font-size:14px"
+         y="678.70764"
+         x="795.16541"
+         sodipodi:role="line">3-Prime-UTR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="913.16541"
+       y="678.70764"
+       id="text7651"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="913.16541"
+         y="678.70764"
+         style="font-size:14px"
+         id="tspan7653">mRNA</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7655"
+       y="708.70624"
+       x="583.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         style="font-size:14px"
+         y="708.70624"
+         x="583.16541"
+         sodipodi:role="line"
+         id="tspan7657">3-Prime-UTR; happy life; wife</tspan><tspan
+         id="tspan7659"
+         style="font-size:14px"
+         y="726.20624"
+         x="583.16541"
+         sodipodi:role="line">and 1.2 kids</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="795.16541"
+       y="717.60437"
+       id="text7661"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="795.16541"
+         y="717.60437"
+         style="font-size:14px"
+         id="tspan7663">3-Prime-UTR</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7665"
+       y="717.60437"
+       x="913.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         id="tspan7667"
+         style="font-size:14px"
+         y="717.60437"
+         x="913.16541"
+         sodipodi:role="line">mRNA</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7669"
+       y="746.91278"
+       x="363.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         id="tspan7671"
+         style="font-size:14px"
+         y="746.91278"
+         x="363.16541"
+         sodipodi:role="line">Worm sequencing ligands </tspan><tspan
+         style="font-size:14px"
+         y="764.41278"
+         x="363.16541"
+         sodipodi:role="line"
+         id="tspan7673">peptides gene expression gmod</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="583.16541"
+       y="748.91278"
+       id="text7675"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan7677"
+         sodipodi:role="line"
+         x="583.16541"
+         y="748.91278"
+         style="font-size:14px">3-Prime-UTR; happy life; wife</tspan><tspan
+         sodipodi:role="line"
+         x="583.16541"
+         y="766.41278"
+         style="font-size:14px"
+         id="tspan7679">and 1.2 kids</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7681"
+       y="755.81091"
+       x="795.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         id="tspan7683"
+         style="font-size:14px"
+         y="755.81091"
+         x="795.16541"
+         sodipodi:role="line">3-Prime-UTR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="913.16541"
+       y="755.81091"
+       id="text7685"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="913.16541"
+         y="755.81091"
+         style="font-size:14px"
+         id="tspan7687">mRNA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="363.16541"
+       y="786.91278"
+       id="text7689"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="363.16541"
+         y="786.91278"
+         style="font-size:14px"
+         id="tspan7691">Worm sequencing ligands </tspan><tspan
+         id="tspan7693"
+         sodipodi:role="line"
+         x="363.16541"
+         y="804.41278"
+         style="font-size:14px">peptides gene expression gmod</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7695"
+       y="786.91278"
+       x="583.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         style="font-size:14px"
+         y="786.91278"
+         x="583.16541"
+         sodipodi:role="line"
+         id="tspan7697">3-Prime-UTR; happy life; wife</tspan><tspan
+         id="tspan7699"
+         style="font-size:14px"
+         y="804.41278"
+         x="583.16541"
+         sodipodi:role="line">and 1.2 kids</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="795.16541"
+       y="795.81091"
+       id="text7701"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="795.16541"
+         y="795.81091"
+         style="font-size:14px"
+         id="tspan7703">3-Prime-UTR</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7705"
+       y="795.81091"
+       x="913.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         id="tspan7707"
+         style="font-size:14px"
+         y="795.81091"
+         x="913.16541"
+         sodipodi:role="line">mRNA</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7709"
+       y="825.80951"
+       x="363.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         id="tspan7711"
+         style="font-size:14px"
+         y="825.80951"
+         x="363.16541"
+         sodipodi:role="line">Worm sequencing ligands </tspan><tspan
+         style="font-size:14px"
+         y="843.30951"
+         x="363.16541"
+         sodipodi:role="line"
+         id="tspan7713">peptides gene expression gmod</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="583.16541"
+       y="825.80951"
+       id="text7715"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan7717"
+         sodipodi:role="line"
+         x="583.16541"
+         y="825.80951"
+         style="font-size:14px">3-Prime-UTR; happy life; wife</tspan><tspan
+         sodipodi:role="line"
+         x="583.16541"
+         y="843.30951"
+         style="font-size:14px"
+         id="tspan7719">and 1.2 kids</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7721"
+       y="834.70764"
+       x="795.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         id="tspan7723"
+         style="font-size:14px"
+         y="834.70764"
+         x="795.16541"
+         sodipodi:role="line">3-Prime-UTR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="913.16541"
+       y="834.70764"
+       id="text7725"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="913.16541"
+         y="834.70764"
+         style="font-size:14px"
+         id="tspan7727">mRNA</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7729"
+       y="707.80951"
+       x="363.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         id="tspan7731"
+         style="font-size:14px"
+         y="707.80951"
+         x="363.16541"
+         sodipodi:role="line">Worm sequencing ligands </tspan><tspan
+         style="font-size:14px"
+         y="725.30951"
+         x="363.16541"
+         sodipodi:role="line"
+         id="tspan7733">peptides gene expression gmod</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="363.16541"
+       y="866.70624"
+       id="text7735"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="363.16541"
+         y="866.70624"
+         style="font-size:14px"
+         id="tspan7737">Worm sequencing ligands </tspan><tspan
+         id="tspan7739"
+         sodipodi:role="line"
+         x="363.16541"
+         y="884.20624"
+         style="font-size:14px">peptides gene expression gmod</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7741"
+       y="866.70624"
+       x="583.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         style="font-size:14px"
+         y="866.70624"
+         x="583.16541"
+         sodipodi:role="line"
+         id="tspan7743">3-Prime-UTR; happy life; wife</tspan><tspan
+         id="tspan7745"
+         style="font-size:14px"
+         y="884.20624"
+         x="583.16541"
+         sodipodi:role="line">and 1.2 kids</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="795.16541"
+       y="875.60437"
+       id="text7747"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="795.16541"
+         y="875.60437"
+         style="font-size:14px"
+         id="tspan7749">3-Prime-UTR</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7751"
+       y="875.60437"
+       x="913.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         id="tspan7753"
+         style="font-size:14px"
+         y="875.60437"
+         x="913.16541"
+         sodipodi:role="line">mRNA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="583.16541"
+       y="905.60297"
+       id="text7755"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan7757"
+         sodipodi:role="line"
+         x="583.16541"
+         y="905.60297"
+         style="font-size:14px">3-Prime-UTR; happy life; wife</tspan><tspan
+         sodipodi:role="line"
+         x="583.16541"
+         y="923.10297"
+         style="font-size:14px"
+         id="tspan7759">and 1.2 kids</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7761"
+       y="914.5011"
+       x="795.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         id="tspan7763"
+         style="font-size:14px"
+         y="914.5011"
+         x="795.16541"
+         sodipodi:role="line">3-Prime-UTR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="913.16541"
+       y="914.5011"
+       id="text7765"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="913.16541"
+         y="914.5011"
+         style="font-size:14px"
+         id="tspan7767">mRNA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="363.16541"
+       y="943.80951"
+       id="text7769"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="363.16541"
+         y="943.80951"
+         style="font-size:14px"
+         id="tspan7771">Worm sequencing ligands </tspan><tspan
+         id="tspan7773"
+         sodipodi:role="line"
+         x="363.16541"
+         y="961.30951"
+         style="font-size:14px">peptides gene expression gmod</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7775"
+       y="943.80951"
+       x="583.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         style="font-size:14px"
+         y="943.80951"
+         x="583.16541"
+         sodipodi:role="line"
+         id="tspan7777">3-Prime-UTR; happy life; wife</tspan><tspan
+         id="tspan7779"
+         style="font-size:14px"
+         y="961.30951"
+         x="583.16541"
+         sodipodi:role="line">and 1.2 kids</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="795.16541"
+       y="952.70764"
+       id="text7781"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="795.16541"
+         y="952.70764"
+         style="font-size:14px"
+         id="tspan7783">3-Prime-UTR</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7785"
+       y="952.70764"
+       x="913.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         id="tspan7787"
+         style="font-size:14px"
+         y="952.70764"
+         x="913.16541"
+         sodipodi:role="line">mRNA</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7789"
+       y="983.80951"
+       x="363.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         id="tspan7791"
+         style="font-size:14px"
+         y="983.80951"
+         x="363.16541"
+         sodipodi:role="line">Worm sequencing ligands </tspan><tspan
+         style="font-size:14px"
+         y="1001.3095"
+         x="363.16541"
+         sodipodi:role="line"
+         id="tspan7793">peptides gene expression gmod</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="583.16541"
+       y="983.80951"
+       id="text7795"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan7797"
+         sodipodi:role="line"
+         x="583.16541"
+         y="983.80951"
+         style="font-size:14px">3-Prime-UTR; happy life; wife</tspan><tspan
+         sodipodi:role="line"
+         x="583.16541"
+         y="1001.3095"
+         style="font-size:14px"
+         id="tspan7799">and 1.2 kids</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7801"
+       y="992.70764"
+       x="795.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         id="tspan7803"
+         style="font-size:14px"
+         y="992.70764"
+         x="795.16541"
+         sodipodi:role="line">3-Prime-UTR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="913.16541"
+       y="992.70764"
+       id="text7805"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="913.16541"
+         y="992.70764"
+         style="font-size:14px"
+         id="tspan7807">mRNA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="363.16541"
+       y="1022.7063"
+       id="text7809"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="363.16541"
+         y="1022.7063"
+         style="font-size:14px"
+         id="tspan7811">Worm sequencing ligands </tspan><tspan
+         id="tspan7813"
+         sodipodi:role="line"
+         x="363.16541"
+         y="1040.2063"
+         style="font-size:14px">peptides gene expression gmod</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7815"
+       y="1022.7063"
+       x="583.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         style="font-size:14px"
+         y="1022.7063"
+         x="583.16541"
+         sodipodi:role="line"
+         id="tspan7817">3-Prime-UTR; happy life; wife</tspan><tspan
+         id="tspan7819"
+         style="font-size:14px"
+         y="1040.2063"
+         x="583.16541"
+         sodipodi:role="line">and 1.2 kids</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="795.16541"
+       y="1031.6042"
+       id="text7821"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="795.16541"
+         y="1031.6042"
+         style="font-size:14px"
+         id="tspan7823">3-Prime-UTR</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7825"
+       y="1031.6042"
+       x="913.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         id="tspan7827"
+         style="font-size:14px"
+         y="1031.6042"
+         x="913.16541"
+         sodipodi:role="line">mRNA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="363.16541"
+       y="904.70624"
+       id="text7829"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="363.16541"
+         y="904.70624"
+         style="font-size:14px"
+         id="tspan7831">Worm sequencing ligands </tspan><tspan
+         id="tspan7833"
+         sodipodi:role="line"
+         x="363.16541"
+         y="922.20624"
+         style="font-size:14px">peptides gene expression gmod</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 260.77813,432.91297 -1.8711,-1.47577 c -0.058,-0.0477 -0.1296,-0.0818 -0.2114,-0.0818 -0.082,0 -0.1567,0.0341 -0.2147,0.0852 l -6.8062,8.74554 c 0,0 -2.6755,-2.57322 -2.7505,-2.6482 -0.075,-0.075 -0.1738,-0.20109 -0.3237,-0.20109 -0.15,0 -0.2182,0.10566 -0.2966,0.18405 -0.058,0.0614 -1.0122,1.06337 -1.4826,1.56097 -0.027,0.0307 -0.044,0.0477 -0.068,0.0716 -0.041,0.058 -0.068,0.1227 -0.068,0.19427 0,0.075 0.027,0.13633 0.068,0.19428 l 0.095,0.0886 c 0,0 4.7477,4.56022 4.8261,4.63861 0.078,0.0784 0.1738,0.17723 0.3135,0.17723 0.1364,0 0.2488,-0.14656 0.3136,-0.21131 l 8.4899,-10.90637 c 0.041,-0.058 0.068,-0.12269 0.068,-0.19767 0,-0.0852 -0.034,-0.15679 -0.082,-0.21813 z"
+       id="path5564-2"
+       style="fill:#1a1a1a;display:inline" />
+    <path
+       style="fill:#1a1a1a;display:inline"
+       id="path7892"
+       d="m 260.77813,472.91297 -1.8711,-1.47577 c -0.058,-0.0477 -0.1296,-0.0818 -0.2114,-0.0818 -0.082,0 -0.1567,0.0341 -0.2147,0.0852 l -6.8062,8.74554 c 0,0 -2.6755,-2.57322 -2.7505,-2.6482 -0.075,-0.075 -0.1738,-0.20109 -0.3237,-0.20109 -0.15,0 -0.2182,0.10566 -0.2966,0.18405 -0.058,0.0614 -1.0122,1.06337 -1.4826,1.56097 -0.027,0.0307 -0.044,0.0477 -0.068,0.0716 -0.041,0.058 -0.068,0.1227 -0.068,0.19427 0,0.075 0.027,0.13633 0.068,0.19428 l 0.095,0.0886 c 0,0 4.7477,4.56022 4.8261,4.63861 0.078,0.0784 0.1738,0.17723 0.3135,0.17723 0.1364,0 0.2488,-0.14656 0.3136,-0.21131 l 8.4899,-10.90637 c 0.041,-0.058 0.068,-0.12269 0.068,-0.19767 0,-0.0852 -0.034,-0.15679 -0.082,-0.21813 z"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 260.77813,629.32609 -1.8711,-1.47577 c -0.058,-0.0477 -0.1296,-0.0818 -0.2114,-0.0818 -0.082,0 -0.1567,0.0341 -0.2147,0.0852 l -6.8062,8.74554 c 0,0 -2.6755,-2.57322 -2.7505,-2.6482 -0.075,-0.075 -0.1738,-0.20109 -0.3237,-0.20109 -0.15,0 -0.2182,0.10566 -0.2966,0.18405 -0.058,0.0614 -1.0122,1.06337 -1.4826,1.56097 -0.027,0.0307 -0.044,0.0477 -0.068,0.0716 -0.041,0.058 -0.068,0.1227 -0.068,0.19427 0,0.075 0.027,0.13633 0.068,0.19428 l 0.095,0.0886 c 0,0 4.7477,4.56022 4.8261,4.63861 0.078,0.0784 0.1738,0.17723 0.3135,0.17723 0.1364,0 0.2488,-0.14656 0.3136,-0.21131 l 8.4899,-10.90637 c 0.041,-0.058 0.068,-0.12269 0.068,-0.19767 0,-0.0852 -0.034,-0.15679 -0.082,-0.21813 z"
+       id="path7894"
+       style="fill:#1a1a1a;display:inline" />
+    <path
+       style="fill:#1a1a1a;display:inline"
+       id="path7896"
+       d="m 260.77813,826.42937 -1.8711,-1.47577 c -0.058,-0.0477 -0.1296,-0.0818 -0.2114,-0.0818 -0.082,0 -0.1567,0.0341 -0.2147,0.0852 l -6.8062,8.74554 c 0,0 -2.6755,-2.57322 -2.7505,-2.6482 -0.075,-0.075 -0.1738,-0.20109 -0.3237,-0.20109 -0.15,0 -0.2182,0.10566 -0.2966,0.18405 -0.058,0.0614 -1.0122,1.06337 -1.4826,1.56097 -0.027,0.0307 -0.044,0.0477 -0.068,0.0716 -0.041,0.058 -0.068,0.1227 -0.068,0.19427 0,0.075 0.027,0.13633 0.068,0.19428 l 0.095,0.0886 c 0,0 4.7477,4.56022 4.8261,4.63861 0.078,0.0784 0.1738,0.17723 0.3135,0.17723 0.1364,0 0.2488,-0.14656 0.3136,-0.21131 l 8.4899,-10.90637 c 0.041,-0.058 0.068,-0.12269 0.068,-0.19767 0,-0.0852 -0.034,-0.15679 -0.082,-0.21813 z"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 260.77813,944.42937 -1.8711,-1.47577 c -0.058,-0.0477 -0.1296,-0.0818 -0.2114,-0.0818 -0.082,0 -0.1567,0.0341 -0.2147,0.0852 l -6.8062,8.74554 c 0,0 -2.6755,-2.57322 -2.7505,-2.6482 -0.075,-0.075 -0.1738,-0.20109 -0.3237,-0.20109 -0.15,0 -0.2182,0.10566 -0.2966,0.18405 -0.058,0.0614 -1.0122,1.06337 -1.4826,1.56097 -0.027,0.0307 -0.044,0.0477 -0.068,0.0716 -0.041,0.058 -0.068,0.1227 -0.068,0.19427 0,0.075 0.027,0.13633 0.068,0.19428 l 0.095,0.0886 c 0,0 4.7477,4.56022 4.8261,4.63861 0.078,0.0784 0.1738,0.17723 0.3135,0.17723 0.1364,0 0.2488,-0.14656 0.3136,-0.21131 l 8.4899,-10.90637 c 0.041,-0.058 0.068,-0.12269 0.068,-0.19767 0,-0.0852 -0.034,-0.15679 -0.082,-0.21813 z"
+       id="path7898"
+       style="fill:#1a1a1a;display:inline" />
   </g>
 </svg>

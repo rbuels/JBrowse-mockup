@@ -64,17 +64,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="29.869905"
-     inkscape:cx="895.5624"
-     inkscape:cy="474.13437"
+     inkscape:zoom="0.90755208"
+     inkscape:cx="683"
+     inkscape:cy="516.22382"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showborder="true"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1375"
+     inkscape:window-width="1600"
      inkscape:window-height="876"
-     inkscape:window-x="65"
+     inkscape:window-x="1440"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
@@ -94,7 +94,11 @@
      inkscape:object-nodes="true">
     <inkscape:grid
        type="xygrid"
-       id="grid2986" />
+       id="grid2986"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -128,177 +132,257 @@
      id="layer1"
      transform="translate(0,-284.36218)"
      style="display:inline">
+    <g
+       id="g6637">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect6591"
+         width="1136.2285"
+         height="39.526424"
+         x="229.77156"
+         y="693.64886" />
+      <rect
+         style="fill:#e0eaf9;fill-opacity:1;stroke:none"
+         id="rect6593"
+         width="1136.2285"
+         height="39.044518"
+         x="229.77156"
+         y="-772.21985"
+         transform="scale(1,-1)" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect6585"
+         width="1136.2285"
+         height="39.526424"
+         x="229.77156"
+         y="615.07794" />
+      <rect
+         style="fill:#e0eaf9;fill-opacity:1;stroke:none"
+         id="rect6587"
+         width="1136.2285"
+         height="39.044518"
+         x="229.77156"
+         y="-693.64886"
+         transform="scale(1,-1)" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect6579"
+         width="1136.2285"
+         height="39.526424"
+         x="229.77156"
+         y="536.50696" />
+      <rect
+         style="fill:#e0eaf9;fill-opacity:1;stroke:none"
+         id="rect6581"
+         width="1136.2285"
+         height="39.044518"
+         x="229.77156"
+         y="-615.07794"
+         transform="scale(1,-1)" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect6573"
+         width="1136.2285"
+         height="39.526424"
+         x="229.77156"
+         y="457.93604" />
+      <rect
+         style="fill:#e0eaf9;fill-opacity:1;stroke:none"
+         id="rect6575"
+         width="1136.2285"
+         height="39.044518"
+         x="229.77156"
+         y="-536.50696"
+         transform="scale(1,-1)" />
+      <rect
+         y="379.36508"
+         x="229.77156"
+         height="39.526424"
+         width="1136.2285"
+         id="rect6513"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <rect
+         transform="scale(1,-1)"
+         y="-457.93604"
+         x="229.77156"
+         height="39.044518"
+         width="1136.2285"
+         id="rect5565"
+         style="fill:#e0eaf9;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect6597"
+         width="1136.2285"
+         height="39.526424"
+         x="229.77156"
+         y="772.21985" />
+      <rect
+         style="fill:#e0eaf9;fill-opacity:1;stroke:none"
+         id="rect6599"
+         width="1136.2285"
+         height="39.044518"
+         x="229.77156"
+         y="-850.79077"
+         transform="scale(1,-1)" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect6603"
+         width="1136.2285"
+         height="39.526424"
+         x="229.77156"
+         y="850.79077" />
+      <rect
+         style="fill:#e0eaf9;fill-opacity:1;stroke:none"
+         id="rect6605"
+         width="1136.2285"
+         height="39.044518"
+         x="229.77156"
+         y="-929.36176"
+         transform="scale(1,-1)" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect6609"
+         width="1136.2285"
+         height="39.526424"
+         x="229.77156"
+         y="929.36176" />
+      <rect
+         style="fill:#e0eaf9;fill-opacity:1;stroke:none"
+         id="rect6611"
+         width="1136.2285"
+         height="39.044518"
+         x="229.77156"
+         y="-1007.9327"
+         transform="scale(1,-1)" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect6615"
+         width="1136.2285"
+         height="39.526424"
+         x="229.77156"
+         y="1007.9327" />
+      <rect
+         style="fill:#e0eaf9;fill-opacity:1;stroke:none"
+         id="rect6617"
+         width="1136.2285"
+         height="4.9030647"
+         x="229.77156"
+         y="-1052.3622"
+         transform="scale(1,-1)" />
+    </g>
+    <g
+       id="g19844"
+       transform="matrix(6.2738301,0,0,0.85299715,0,-6.632134)">
+      <rect
+         style="fill:#808080"
+         id="rect19846"
+         width="217.72984"
+         height="28.345486"
+         x="0"
+         y="425.21149" />
+      <rect
+         y="426.24969"
+         x="0"
+         height="26.269077"
+         width="217.72984"
+         id="rect19848"
+         style="fill:#b3b3b3" />
+    </g>
+    <g
+       id="g5054"
+       transform="translate(1160,0)">
+      <rect
+         y="412.74298"
+         x="1025.3236"
+         height="171.41367"
+         width="239.87015"
+         id="rect7499"
+         style="fill:#e0eaf9;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:#adc5e3;fill-opacity:1;stroke:none"
+         id="rect7501"
+         width="239.87015"
+         height="37.449005"
+         x="1025.3236"
+         y="412.74298" />
+      <flowRoot
+         transform="translate(745.55617,279.45392)"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         id="flowRoot7503"
+         xml:space="preserve"><flowRegion
+           id="flowRegion7505"><rect
+             style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000"
+             y="139.95587"
+             x="284.92627"
+             height="162.9991"
+             width="227.49887"
+             id="rect7507"
+             ry="0" /></flowRegion><flowPara
+           style="font-size:13px;fill:#000000"
+           id="flowPara7509" /><flowPara
+           style="font-size:13px;font-weight:bold;text-align:center;word-spacing:0px;text-anchor:middle;fill:#000000"
+           id="flowPara7511" /><flowPara
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d"
+           id="flowPara7513">Target</flowPara><flowPara
+           id="flowPara7515"
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">mRNA</flowPara><flowPara
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d"
+           id="flowPara7517">Factor</flowPara><flowPara
+           id="flowPara7519"
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">3-prime-UTR</flowPara><flowPara
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d"
+           id="flowPara7521">Conditions</flowPara><flowPara
+           id="flowPara7523"
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">L1 8 hr post-L1 stage larvae; L1 stage larvae;20 degree celcius;RACE</flowPara><flowPara
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
+           id="flowPara7525" /></flowRoot>      <g
+         transform="translate(739.17729,-206.31928)"
+         id="g7527">
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke:none"
+           id="rect7529"
+           width="16.30084"
+           height="16.30084"
+           x="293.69916"
+           y="630.06134" />
+        <rect
+           y="632.09894"
+           x="295.73676"
+           height="12.22563"
+           width="12.22563"
+           id="rect7531"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot7533"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         transform="translate(771.46138,274.40653)"><flowRegion
+           id="flowRegion7535"><rect
+             ry="0"
+             id="rect7537"
+             width="202.80615"
+             height="35.829586"
+             x="284.92627"
+             y="139.95587"
+             style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000" /></flowRegion><flowPara
+           style="font-size:13px;font-weight:bold;fill:#000000"
+           id="flowPara7604">worm/UTRome_V2_3_polyA_</flowPara><flowPara
+           style="font-size:13px;font-weight:bold;fill:#000000"
+           id="flowPara7608">site_6102_2745</flowPara></flowRoot>      <image
+         width="16"
+         height="16"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAp9JREFU OI1tk11IU2EYx3+TcRhrG3h06iynaGghFnMiIgaSHxe2DI2hN6JBFiKCGhQkmiFe2I1BCBpJxC78 yJRyRkSEEHghWwMryIvKtmqKbZN1Gms3p4szT4U9Vy8vz/99nv/Hq5FlWc7umceeL/K/CoZjfNuL Y88XWe6rBWBpfYvR5Q2mOqrQ7oRjALhXN0Gn+xcdjiLkpuO/dZ4vkTjZPfME338FvQCxBHRUoTUY 9AS9n3A47Tx/FyTxI6GA43E8k+34Q1GyumYgHlcGJMGWY4c5kqpDC8AhAffqJo7qIrwfw9jzRYYb Sym7vvQHCAhGgdkrNTSV57G/uUb6JcsG54TSFI6qU5t758BsAMBiNeO76cBg0NM68UKhuyvhcXWi lSTlJXuhmYaTpZT1z4BOx+LtFlUofyiK9eojErvRAyJr9w8WUY8vEFLF8/kjTHVUAdB69xWJz98V /sBgWyXdp4vIFPVoZFmWNS3TKtdBZyk2a6oCSk5cHDiDNc2EPxSlqTyPoQUfY8/eMnvpFCk74RiC UXnZUZGLLxDC549QX2yBXQnBbFLBPn8EAJs1VaWgiFg9pnL2bgQglsBeUYBnpJGdcIyslimlO0nB UV3EvfZKMkU9KZIUw15znObRFSyiHovVjKOhhIGzJ9Ccm2Di5Sbbc5exVxQo4UmGLstxB++HcFKD unEQTQdtzElXtVlM+j+04GPEtQaBPTwPu9D+TAZPMApcc1arNnpcnQw/ea14DjSPrqgOyI+71SCl SFIMRBP1xRZGXGsIZhMAZf0z2HLS2L5/AUuGUVlfp2PEtYambhzbDfdfIrZN/xNZteJx1cbKoxlc fLCG++kb9T94JtuVIAlGgZJC84GU7Ve3ax2A5d5alvtqWVrfUu9+A2r3KLu5hd6MAAAAAElFTkSu QmCC "
+         id="image5150-4"
+         x="1249.1937"
+         y="568.15662"
+         style="display:inline" />
+    </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:1.01152825px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 245.32366,402.5961 1017.59474,0"
+       d="m 1405.3237,402.5961 1017.5947,0"
        id="path12779"
        inkscape:connector-curvature="0" />
-    <rect
-       style="fill:#e0eaf9;fill-opacity:1;stroke:none"
-       id="rect7499"
-       width="239.87015"
-       height="171.41367"
-       x="1025.3236"
-       y="412.74298" />
-    <rect
-       y="412.74298"
-       x="1025.3236"
-       height="37.449005"
-       width="239.87015"
-       id="rect7501"
-       style="fill:#adc5e3;fill-opacity:1;stroke:none" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot7503"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="translate(745.55617,279.45392)"><flowRegion
-         id="flowRegion7505"><rect
-           ry="0"
-           id="rect7507"
-           width="227.49887"
-           height="162.9991"
-           x="284.92627"
-           y="139.95587"
-           style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000" /></flowRegion><flowPara
-         id="flowPara7509"
-         style="font-size:13px;fill:#000000" /><flowPara
-         id="flowPara7511"
-         style="font-size:13px;font-weight:bold;text-align:center;word-spacing:0px;text-anchor:middle;fill:#000000" /><flowPara
-         id="flowPara7513"
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Target</flowPara><flowPara
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
-         id="flowPara7515">mRNA</flowPara><flowPara
-         id="flowPara7517"
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Factor</flowPara><flowPara
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
-         id="flowPara7519">3-prime-UTR</flowPara><flowPara
-         id="flowPara7521"
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Conditions</flowPara><flowPara
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
-         id="flowPara7523">L1 8 hr post-L1 stage larvae; L1 stage larvae;20 degree celcius;RACE</flowPara><flowPara
-         id="flowPara7525"
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000" /></flowRoot>    <g
-       id="g7527"
-       transform="translate(739.17729,-206.31928)">
-      <rect
-         y="630.06134"
-         x="293.69916"
-         height="16.30084"
-         width="16.30084"
-         id="rect7529"
-         style="fill:#666666;fill-opacity:1;stroke:none" />
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
-         id="rect7531"
-         width="12.22563"
-         height="12.22563"
-         x="295.73676"
-         y="632.09894" />
-    </g>
-    <flowRoot
-       transform="translate(771.46138,274.40653)"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       id="flowRoot7533"
-       xml:space="preserve"><flowRegion
-         id="flowRegion7535"><rect
-           style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000"
-           y="139.95587"
-           x="284.92627"
-           height="35.829586"
-           width="202.80615"
-           id="rect7537"
-           ry="0" /></flowRegion><flowPara
-         id="flowPara7604"
-         style="font-size:13px;font-weight:bold;fill:#000000">worm/UTRome_V2_3_polyA_</flowPara><flowPara
-         id="flowPara7608"
-         style="font-size:13px;font-weight:bold;fill:#000000">site_6102_2745</flowPara></flowRoot>    <rect
-       style="fill:#e0eaf9;fill-opacity:1;stroke:none"
-       id="rect7407"
-       width="239.87015"
-       height="171.41367"
-       x="505.32367"
-       y="412.74298" />
-    <rect
-       y="412.74298"
-       x="505.32367"
-       height="37.449005"
-       width="239.87015"
-       id="rect7409"
-       style="fill:#adc5e3;fill-opacity:1;stroke:none" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot7411"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="translate(225.55617,279.45392)"><flowRegion
-         id="flowRegion7413"><rect
-           ry="0"
-           id="rect7415"
-           width="227.49887"
-           height="162.9991"
-           x="284.92627"
-           y="139.95587"
-           style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000" /></flowRegion><flowPara
-         id="flowPara7417"
-         style="font-size:13px;fill:#000000" /><flowPara
-         id="flowPara7419"
-         style="font-size:13px;font-weight:bold;text-align:center;word-spacing:0px;text-anchor:middle;fill:#000000" /><flowPara
-         id="flowPara7421"
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Target</flowPara><flowPara
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
-         id="flowPara7423">mRNA</flowPara><flowPara
-         id="flowPara7425"
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Factor</flowPara><flowPara
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
-         id="flowPara7427">3-prime-UTR</flowPara><flowPara
-         id="flowPara7429"
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Conditions</flowPara><flowPara
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
-         id="flowPara7431">L1 8 hr post-L1 stage larvae; L1 stage larvae;20 degree celcius;RACE</flowPara><flowPara
-         id="flowPara7433"
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000" /></flowRoot>    <g
-       id="g7435"
-       transform="translate(219.17729,-206.31928)">
-      <rect
-         y="630.06134"
-         x="293.69916"
-         height="16.30084"
-         width="16.30084"
-         id="rect7437"
-         style="fill:#666666;fill-opacity:1;stroke:none" />
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
-         id="rect7439"
-         width="12.22563"
-         height="12.22563"
-         x="295.73676"
-         y="632.09894" />
-    </g>
-    <flowRoot
-       transform="matrix(0.83871133,0,0,0.83871133,294.813,297.11784)"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       id="flowRoot7441"
-       xml:space="preserve"><flowRegion
-         id="flowRegion7443"><rect
-           style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000"
-           y="139.95587"
-           x="284.92627"
-           height="40.170639"
-           width="244.91139"
-           id="rect7445"
-           ry="0" /></flowRegion><flowPara
-         id="flowPara7590"
-         style="font-size:15.49996948px;font-weight:bold;fill:#000000">worm/UTRome_V2_3_polyA_</flowPara><flowPara
-         id="flowPara7594"
-         style="font-size:15.49996948px;font-weight:bold;fill:#000000">signal_sequence_6102_2745</flowPara></flowRoot>    <g
-       id="g8707"
-       style="fill:#4284d3;display:inline;enable-background:new"
-       transform="matrix(0.61247666,0,0,0.61247666,472.6212,188.37865)">
-      <path
-         inkscape:connector-curvature="0"
-         id="rect8652"
-         d="m 404,376.0625 0,10.25 -3,0 0,12.125 -3,0 0,16.625 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 2.90625,0 0.0937,0 2.90625,0 0,-10.6875 -2.90625,0 0,-11.5 -3,0 0,-6.5625 -3,0 0,-10.25 -3,0 0,13.5 -3,0 0,-13.5 -3,0 0,10.25 -3,0 0,9.5 -3,0 0,5.9375 -3,0 0,-25.6875 -3,0 z"
-         style="fill:#4284d3;fill-opacity:1;stroke:none" />
-    </g>
     <use
        inkscape:transform-center-x="44"
        height="1"
@@ -651,198 +735,199 @@
          style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
          sodipodi:type="star" />
     </g>
-    <rect
-       y="380.25067"
-       x="0"
-       height="37.321621"
-       width="217.72984"
-       id="rect19538"
-       style="fill:#f9f9f9" />
-    <flowRoot
-       transform="translate(0,231.69705)"
-       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       id="flowRoot19540"
-       xml:space="preserve"><flowRegion
-         id="flowRegion19542"><rect
-           style="text-align:end;text-anchor:end"
-           y="149.50687"
+    <g
+       id="g5400">
+      <rect
+         style="fill:#f9f9f9"
+         id="rect19538"
+         width="217.72984"
+         height="37.321621"
+         x="0"
+         y="380.25067" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot19540"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         transform="translate(0,231.69705)"><flowRegion
+           id="flowRegion19542"><rect
+             id="rect19544"
+             width="40.254147"
+             height="41.338333"
+             x="0"
+             y="149.50687"
+             style="text-align:end;text-anchor:end" /></flowRegion><flowPara
+           id="flowPara19546"
+           style="font-size:14px">1</flowPara><flowPara
+           style="font-size:14px"
+           id="flowPara19548">123</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot19550"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         transform="translate(-18,231.36218)"><flowRegion
+           id="flowRegion19552"><rect
+             id="rect19554"
+             width="140.69118"
+             height="42.964867"
+             x="73.424339"
+             y="150.84634"
+             style="font-size:22px" /></flowRegion><flowPara
+           id="flowPara19556"
+           style="font-size:14px">Currently Active</flowPara><flowPara
+           id="flowPara19558"
+           style="font-size:14px">Recent</flowPara></flowRoot>      <g
+         id="g5339">
+        <rect
+           style="fill:#f9f9f9"
+           id="rect19560"
+           width="217.72984"
+           height="236.76352"
            x="0"
-           height="41.338333"
-           width="40.254147"
-           id="rect19544" /></flowRegion><flowPara
-         style="font-size:14px"
-         id="flowPara19546">1</flowPara><flowPara
-         id="flowPara19548"
-         style="font-size:14px">123</flowPara></flowRoot>    <flowRoot
-       transform="translate(-18,231.36218)"
-       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       id="flowRoot19550"
-       xml:space="preserve"><flowRegion
-         id="flowRegion19552"><rect
-           style="font-size:22px"
-           y="150.84634"
-           x="73.424339"
-           height="42.964867"
-           width="140.69118"
-           id="rect19554" /></flowRegion><flowPara
-         style="font-size:14px"
-         id="flowPara19556">Currently Active</flowPara><flowPara
-         style="font-size:14px"
-         id="flowPara19558">Recent</flowPara></flowRoot>    <rect
-       style="fill:#f9f9f9"
-       id="rect19560"
-       width="217.72984"
-       height="236.76352"
-       x="0"
-       y="441.75092" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot19562"
-       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="translate(-9.3964843e-7,292.83655)"><flowRegion
-         id="flowRegion19564"><rect
-           id="rect19566"
-           width="40.863934"
-           height="280.25693"
-           x="0"
-           y="149.50687"
-           style="text-align:end;text-anchor:end" /></flowRegion><flowPara
-         id="flowPara19568"
-         style="font-size:14px">1</flowPara><flowPara
-         style="font-size:14px"
-         id="flowPara19570">44</flowPara><flowPara
-         id="flowPara19572"
-         style="font-size:14px">9</flowPara><flowPara
-         id="flowPara19574"
-         style="font-size:14px">539</flowPara><flowPara
-         id="flowPara19576"
-         style="font-size:14px">375</flowPara><flowPara
-         id="flowPara19578"
-         style="font-size:14px" /><flowPara
-         id="flowPara19580"
-         style="font-size:14px">271</flowPara><flowPara
-         id="flowPara19582"
-         style="font-size:14px" /><flowPara
-         id="flowPara19584"
-         style="font-size:14px">345</flowPara><flowPara
-         id="flowPara19586"
-         style="font-size:14px" /><flowPara
-         id="flowPara19588"
-         style="font-size:14px">1</flowPara><flowPara
-         id="flowPara19590"
-         style="font-size:14px">22</flowPara><flowPara
-         id="flowPara19592"
-         style="font-size:14px">199</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot19594"
-       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="translate(-18.000001,293.43963)"><flowRegion
-         id="flowRegion19596"><rect
-           id="rect19598"
-           width="158.8324"
-           height="293.05444"
-           x="73.424339"
-           y="150.84634"
-           style="font-size:22px" /></flowRegion><flowPara
-         id="flowPara19600"
-         style="font-size:14px">(No data)</flowPara><flowPara
-         id="flowPara19602"
-         style="font-size:14px">Chromatin Structure</flowPara><flowPara
-         id="flowPara19604"
-         style="font-size:14px">Copy Number Variation</flowPara><flowPara
-         id="flowPara19606"
-         style="font-size:14px">Gene Structure</flowPara><flowPara
-         id="flowPara19608"
-         style="font-size:14px">Histone modification and replacement</flowPara><flowPara
-         id="flowPara19610"
-         style="font-size:14px">Other Chromatin binding sites</flowPara><flowPara
-         id="flowPara19612"
-         style="font-size:14px">RNA expression profiling</flowPara><flowPara
-         id="flowPara19614"
-         style="font-size:14px">Reference Sequence</flowPara><flowPara
-         id="flowPara19616"
-         style="font-size:14px">Replication</flowPara><flowPara
-         id="flowPara19618"
-         style="font-size:14px">TF binding sites</flowPara><flowPara
-         id="flowPara19620"
-         style="font-size:14px" /></flowRoot>    <rect
-       transform="matrix(0,1,-1,0,0,0)"
-       y="-229.77156"
-       x="323.19247"
-       height="1.2805017"
-       width="729.16974"
-       id="rect19622"
-       style="fill:#4d4d4d" />
-    <rect
-       y="749.27911"
-       x="0"
-       height="164.73141"
-       width="217.72984"
-       id="rect19624"
-       style="fill:#f9f9f9" />
-    <flowRoot
-       transform="translate(-1e-6,598.52045)"
-       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       id="flowRoot19626"
-       xml:space="preserve"><flowRegion
-         id="flowRegion19628"><rect
-           style="text-align:end;text-anchor:end"
-           y="149.50687"
-           x="0"
-           height="181.32033"
-           width="40.863934"
-           id="rect19630" /></flowRegion><flowPara
-         style="font-size:14px"
-         id="flowPara19632">1</flowPara><flowPara
-         style="font-size:14px"
-         id="flowPara19634">544</flowPara><flowPara
-         id="flowPara19636"
-         style="font-size:14px">1</flowPara><flowPara
-         id="flowPara19638"
-         style="font-size:14px">1245</flowPara><flowPara
-         id="flowPara19640"
-         style="font-size:14px">4</flowPara><flowPara
-         id="flowPara19642"
-         style="font-size:14px">4</flowPara><flowPara
-         id="flowPara19644"
-         style="font-size:14px">4</flowPara><flowPara
-         id="flowPara19646"
-         style="font-size:14px">1</flowPara><flowPara
-         id="flowPara19648"
-         style="font-size:14px">1</flowPara><flowPara
-         style="font-size:14px"
-         id="flowPara19650" /><flowPara
-         style="font-size:14px"
-         id="flowPara19652" /></flowRoot>    <flowRoot
-       transform="translate(-18.000001,598.18558)"
-       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       id="flowRoot19654"
-       xml:space="preserve"><flowRegion
-         id="flowRegion19656"><rect
-           style="font-size:22px"
-           y="150.84634"
-           x="73.424339"
-           height="184.75778"
-           width="140.42558"
-           id="rect19658" /></flowRegion><flowPara
-         style="font-size:14px"
-         id="flowPara19660">(No Data)</flowPara><flowPara
-         id="flowPara19662"
-         style="font-size:14px">C. Elegans</flowPara><flowPara
-         id="flowPara19664"
-         style="font-size:14px">D. Ananassae</flowPara><flowPara
-         id="flowPara19666"
-         style="font-size:14px">D. Melanogaster</flowPara><flowPara
-         id="flowPara19668"
-         style="font-size:14px">D. Mojavensis</flowPara><flowPara
-         id="flowPara19670"
-         style="font-size:14px">D. Pseudoobscura</flowPara><flowPara
-         id="flowPara19672"
-         style="font-size:14px">D. Simulans</flowPara><flowPara
-         id="flowPara19674"
-         style="font-size:14px">D. Virilis</flowPara><flowPara
-         style="font-size:14px"
-         id="flowPara19676">D. yakuba</flowPara></flowRoot>    <text
+           y="441.75092" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot19562"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           transform="translate(-9.3964843e-7,292.83655)"><flowRegion
+             id="flowRegion19564"><rect
+               id="rect19566"
+               width="40.863934"
+               height="280.25693"
+               x="0"
+               y="149.50687"
+               style="text-align:end;text-anchor:end" /></flowRegion><flowPara
+             id="flowPara19568"
+             style="font-size:14px">1</flowPara><flowPara
+             style="font-size:14px"
+             id="flowPara19570">44</flowPara><flowPara
+             id="flowPara19572"
+             style="font-size:14px">9</flowPara><flowPara
+             id="flowPara19574"
+             style="font-size:14px">539</flowPara><flowPara
+             id="flowPara19576"
+             style="font-size:14px">375</flowPara><flowPara
+             id="flowPara19578"
+             style="font-size:14px" /><flowPara
+             id="flowPara19580"
+             style="font-size:14px">271</flowPara><flowPara
+             id="flowPara19582"
+             style="font-size:14px" /><flowPara
+             id="flowPara19584"
+             style="font-size:14px">345</flowPara><flowPara
+             id="flowPara19586"
+             style="font-size:14px" /><flowPara
+             id="flowPara19588"
+             style="font-size:14px">1</flowPara><flowPara
+             id="flowPara19590"
+             style="font-size:14px">22</flowPara><flowPara
+             id="flowPara19592"
+             style="font-size:14px">199</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot19594"
+           style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           transform="translate(-18.000001,293.43963)"><flowRegion
+             id="flowRegion19596"><rect
+               id="rect19598"
+               width="158.8324"
+               height="293.05444"
+               x="73.424339"
+               y="150.84634"
+               style="font-size:22px" /></flowRegion><flowPara
+             id="flowPara19600"
+             style="font-size:14px">(No data)</flowPara><flowPara
+             id="flowPara19602"
+             style="font-size:14px">Chromatin Structure</flowPara><flowPara
+             id="flowPara19604"
+             style="font-size:14px">Copy Number Variation</flowPara><flowPara
+             id="flowPara19606"
+             style="font-size:14px">Gene Structure</flowPara><flowPara
+             id="flowPara19608"
+             style="font-size:14px">Histone modification and replacement</flowPara><flowPara
+             id="flowPara19610"
+             style="font-size:14px">Other Chromatin binding sites</flowPara><flowPara
+             id="flowPara19612"
+             style="font-size:14px">RNA expression profiling</flowPara><flowPara
+             id="flowPara19614"
+             style="font-size:14px">Reference Sequence</flowPara><flowPara
+             id="flowPara19616"
+             style="font-size:14px">Replication</flowPara><flowPara
+             id="flowPara19618"
+             style="font-size:14px">TF binding sites</flowPara><flowPara
+             id="flowPara19620"
+             style="font-size:14px" /></flowRoot>        <g
+           id="g5310">
+          <rect
+             style="fill:#f9f9f9"
+             id="rect19624"
+             width="217.72984"
+             height="164.73141"
+             x="0"
+             y="749.27911" />
+          <flowRoot
+             xml:space="preserve"
+             id="flowRoot19626"
+             style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+             transform="translate(-1e-6,598.52045)"><flowRegion
+               id="flowRegion19628"><rect
+                 id="rect19630"
+                 width="40.863934"
+                 height="181.32033"
+                 x="0"
+                 y="149.50687"
+                 style="text-align:end;text-anchor:end" /></flowRegion><flowPara
+               id="flowPara19632"
+               style="font-size:14px">1</flowPara><flowPara
+               id="flowPara19634"
+               style="font-size:14px">544</flowPara><flowPara
+               style="font-size:14px"
+               id="flowPara19636">1</flowPara><flowPara
+               style="font-size:14px"
+               id="flowPara19638">1245</flowPara><flowPara
+               style="font-size:14px"
+               id="flowPara19640">4</flowPara><flowPara
+               style="font-size:14px"
+               id="flowPara19642">4</flowPara><flowPara
+               style="font-size:14px"
+               id="flowPara19644">4</flowPara><flowPara
+               style="font-size:14px"
+               id="flowPara19646">1</flowPara><flowPara
+               style="font-size:14px"
+               id="flowPara19648">1</flowPara><flowPara
+               id="flowPara19650"
+               style="font-size:14px" /><flowPara
+               id="flowPara19652"
+               style="font-size:14px" /></flowRoot>          <flowRoot
+             xml:space="preserve"
+             id="flowRoot19654"
+             style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+             transform="translate(-18.000001,598.18558)"><flowRegion
+               id="flowRegion19656"><rect
+                 id="rect19658"
+                 width="140.42558"
+                 height="184.75778"
+                 x="73.424339"
+                 y="150.84634"
+                 style="font-size:22px" /></flowRegion><flowPara
+               id="flowPara19660"
+               style="font-size:14px">(No Data)</flowPara><flowPara
+               style="font-size:14px"
+               id="flowPara19662">C. Elegans</flowPara><flowPara
+               style="font-size:14px"
+               id="flowPara19664">D. Ananassae</flowPara><flowPara
+               style="font-size:14px"
+               id="flowPara19666">D. Melanogaster</flowPara><flowPara
+               style="font-size:14px"
+               id="flowPara19668">D. Mojavensis</flowPara><flowPara
+               style="font-size:14px"
+               id="flowPara19670">D. Pseudoobscura</flowPara><flowPara
+               style="font-size:14px"
+               id="flowPara19672">D. Simulans</flowPara><flowPara
+               style="font-size:14px"
+               id="flowPara19674">D. Virilis</flowPara><flowPara
+               id="flowPara19676"
+               style="font-size:14px">D. yakuba</flowPara></flowRoot>        </g>
+      </g>
+    </g>
+    <text
        sodipodi:linespacing="125%"
        id="text19678"
        y="309.01276"
@@ -854,55 +939,66 @@
          x="1311.661"
          id="tspan19680"
          sodipodi:role="line">Help</tspan></text>
-    <rect
-       y="356.07205"
-       x="217.72984"
-       height="696.2901"
-       width="10.761212"
-       id="rect19682"
-       style="fill:url(#linearGradient4113);fill-opacity:1" />
-    <path
-       inkscape:transform-center-y="-1.092863"
-       transform="matrix(-0.5971856,0,0,-1.0282334,379.17762,436.07801)"
-       d="m 261.39758,75.681572 -2.24599,-3.890167 -2.24599,-3.890167 4.49198,-1e-6 4.49198,0 -2.24599,3.890168 z"
-       inkscape:randomized="0"
-       inkscape:rounded="0"
-       inkscape:flatsided="false"
-       sodipodi:arg2="2.6179939"
-       sodipodi:arg1="1.5707963"
-       sodipodi:r2="2.5934448"
-       sodipodi:r1="5.1868896"
-       sodipodi:cy="70.494682"
-       sodipodi:cx="261.39758"
-       sodipodi:sides="3"
-       id="path19684"
-       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
-       sodipodi:type="star" />
-    <path
-       inkscape:transform-center-y="1.0928672"
-       transform="matrix(0.60889308,0,0,1.0282334,63.81897,973.21002)"
-       d="m 261.39758,75.681572 -2.24599,-3.890167 -2.24599,-3.890167 4.49198,-1e-6 4.49198,0 -2.24599,3.890168 z"
-       inkscape:randomized="0"
-       inkscape:rounded="0"
-       inkscape:flatsided="false"
-       sodipodi:arg2="2.6179939"
-       sodipodi:arg1="1.5707963"
-       sodipodi:r2="2.5934448"
-       sodipodi:r1="5.1868896"
-       sodipodi:cy="70.494682"
-       sodipodi:cx="261.39758"
-       sodipodi:sides="3"
-       id="path19686"
-       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
-       sodipodi:type="star" />
-    <rect
-       ry="3.2537994"
-       y="369.35355"
-       x="219.85147"
-       height="230.06491"
-       width="6.5075989"
-       id="rect19688"
-       style="fill:#808080" />
+    <g
+       id="g5282">
+      <rect
+         style="fill:#4d4d4d"
+         id="rect19622"
+         width="729.16974"
+         height="1.2805017"
+         x="323.19247"
+         y="-229.77156"
+         transform="matrix(0,1,-1,0,0,0)" />
+      <rect
+         style="fill:url(#linearGradient4113);fill-opacity:1"
+         id="rect19682"
+         width="10.761212"
+         height="696.2901"
+         x="217.72984"
+         y="356.07205" />
+      <path
+         sodipodi:type="star"
+         style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
+         id="path19684"
+         sodipodi:sides="3"
+         sodipodi:cx="261.39758"
+         sodipodi:cy="70.494682"
+         sodipodi:r1="5.1868896"
+         sodipodi:r2="2.5934448"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.6179939"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 261.39758,75.681572 -2.24599,-3.890167 -2.24599,-3.890167 4.49198,-1e-6 4.49198,0 -2.24599,3.890168 z"
+         transform="matrix(-0.5971856,0,0,-1.0282334,379.17762,436.07801)"
+         inkscape:transform-center-y="-1.092863" />
+      <path
+         sodipodi:type="star"
+         style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
+         id="path19686"
+         sodipodi:sides="3"
+         sodipodi:cx="261.39758"
+         sodipodi:cy="70.494682"
+         sodipodi:r1="5.1868896"
+         sodipodi:r2="2.5934448"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.6179939"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 261.39758,75.681572 -2.24599,-3.890167 -2.24599,-3.890167 4.49198,-1e-6 4.49198,0 -2.24599,3.890168 z"
+         transform="matrix(0.60889308,0,0,1.0282334,63.81897,973.21002)"
+         inkscape:transform-center-y="1.0928672" />
+      <rect
+         style="fill:#808080"
+         id="rect19688"
+         width="6.5075989"
+         height="230.06491"
+         x="219.85147"
+         y="369.35355"
+         ry="3.2537994" />
+    </g>
     <g
        transform="translate(-4.6982423e-7,-105.02731)"
        id="g19690">
@@ -1038,66 +1134,44 @@
          id="flowPara19818" /></flowRoot>    <text
        xml:space="preserve"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       x="251.41161"
+       x="1411.4116"
        y="394.40833"
        id="text19838"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan19840"
-         x="251.41161"
+         x="1411.4116"
          y="394.40833"
          style="font-size:24px;fill:#333333">C. Elegans</tspan></text>
-    <g
-       transform="translate(0,-69.139433)"
-       id="g19842">
-      <g
-         transform="matrix(1,0,0,0.85299715,0,62.507299)"
-         id="g19844">
-        <rect
-           y="425.21149"
-           x="0"
-           height="28.345486"
-           width="217.72984"
-           id="rect19846"
-           style="fill:#808080" />
-        <rect
-           style="fill:#b3b3b3"
-           id="rect19848"
-           width="217.72984"
-           height="26.269077"
-           x="0"
-           y="426.24969" />
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+    <text
+       sodipodi:linespacing="125%"
+       id="text19850"
+       y="372.71384"
+       x="29.489906"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         style="font-size:14px;font-weight:bold"
+         y="372.71384"
          x="29.489906"
-         y="441.85327"
-         id="text19850"
-         sodipodi:linespacing="125%"><tspan
-           id="tspan19852"
-           sodipodi:role="line"
-           x="29.489906"
-           y="441.85327"
-           style="font-size:14px;font-weight:bold">My Tracks</tspan></text>
-      <path
-         sodipodi:type="star"
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
-         id="path19854"
-         sodipodi:sides="3"
-         sodipodi:cx="261.39758"
-         sodipodi:cy="70.494682"
-         sodipodi:r1="5.1868896"
-         sodipodi:r2="2.5934448"
-         sodipodi:arg1="1.5707963"
-         sodipodi:arg2="2.6179939"
-         inkscape:flatsided="false"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         d="m 261.39758,75.681572 -2.24599,-3.890167 -2.24599,-3.890167 4.49198,-1e-6 4.49198,0 -2.24599,3.890168 z"
-         transform="matrix(1.4470239,0,0,1.0282334,-361.50079,363.2152)"
-         inkscape:transform-center-y="1.0928672" />
-    </g>
+         sodipodi:role="line"
+         id="tspan19852">My Tracks</tspan></text>
+    <path
+       inkscape:transform-center-y="1.0928672"
+       transform="matrix(1.4470239,0,0,1.0282334,-361.50079,294.07577)"
+       d="m 261.39758,75.681572 -2.24599,-3.890167 -2.24599,-3.890167 4.49198,-1e-6 4.49198,0 -2.24599,3.890168 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="2.6179939"
+       sodipodi:arg1="1.5707963"
+       sodipodi:r2="2.5934448"
+       sodipodi:r1="5.1868896"
+       sodipodi:cy="70.494682"
+       sodipodi:cx="261.39758"
+       sodipodi:sides="3"
+       id="path19854"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
+       sodipodi:type="star" />
     <g
        transform="translate(-1.5570561,4.5786284)"
        id="g19856">
@@ -1313,60 +1387,63 @@
          inkscape:transform-center-y="1.0928672"
          inkscape:transform-center-x="1.7994396e-05" />
     </g>
-    <rect
-       y="968.7254"
-       x="-1.2143555e-06"
-       height="83.63678"
-       width="217.72984"
-       id="rect19916"
-       style="fill:#f9f9f9" />
+    <g
+       id="g5289">
+      <rect
+         style="fill:#f9f9f9"
+         id="rect19916"
+         width="217.72984"
+         height="83.63678"
+         x="-1.2143555e-06"
+         y="968.7254" />
+      <flowRoot
+         transform="translate(-1e-6,818.52045)"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         id="flowRoot19918"
+         xml:space="preserve"><flowRegion
+           id="flowRegion19920"><rect
+             style="text-align:end;text-anchor:end"
+             y="149.50687"
+             x="0"
+             height="89.639076"
+             width="40.863934"
+             id="rect19922" /></flowRegion><flowPara
+           style="font-size:14px"
+           id="flowPara19924">2</flowPara><flowPara
+           style="font-size:14px"
+           id="flowPara19926">44</flowPara><flowPara
+           style="font-size:14px"
+           id="flowPara19928">9</flowPara><flowPara
+           style="font-size:14px"
+           id="flowPara19930">22</flowPara><flowPara
+           style="font-size:14px"
+           id="flowPara19932">375</flowPara><flowPara
+           style="font-size:14px"
+           id="flowPara19934" /></flowRoot>      <flowRoot
+         transform="translate(-18.918485,817.66074)"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         id="flowRoot19936"
+         xml:space="preserve"><flowRegion
+           id="flowRegion19938"><rect
+             style="font-size:22px"
+             y="150.84634"
+             x="73.424339"
+             height="88.794708"
+             width="156.81892"
+             id="rect19940" /></flowRegion><flowPara
+           style="font-size:14px"
+           id="flowPara19942">(no data)</flowPara><flowPara
+           style="font-size:14px"
+           id="flowPara19944">Chromatin Structure</flowPara><flowPara
+           style="font-size:14px"
+           id="flowPara19946">Copy Number Variation</flowPara><flowPara
+           style="font-size:14px"
+           id="flowPara19948">DNA Replication</flowPara><flowPara
+           style="font-size:14px"
+           id="flowPara19950">Histone Modification</flowPara><flowPara
+           style="font-size:14px"
+           id="flowPara19952" /></flowRoot>    </g>
     <flowRoot
-       xml:space="preserve"
-       id="flowRoot19918"
-       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="translate(-1e-6,818.52045)"><flowRegion
-         id="flowRegion19920"><rect
-           id="rect19922"
-           width="40.863934"
-           height="89.639076"
-           x="0"
-           y="149.50687"
-           style="text-align:end;text-anchor:end" /></flowRegion><flowPara
-         id="flowPara19924"
-         style="font-size:14px">2</flowPara><flowPara
-         id="flowPara19926"
-         style="font-size:14px">44</flowPara><flowPara
-         id="flowPara19928"
-         style="font-size:14px">9</flowPara><flowPara
-         id="flowPara19930"
-         style="font-size:14px">22</flowPara><flowPara
-         id="flowPara19932"
-         style="font-size:14px">375</flowPara><flowPara
-         id="flowPara19934"
-         style="font-size:14px" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot19936"
-       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="translate(-18.918485,817.66074)"><flowRegion
-         id="flowRegion19938"><rect
-           id="rect19940"
-           width="156.81892"
-           height="88.794708"
-           x="73.424339"
-           y="150.84634"
-           style="font-size:22px" /></flowRegion><flowPara
-         id="flowPara19942"
-         style="font-size:14px">(no data)</flowPara><flowPara
-         id="flowPara19944"
-         style="font-size:14px">Chromatin Structure</flowPara><flowPara
-         id="flowPara19946"
-         style="font-size:14px">Copy Number Variation</flowPara><flowPara
-         id="flowPara19948"
-         style="font-size:14px">DNA Replication</flowPara><flowPara
-         id="flowPara19950"
-         style="font-size:14px">Histone Modification</flowPara><flowPara
-         id="flowPara19952"
-         style="font-size:14px" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4350"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
@@ -1413,12 +1490,12 @@
        transform="matrix(1.447024,0,0,1.0282334,770.52407,265.89366)"
        inkscape:transform-center-y="1.126602" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#828282;stroke-width:0.93601608;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:#828282;stroke-width:0.97878289;stroke-opacity:1"
        id="rect4673"
-       width="185.67436"
-       height="155.36992"
-       x="1088.8979"
-       y="351.88754" />
+       width="185.73534"
+       height="169.83627"
+       x="1088.8674"
+       y="351.85706" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot5443"
@@ -1444,7 +1521,7 @@
        xml:space="preserve"
        id="flowRoot5467"
        style="font-size:14px;font-style:normal;font-weight:normal;line-height:141.99999571%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(8,284.36218)"><flowRegion
+       transform="translate(8,278.36218)"><flowRegion
          id="flowRegion5469"><rect
            id="rect5471"
            width="152.05739"
@@ -1458,8 +1535,9 @@
          id="flowPara5479">Organism</flowPara><flowPara
          id="flowPara5481">Principle Investigator</flowPara><flowPara
          id="flowPara5483">Target</flowPara><flowPara
-         id="flowPara5553">Technique</flowPara></flowRoot>    <g
-       transform="translate(801.72445,-265.32531)"
+         id="flowPara5553">Technique</flowPara><flowPara
+         id="flowPara6449">Track Type</flowPara></flowRoot>    <g
+       transform="translate(801.72445,-271.32531)"
        id="g4500-2">
       <rect
          style="fill:#666666;fill-opacity:1;stroke:none"
@@ -1478,7 +1556,7 @@
     </g>
     <g
        id="g5511"
-       transform="translate(801.72445,-245.32531)">
+       transform="translate(801.72445,-251.32531)">
       <rect
          y="630.06134"
          x="293.69916"
@@ -1495,7 +1573,7 @@
          y="632.09894" />
     </g>
     <g
-       transform="translate(801.72445,-225.32531)"
+       transform="translate(801.72445,-231.32531)"
        id="g5517">
       <rect
          style="fill:#666666;fill-opacity:1;stroke:none"
@@ -1514,7 +1592,7 @@
     </g>
     <g
        id="g5523"
-       transform="translate(801.72445,-205.32531)">
+       transform="translate(801.72445,-211.32531)">
       <rect
          y="630.06134"
          x="293.69916"
@@ -1531,7 +1609,7 @@
          y="632.09894" />
     </g>
     <g
-       transform="translate(801.72445,-185.32531)"
+       transform="translate(801.72445,-191.32531)"
        id="g5529">
       <rect
          style="fill:#666666;fill-opacity:1;stroke:none"
@@ -1550,7 +1628,7 @@
     </g>
     <g
        id="g5535"
-       transform="translate(801.72445,-165.32531)">
+       transform="translate(801.72445,-171.32531)">
       <rect
          y="630.06134"
          x="293.69916"
@@ -1567,7 +1645,7 @@
          y="632.09894" />
     </g>
     <g
-       transform="translate(801.72445,-145.32531)"
+       transform="translate(801.72445,-151.32531)"
        id="g5541">
       <rect
          style="fill:#666666;fill-opacity:1;stroke:none"
@@ -1587,17 +1665,17 @@
     <path
        style="fill:#1a1a1a"
        id="path5562"
-       d="m 1111.7736,466.51621 -1.8711,-1.47577 c -0.058,-0.0477 -0.1296,-0.0818 -0.2114,-0.0818 -0.082,0 -0.1567,0.0341 -0.2147,0.0852 l -6.8062,8.74554 c 0,0 -2.6755,-2.57322 -2.7505,-2.6482 -0.075,-0.075 -0.1738,-0.20109 -0.3237,-0.20109 -0.15,0 -0.2182,0.10566 -0.2966,0.18405 -0.058,0.0614 -1.0122,1.06337 -1.4826,1.56097 -0.027,0.0307 -0.044,0.0477 -0.068,0.0716 -0.041,0.058 -0.068,0.1227 -0.068,0.19427 0,0.075 0.027,0.13633 0.068,0.19428 l 0.095,0.0886 c 0,0 4.7477,4.56022 4.8261,4.63861 0.078,0.0784 0.1738,0.17723 0.3135,0.17723 0.1364,0 0.2488,-0.14656 0.3136,-0.21131 l 8.4899,-10.90637 c 0.041,-0.058 0.068,-0.12269 0.068,-0.19767 0,-0.0852 -0.034,-0.15679 -0.082,-0.21813 z"
+       d="m 1111.7736,460.51621 -1.8711,-1.47577 c -0.058,-0.0477 -0.1296,-0.0818 -0.2114,-0.0818 -0.082,0 -0.1567,0.0341 -0.2147,0.0852 l -6.8062,8.74554 c 0,0 -2.6755,-2.57322 -2.7505,-2.6482 -0.075,-0.075 -0.1738,-0.20109 -0.3237,-0.20109 -0.15,0 -0.2182,0.10566 -0.2966,0.18405 -0.058,0.0614 -1.0122,1.06337 -1.4826,1.56097 -0.027,0.0307 -0.044,0.0477 -0.068,0.0716 -0.041,0.058 -0.068,0.1227 -0.068,0.19427 0,0.075 0.027,0.13633 0.068,0.19428 l 0.095,0.0886 c 0,0 4.7477,4.56022 4.8261,4.63861 0.078,0.0784 0.1738,0.17723 0.3135,0.17723 0.1364,0 0.2488,-0.14656 0.3136,-0.21131 l 8.4899,-10.90637 c 0.041,-0.058 0.068,-0.12269 0.068,-0.19767 0,-0.0852 -0.034,-0.15679 -0.082,-0.21813 z"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
-       d="m 1111.7736,406.51621 -1.8711,-1.47577 c -0.058,-0.0477 -0.1296,-0.0818 -0.2114,-0.0818 -0.082,0 -0.1567,0.0341 -0.2147,0.0852 l -6.8062,8.74554 c 0,0 -2.6755,-2.57322 -2.7505,-2.6482 -0.075,-0.075 -0.1738,-0.20109 -0.3237,-0.20109 -0.15,0 -0.2182,0.10566 -0.2966,0.18405 -0.058,0.0614 -1.0122,1.06337 -1.4826,1.56097 -0.027,0.0307 -0.044,0.0477 -0.068,0.0716 -0.041,0.058 -0.068,0.1227 -0.068,0.19427 0,0.075 0.027,0.13633 0.068,0.19428 l 0.095,0.0886 c 0,0 4.7477,4.56022 4.8261,4.63861 0.078,0.0784 0.1738,0.17723 0.3135,0.17723 0.1364,0 0.2488,-0.14656 0.3136,-0.21131 l 8.4899,-10.90637 c 0.041,-0.058 0.068,-0.12269 0.068,-0.19767 0,-0.0852 -0.034,-0.15679 -0.082,-0.21813 z"
+       d="m 1111.7736,400.51621 -1.8711,-1.47577 c -0.058,-0.0477 -0.1296,-0.0818 -0.2114,-0.0818 -0.082,0 -0.1567,0.0341 -0.2147,0.0852 l -6.8062,8.74554 c 0,0 -2.6755,-2.57322 -2.7505,-2.6482 -0.075,-0.075 -0.1738,-0.20109 -0.3237,-0.20109 -0.15,0 -0.2182,0.10566 -0.2966,0.18405 -0.058,0.0614 -1.0122,1.06337 -1.4826,1.56097 -0.027,0.0307 -0.044,0.0477 -0.068,0.0716 -0.041,0.058 -0.068,0.1227 -0.068,0.19427 0,0.075 0.027,0.13633 0.068,0.19428 l 0.095,0.0886 c 0,0 4.7477,4.56022 4.8261,4.63861 0.078,0.0784 0.1738,0.17723 0.3135,0.17723 0.1364,0 0.2488,-0.14656 0.3136,-0.21131 l 8.4899,-10.90637 c 0.041,-0.058 0.068,-0.12269 0.068,-0.19767 0,-0.0852 -0.034,-0.15679 -0.082,-0.21813 z"
        id="path5564"
        style="fill:#1a1a1a" />
     <path
        style="fill:#1a1a1a"
        id="path5566"
-       d="m 1111.7736,386.51621 -1.8711,-1.47577 c -0.058,-0.0477 -0.1296,-0.0818 -0.2114,-0.0818 -0.082,0 -0.1567,0.0341 -0.2147,0.0852 l -6.8062,8.74554 c 0,0 -2.6755,-2.57322 -2.7505,-2.6482 -0.075,-0.075 -0.1738,-0.20109 -0.3237,-0.20109 -0.15,0 -0.2182,0.10566 -0.2966,0.18405 -0.058,0.0614 -1.0122,1.06337 -1.4826,1.56097 -0.027,0.0307 -0.044,0.0477 -0.068,0.0716 -0.041,0.058 -0.068,0.1227 -0.068,0.19427 0,0.075 0.027,0.13633 0.068,0.19428 l 0.095,0.0886 c 0,0 4.7477,4.56022 4.8261,4.63861 0.078,0.0784 0.1738,0.17723 0.3135,0.17723 0.1364,0 0.2488,-0.14656 0.3136,-0.21131 l 8.4899,-10.90637 c 0.041,-0.058 0.068,-0.12269 0.068,-0.19767 0,-0.0852 -0.034,-0.15679 -0.082,-0.21813 z"
+       d="m 1111.7736,380.51621 -1.8711,-1.47577 c -0.058,-0.0477 -0.1296,-0.0818 -0.2114,-0.0818 -0.082,0 -0.1567,0.0341 -0.2147,0.0852 l -6.8062,8.74554 c 0,0 -2.6755,-2.57322 -2.7505,-2.6482 -0.075,-0.075 -0.1738,-0.20109 -0.3237,-0.20109 -0.15,0 -0.2182,0.10566 -0.2966,0.18405 -0.058,0.0614 -1.0122,1.06337 -1.4826,1.56097 -0.027,0.0307 -0.044,0.0477 -0.068,0.0716 -0.041,0.058 -0.068,0.1227 -0.068,0.19427 0,0.075 0.027,0.13633 0.068,0.19428 l 0.095,0.0886 c 0,0 4.7477,4.56022 4.8261,4.63861 0.078,0.0784 0.1738,0.17723 0.3135,0.17723 0.1364,0 0.2488,-0.14656 0.3136,-0.21131 l 8.4899,-10.90637 c 0.041,-0.058 0.068,-0.12269 0.068,-0.19767 0,-0.0852 -0.034,-0.15679 -0.082,-0.21813 z"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -1619,110 +1697,867 @@
            height="44.009998"
            x="469.44"
            y="340.84412" /></flowRegion><flowPara
-         id="flowPara12207" /></flowRoot>    <rect
-       y="412.74298"
-       x="245.32365"
-       height="171.41367"
-       width="239.87015"
-       id="rect19728"
-       style="fill:#e0eaf9;fill-opacity:1;stroke:none" />
-    <rect
-       style="fill:#adc5e3;fill-opacity:1;stroke:none"
-       id="rect3556"
-       width="239.87015"
-       height="16.000013"
-       x="245.32367"
-       y="568.15662" />
-    <rect
-       style="fill:#adc5e3;fill-opacity:1;stroke:none"
-       id="rect5638"
-       width="239.87015"
-       height="37.449005"
-       x="245.32365"
-       y="412.74298" />
-    <flowRoot
-       transform="translate(-34.443827,279.45392)"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       id="flowRoot19730"
-       xml:space="preserve"><flowRegion
-         id="flowRegion19732"><rect
-           style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000"
-           y="139.95587"
-           x="284.92627"
-           height="140.21695"
-           width="227.77747"
-           id="rect19734"
-           ry="0" /></flowRegion><flowPara
-         style="font-size:13px;fill:#000000"
-         id="flowPara19736" /><flowPara
-         style="font-size:13px;font-weight:bold;text-align:center;word-spacing:0px;text-anchor:middle;fill:#000000"
-         id="flowPara5622" /><flowPara
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#333333"
-         id="flowPara4398">Target</flowPara><flowPara
-         id="flowPara5591"
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">mRNA</flowPara><flowPara
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#333333"
-         id="flowPara19748">Factor</flowPara><flowPara
-         id="flowPara5593"
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">3-prime-UTR</flowPara><flowPara
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#333333"
-         id="flowPara19762">Conditions</flowPara><flowPara
-         id="flowPara5595"
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">L1 8 hr post-L1 stage larvae; L1 stage larvae;20 degree celciuzs;RACE</flowPara><flowPara
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;text-anchor:middle;fill:#666666"
-         id="flowPara12217" /><flowPara
-         style="font-size:11px;font-style:italic;text-align:center;text-anchor:middle;fill:#4d4d4d"
-         id="flowPara19766" /><flowPara
-         style="font-size:11px;font-style:italic;text-align:center;text-anchor:middle;fill:#4d4d4d"
-         id="flowPara12209" /></flowRoot>    <g
-       transform="translate(-40.822708,-206.31928)"
-       id="g19770">
+         id="flowPara12207" /></flowRoot>    <g
+       id="g5134"
+       transform="translate(1160,0)">
       <rect
-         style="fill:#666666;fill-opacity:1;stroke:none"
-         id="rect19772"
-         width="16.30084"
-         height="16.30084"
-         x="293.69916"
-         y="630.06134" />
+         style="fill:#e0eaf9;fill-opacity:1;stroke:none"
+         id="rect12377"
+         width="239.87015"
+         height="171.41367"
+         x="505.32367"
+         y="604.74298" />
       <rect
-         y="632.09894"
-         x="295.73676"
-         height="12.22563"
-         width="12.22563"
-         id="rect19774"
-         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+         y="604.74298"
+         x="505.32367"
+         height="37.449005"
+         width="239.87015"
+         id="rect12379"
+         style="fill:#adc5e3;fill-opacity:1;stroke:none" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot12381"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         transform="translate(225.55617,471.45392)"><flowRegion
+           id="flowRegion12383"><rect
+             ry="0"
+             id="rect12385"
+             width="227.49887"
+             height="162.9991"
+             x="284.92627"
+             y="139.95587"
+             style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000" /></flowRegion><flowPara
+           id="flowPara12387"
+           style="font-size:13px;fill:#000000" /><flowPara
+           id="flowPara12389"
+           style="font-size:13px;font-weight:bold;text-align:center;word-spacing:0px;text-anchor:middle;fill:#000000" /><flowPara
+           id="flowPara12391"
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Target</flowPara><flowPara
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
+           id="flowPara12393">mRNA</flowPara><flowPara
+           id="flowPara12395"
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Factor</flowPara><flowPara
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
+           id="flowPara12397">3-prime-UTR</flowPara><flowPara
+           id="flowPara12399"
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Conditions</flowPara><flowPara
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
+           id="flowPara12401">L1 8 hr post-L1 stage larvae; L1 stage larvae;20 degree celcius;RACE</flowPara><flowPara
+           id="flowPara12403"
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000" /></flowRoot>      <g
+         id="g12405"
+         transform="translate(219.17729,-14.31928)">
+        <rect
+           y="630.06134"
+           x="293.69916"
+           height="16.30084"
+           width="16.30084"
+           id="rect12407"
+           style="fill:#666666;fill-opacity:1;stroke:none" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="rect12409"
+           width="12.22563"
+           height="12.22563"
+           x="295.73676"
+           y="632.09894" />
+      </g>
+      <flowRoot
+         transform="translate(251.46138,466.40653)"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         id="flowRoot12411"
+         xml:space="preserve"><flowRegion
+           id="flowRegion12413"><rect
+             style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000"
+             y="139.95587"
+             x="284.92627"
+             height="35.829586"
+             width="202.80615"
+             id="rect12415"
+             ry="0" /></flowRegion><flowPara
+           id="flowPara12417"
+           style="font-size:13px;font-weight:bold;fill:#000000">worm/UTRome_V2_3_polyA_</flowPara><flowPara
+           id="flowPara12419"
+           style="font-size:13px;font-weight:bold;fill:#000000">site_6102_2745</flowPara></flowRoot>    </g>
+    <g
+       id="g5158"
+       transform="translate(1160,0)">
+      <rect
+         style="fill:#e0eaf9;fill-opacity:1;stroke:none"
+         id="rect12423"
+         width="239.87015"
+         height="171.41367"
+         x="245.32365"
+         y="604.74298" />
+      <rect
+         y="604.74298"
+         x="245.32365"
+         height="37.449005"
+         width="239.87015"
+         id="rect12425"
+         style="fill:#adc5e3;fill-opacity:1;stroke:none" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot12427"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         transform="translate(-34.44383,471.45392)"><flowRegion
+           id="flowRegion12429"><rect
+             ry="0"
+             id="rect12431"
+             width="227.49887"
+             height="162.9991"
+             x="284.92627"
+             y="139.95587"
+             style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000" /></flowRegion><flowPara
+           id="flowPara12433"
+           style="font-size:13px;fill:#000000" /><flowPara
+           id="flowPara12435"
+           style="font-size:13px;font-weight:bold;text-align:center;word-spacing:0px;text-anchor:middle;fill:#000000" /><flowPara
+           id="flowPara12437"
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Target</flowPara><flowPara
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
+           id="flowPara12439">mRNA</flowPara><flowPara
+           id="flowPara12441"
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Factor</flowPara><flowPara
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
+           id="flowPara12443">3-prime-UTR</flowPara><flowPara
+           id="flowPara12445"
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Conditions</flowPara><flowPara
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
+           id="flowPara12447">L1 8 hr post-L1 stage larvae; L1 stage larvae;20 degree celcius;RACE</flowPara><flowPara
+           id="flowPara12449"
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000" /></flowRoot>      <g
+         id="g12451"
+         transform="translate(-40.82271,-14.31928)">
+        <rect
+           y="630.06134"
+           x="293.69916"
+           height="16.30084"
+           width="16.30084"
+           id="rect12453"
+           style="fill:#666666;fill-opacity:1;stroke:none" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="rect12455"
+           width="12.22563"
+           height="12.22563"
+           x="295.73676"
+           y="632.09894" />
+      </g>
+      <flowRoot
+         transform="translate(-8.53861,466.40653)"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         id="flowRoot12457"
+         xml:space="preserve"><flowRegion
+           id="flowRegion12459"><rect
+             style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000"
+             y="139.95587"
+             x="284.92627"
+             height="35.829586"
+             width="202.80615"
+             id="rect12461"
+             ry="0" /></flowRegion><flowPara
+           id="flowPara12463"
+           style="font-size:13px;font-weight:bold;fill:#000000">worm/UTRome_V2_3_polyA_</flowPara><flowPara
+           id="flowPara12465"
+           style="font-size:13px;font-weight:bold;fill:#000000">signal_sequence_6102_2745</flowPara></flowRoot>    </g>
+    <g
+       id="g5105"
+       transform="translate(1160,0)">
+      <rect
+         y="604.74298"
+         x="765.32367"
+         height="171.41367"
+         width="239.87015"
+         id="rect12469"
+         style="fill:#e0eaf9;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:#adc5e3;fill-opacity:1;stroke:none"
+         id="rect12471"
+         width="239.87015"
+         height="37.449005"
+         x="765.32367"
+         y="604.74298" />
+      <flowRoot
+         transform="translate(485.55617,471.45392)"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         id="flowRoot12473"
+         xml:space="preserve"><flowRegion
+           id="flowRegion12475"><rect
+             style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000"
+             y="139.95587"
+             x="284.92627"
+             height="140.21695"
+             width="227.77747"
+             id="rect12477"
+             ry="0" /></flowRegion><flowPara
+           style="font-size:13px;fill:#000000"
+           id="flowPara12479" /><flowPara
+           style="font-size:13px;font-weight:bold;text-align:center;word-spacing:0px;text-anchor:middle;fill:#000000"
+           id="flowPara12481" /><flowPara
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d"
+           id="flowPara12483">Target</flowPara><flowPara
+           id="flowPara12485"
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">mRNA</flowPara><flowPara
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d"
+           id="flowPara12487">Factor</flowPara><flowPara
+           id="flowPara12489"
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">3-prime-UTR</flowPara><flowPara
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d"
+           id="flowPara12491">Conditions</flowPara><flowPara
+           id="flowPara12493"
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">L1 8 hr post-L1 stage larvae; L1z stage larvae;20 degree celcius;RACE</flowPara><flowPara
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;text-anchor:middle;fill:#666666"
+           id="flowPara12495" /><flowPara
+           style="font-size:11px;font-style:italic;text-align:center;text-anchor:middle;fill:#4d4d4d"
+           id="flowPara12497" /><flowPara
+           style="font-size:11px;font-style:italic;text-align:center;text-anchor:middle;fill:#4d4d4d"
+           id="flowPara12499" /></flowRoot>      <g
+         transform="translate(479.17729,-14.31928)"
+         id="g12501">
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke:none"
+           id="rect12503"
+           width="16.30084"
+           height="16.30084"
+           x="293.69916"
+           y="630.06134" />
+        <rect
+           y="632.09894"
+           x="295.73676"
+           height="12.22563"
+           width="12.22563"
+           id="rect12505"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot12507"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         transform="translate(511.46138,466.40653)"><flowRegion
+           id="flowRegion12509"><rect
+             ry="0"
+             id="rect12511"
+             width="202.80615"
+             height="35.829586"
+             x="284.92627"
+             y="139.95587"
+             style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000" /></flowRegion><flowPara
+           id="flowPara12513"
+           style="font-size:13px;font-weight:bold;fill:#000000">worm/UTRome_V2_3_three_</flowPara><flowPara
+           style="font-size:13px;font-weight:bold;fill:#000000"
+           id="flowPara12515">prime_UTR_6102_2745</flowPara></flowRoot>      <rect
+         y="758.63422"
+         x="765.32367"
+         height="17.522413"
+         width="239.87015"
+         id="rect3584"
+         style="fill:#adc5e3;fill-opacity:1;stroke:none" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="885.10834"
+         y="771.51404"
+         id="text12517"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan12519"
+           x="885.10834"
+           y="771.51404"
+           style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic">3 Subtracks</tspan></text>
     </g>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3341"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="translate(-8.538615,274.40653)"><flowRegion
-         id="flowRegion3343"><rect
-           ry="0"
-           id="rect3345"
-           width="202.80615"
-           height="35.829586"
-           x="284.92627"
-           y="139.95587"
-           style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000" /></flowRegion><flowPara
-         id="flowPara3363"
-         style="font-size:13px;font-weight:bold;fill:#000000">worm/UTRome_V2_3_three_</flowPara><flowPara
-         style="font-size:13px;font-weight:bold;fill:#000000"
-         id="flowPara3409">prime_UTR_6102_2745</flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="365.10834"
-       y="580.22107"
-       id="text12224"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan12226"
-         x="365.10834"
+    <text
+       sodipodi:linespacing="125%"
+       id="text12569"
+       y="814.40833"
+       x="1411.4116"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         style="font-size:24px;fill:#333333"
+         y="814.40833"
+         x="1411.4116"
+         id="tspan12571"
+         sodipodi:role="line">D. Melanogaster</tspan></text>
+    <g
+       id="g5205"
+       transform="translate(1160,0)">
+      <rect
+         y="834.74298"
+         x="505.32367"
+         height="171.41367"
+         width="239.87015"
+         id="rect12575"
+         style="fill:#e3f9e0;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:#8ee885;fill-opacity:1;stroke:none"
+         id="rect12577"
+         width="239.87015"
+         height="37.449005"
+         x="505.32367"
+         y="834.74298" />
+      <flowRoot
+         transform="translate(225.55617,701.45392)"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         id="flowRoot12579"
+         xml:space="preserve"><flowRegion
+           id="flowRegion12581"><rect
+             style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000"
+             y="139.95587"
+             x="284.92627"
+             height="162.9991"
+             width="227.49887"
+             id="rect12583"
+             ry="0" /></flowRegion><flowPara
+           style="font-size:13px;fill:#000000"
+           id="flowPara12585" /><flowPara
+           style="font-size:13px;font-weight:bold;text-align:center;word-spacing:0px;text-anchor:middle;fill:#000000"
+           id="flowPara12587" /><flowPara
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d"
+           id="flowPara12589">Target</flowPara><flowPara
+           id="flowPara12591"
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">mRNA</flowPara><flowPara
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d"
+           id="flowPara12593">Factor</flowPara><flowPara
+           id="flowPara12595"
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">3-prime-UTR</flowPara><flowPara
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d"
+           id="flowPara12597">Conditions</flowPara><flowPara
+           id="flowPara12599"
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">Adult mixed-sex flies, eclosion + 8 days</flowPara><flowPara
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
+           id="flowPara12601" /></flowRoot>      <g
+         transform="translate(219.17729,215.68072)"
+         id="g12603">
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke:none"
+           id="rect12605"
+           width="16.30084"
+           height="16.30084"
+           x="293.69916"
+           y="630.06134" />
+        <rect
+           y="632.09894"
+           x="295.73676"
+           height="12.22563"
+           width="12.22563"
+           id="rect12607"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot12609"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         transform="translate(257.46138,696.40653)"><flowRegion
+           id="flowRegion12611"><rect
+             ry="0"
+             id="rect12613"
+             width="202.80615"
+             height="35.829586"
+             x="284.92627"
+             y="139.95587"
+             style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000" /></flowRegion><flowPara
+           style="font-size:13px;font-weight:bold;fill:#000000"
+           id="flowPara12617">fly/White_CC_embryo_20_24h/E20_24</flowPara></flowRoot>    </g>
+    <g
+       id="g5182"
+       transform="translate(1160,0)">
+      <rect
+         y="834.74298"
+         x="245.32365"
+         height="171.41367"
+         width="239.87015"
+         id="rect12621"
+         style="fill:#e3f9e0;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:#8ee885;fill-opacity:1;stroke:none"
+         id="rect12623"
+         width="239.87015"
+         height="37.449005"
+         x="245.32365"
+         y="834.74298" />
+      <flowRoot
+         transform="translate(-34.44383,701.45392)"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         id="flowRoot12625"
+         xml:space="preserve"><flowRegion
+           id="flowRegion12627"><rect
+             style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000"
+             y="139.95587"
+             x="284.92627"
+             height="162.9991"
+             width="227.49887"
+             id="rect12629"
+             ry="0" /></flowRegion><flowPara
+           style="font-size:13px;fill:#000000"
+           id="flowPara12631" /><flowPara
+           style="font-size:13px;font-weight:bold;text-align:center;word-spacing:0px;text-anchor:middle;fill:#000000"
+           id="flowPara12633" /><flowPara
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d"
+           id="flowPara12635">Target</flowPara><flowPara
+           id="flowPara12637"
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">mRNA</flowPara><flowPara
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d"
+           id="flowPara12639">Factor</flowPara><flowPara
+           id="flowPara12641"
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">3-prime-UTR</flowPara><flowPara
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d"
+           id="flowPara12643">Conditions</flowPara><flowPara
+           id="flowPara12645"
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">Adult mixed-sex flies, eclosion + 4 days</flowPara><flowPara
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
+           id="flowPara12647" /></flowRoot>      <g
+         transform="translate(-40.82271,215.68072)"
+         id="g12649">
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke:none"
+           id="rect12651"
+           width="16.30084"
+           height="16.30084"
+           x="293.69916"
+           y="630.06134" />
+        <rect
+           y="632.09894"
+           x="295.73676"
+           height="12.22563"
+           width="12.22563"
+           id="rect12653"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot12655"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         transform="translate(-2.53861,696.40653)"><flowRegion
+           id="flowRegion12657"><rect
+             ry="0"
+             id="rect12659"
+             width="202.80615"
+             height="35.829586"
+             x="284.92627"
+             y="139.95587"
+             style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000" /></flowRegion><flowPara
+           style="font-size:13px;font-weight:bold;fill:#000000"
+           id="flowPara12663">fly/White_CC_embryo_20_24h/E20_24_K27Me3</flowPara></flowRoot>    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.00856912px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1405.3325,821.6122 1019.3526,0"
+       id="path12777"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g5079"
+       transform="translate(1160,0)">
+      <rect
+         y="604.74298"
+         x="1025.3236"
+         height="171.41367"
+         width="239.87015"
+         id="rect12523"
+         style="fill:#e0eaf9;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:#adc5e3;fill-opacity:1;stroke:none"
+         id="rect12525"
+         width="239.87015"
+         height="37.449005"
+         x="1025.3236"
+         y="604.74298" />
+      <flowRoot
+         transform="translate(745.55617,471.45392)"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         id="flowRoot12527"
+         xml:space="preserve"><flowRegion
+           id="flowRegion12529"><rect
+             style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000"
+             y="139.95587"
+             x="284.92627"
+             height="162.9991"
+             width="227.49887"
+             id="rect12531"
+             ry="0" /></flowRegion><flowPara
+           style="font-size:13px;fill:#000000"
+           id="flowPara12533" /><flowPara
+           style="font-size:13px;font-weight:bold;text-align:center;word-spacing:0px;text-anchor:middle;fill:#000000"
+           id="flowPara12535" /><flowPara
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d"
+           id="flowPara12537">Target</flowPara><flowPara
+           id="flowPara12539"
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">mRNA</flowPara><flowPara
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d"
+           id="flowPara12541">Factor</flowPara><flowPara
+           id="flowPara12543"
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">3-prime-UTR</flowPara><flowPara
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d"
+           id="flowPara12545">Conditions</flowPara><flowPara
+           id="flowPara12547"
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">L1 8 hr post-L1 stage larvae; L1 stage larvae;20 degree celcius;RACE</flowPara><flowPara
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
+           id="flowPara12549" /></flowRoot>      <g
+         transform="translate(739.17729,-14.31928)"
+         id="g12551">
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke:none"
+           id="rect12553"
+           width="16.30084"
+           height="16.30084"
+           x="293.69916"
+           y="630.06134" />
+        <rect
+           y="632.09894"
+           x="295.73676"
+           height="12.22563"
+           width="12.22563"
+           id="rect12555"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot12557"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         transform="translate(771.46138,475.04037)"><flowRegion
+           id="flowRegion12559"><rect
+             ry="0"
+             id="rect12561"
+             width="202.80615"
+             height="35.829586"
+             x="284.92627"
+             y="139.95587"
+             style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000" /></flowRegion><flowPara
+           id="flowPara12563"
+           style="font-size:13px;font-weight:bold;fill:#000000">worm/L1.ws220.sam.sorted</flowPara></flowRoot>      <rect
+         style="fill:#adc5e3;fill-opacity:1;stroke:none"
+         id="rect3586"
+         width="239.87015"
+         height="17.522413"
+         x="1025.3237"
+         y="758.63422" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text12565"
+         y="771.51404"
+         x="1145.1083"
+         style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic"
+           y="771.51404"
+           x="1145.1083"
+           sodipodi:role="line"
+           id="tspan12567">1 Subtrack</tspan></text>
+    </g>
+    <g
+       id="g5228"
+       transform="translate(1160,0)">
+      <rect
+         style="fill:#e3f9e0;fill-opacity:1;stroke:none"
+         id="rect12667"
+         width="239.87015"
+         height="171.41367"
+         x="765.32367"
+         y="834.74298" />
+      <rect
+         y="834.74298"
+         x="765.32367"
+         height="37.449005"
+         width="239.87015"
+         id="rect12669"
+         style="fill:#8ee885;fill-opacity:1;stroke:none" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot12671"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         transform="translate(485.55617,701.45392)"><flowRegion
+           id="flowRegion12673"><rect
+             ry="0"
+             id="rect12675"
+             width="227.77747"
+             height="140.21695"
+             x="284.92627"
+             y="139.95587"
+             style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000" /></flowRegion><flowPara
+           id="flowPara12677"
+           style="font-size:13px;fill:#000000" /><flowPara
+           id="flowPara12679"
+           style="font-size:13px;font-weight:bold;text-align:center;word-spacing:0px;text-anchor:middle;fill:#000000" /><flowPara
+           id="flowPara12681"
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Target</flowPara><flowPara
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
+           id="flowPara12683">mRNA</flowPara><flowPara
+           id="flowPara12685"
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Factor</flowPara><flowPara
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
+           id="flowPara12687">3-prime-UTR</flowPara><flowPara
+           id="flowPara12689"
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Conditions</flowPara><flowPara
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
+           id="flowPara12691">L3 stage wandering stage larvae</flowPara><flowPara
+           id="flowPara12693"
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;text-anchor:middle;fill:#666666" /><flowPara
+           id="flowPara12695"
+           style="font-size:11px;font-style:italic;text-align:center;text-anchor:middle;fill:#4d4d4d" /><flowPara
+           id="flowPara12697"
+           style="font-size:11px;font-style:italic;text-align:center;text-anchor:middle;fill:#4d4d4d" /></flowRoot>      <g
+         id="g12699"
+         transform="translate(479.17729,215.68072)">
+        <rect
+           y="630.06134"
+           x="293.69916"
+           height="16.30084"
+           width="16.30084"
+           id="rect12701"
+           style="fill:#666666;fill-opacity:1;stroke:none" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="rect12703"
+           width="12.22563"
+           height="12.22563"
+           x="295.73676"
+           y="632.09894" />
+      </g>
+      <flowRoot
+         transform="translate(517.46138,696.40653)"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         id="flowRoot12705"
+         xml:space="preserve"><flowRegion
+           id="flowRegion12707"><rect
+             style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000"
+             y="139.95587"
+             x="284.92627"
+             height="35.829586"
+             width="202.80615"
+             id="rect12709"
+             ry="0" /></flowRegion><flowPara
+           id="flowPara12713"
+           style="font-size:13px;font-weight:bold;fill:#000000">fly/White_CC_embryo_20_24h/E20</flowPara></flowRoot>      <rect
+         style="fill:#8ee885;fill-opacity:1;stroke:none"
+         id="rect3588"
+         width="239.87015"
+         height="17.522413"
+         x="765.32367"
+         y="988.63422" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text12715"
+         y="1001.514"
+         x="885.10834"
+         style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic"
+           y="1001.514"
+           x="885.10834"
+           id="tspan12717"
+           sodipodi:role="line">5 Subtracks</tspan></text>
+    </g>
+    <g
+       id="g5256"
+       transform="translate(1160,0)">
+      <rect
+         style="fill:#e3f9e0;fill-opacity:1;stroke:none"
+         id="rect12721"
+         width="239.87015"
+         height="171.41367"
+         x="1025.3236"
+         y="834.74298" />
+      <rect
+         y="834.74298"
+         x="1025.3236"
+         height="37.449005"
+         width="239.87015"
+         id="rect12723"
+         style="fill:#8ee885;fill-opacity:1;stroke:none" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot12725"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         transform="translate(745.55617,701.45392)"><flowRegion
+           id="flowRegion12727"><rect
+             ry="0"
+             id="rect12729"
+             width="227.49887"
+             height="162.9991"
+             x="284.92627"
+             y="139.95587"
+             style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000" /></flowRegion><flowPara
+           id="flowPara12731"
+           style="font-size:13px;fill:#000000" /><flowPara
+           id="flowPara12733"
+           style="font-size:13px;font-weight:bold;text-align:center;word-spacing:0px;text-anchor:middle;fill:#000000" /><flowPara
+           id="flowPara12735"
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Target</flowPara><flowPara
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
+           id="flowPara12737">mRNA</flowPara><flowPara
+           id="flowPara12739"
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Factor</flowPara><flowPara
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
+           id="flowPara12741">3-prime-UTR</flowPara><flowPara
+           id="flowPara12743"
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Conditions</flowPara><flowPara
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
+           id="flowPara12745">Adult mixed-sex flies, eclosion + 4 days</flowPara><flowPara
+           id="flowPara12747"
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000" /></flowRoot>      <g
+         id="g12749"
+         transform="translate(739.17729,215.68072)">
+        <rect
+           y="630.06134"
+           x="293.69916"
+           height="16.30084"
+           width="16.30084"
+           id="rect12751"
+           style="fill:#666666;fill-opacity:1;stroke:none" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="rect12753"
+           width="12.22563"
+           height="12.22563"
+           x="295.73676"
+           y="632.09894" />
+      </g>
+      <flowRoot
+         transform="translate(777.46138,705.04037)"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         id="flowRoot12755"
+         xml:space="preserve"><flowRegion
+           id="flowRegion12757"><rect
+             style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000"
+             y="139.95587"
+             x="284.92627"
+             height="35.829586"
+             width="202.80615"
+             id="rect12759"
+             ry="0" /></flowRegion><flowPara
+           style="font-size:13px;font-weight:bold;fill:#000000"
+           id="flowPara12761">fly/L1.ws220.sam.sorted</flowPara></flowRoot>      <rect
+         y="988.63422"
+         x="1025.3236"
+         height="17.522413"
+         width="239.87015"
+         id="rect4358"
+         style="fill:#8ee885;fill-opacity:1;stroke:none" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="1145.1083"
+         y="1001.514"
+         id="text12763"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan12765"
+           sodipodi:role="line"
+           x="1145.1083"
+           y="1001.514"
+           style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic">1 Subtrack</tspan></text>
+    </g>
+    <g
+       id="g6367">
+      <rect
+         style="fill:#e0eaf9;fill-opacity:1;stroke:none"
+         id="rect19728"
+         width="239.87015"
+         height="171.41367"
+         x="1405.3236"
+         y="412.74298" />
+      <rect
+         y="568.15662"
+         x="1405.3237"
+         height="16.000013"
+         width="239.87015"
+         id="rect3556"
+         style="fill:#adc5e3;fill-opacity:1;stroke:none" />
+      <rect
+         y="412.74298"
+         x="1405.3236"
+         height="37.449005"
+         width="239.87015"
+         id="rect5638"
+         style="fill:#adc5e3;fill-opacity:1;stroke:none" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot19730"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         transform="translate(1125.5562,279.45392)"><flowRegion
+           id="flowRegion19732"><rect
+             ry="0"
+             id="rect19734"
+             width="227.77747"
+             height="140.21695"
+             x="284.92627"
+             y="139.95587"
+             style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000" /></flowRegion><flowPara
+           id="flowPara19736"
+           style="font-size:13px;fill:#000000" /><flowPara
+           id="flowPara5622"
+           style="font-size:13px;font-weight:bold;text-align:center;word-spacing:0px;text-anchor:middle;fill:#000000" /><flowPara
+           id="flowPara4398"
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#333333">Target</flowPara><flowPara
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
+           id="flowPara5591">mRNA</flowPara><flowPara
+           id="flowPara19748"
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#333333">Factor</flowPara><flowPara
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
+           id="flowPara5593">3-prime-UTR</flowPara><flowPara
+           id="flowPara19762"
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#333333">Conditions</flowPara><flowPara
+           style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
+           id="flowPara5595">L1 8 hr post-L1 stage larvae; L1 stage larvae;20 degree celciuzs;RACE</flowPara><flowPara
+           id="flowPara12217"
+           style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;text-anchor:middle;fill:#666666" /><flowPara
+           id="flowPara19766"
+           style="font-size:11px;font-style:italic;text-align:center;text-anchor:middle;fill:#4d4d4d" /><flowPara
+           id="flowPara12209"
+           style="font-size:11px;font-style:italic;text-align:center;text-anchor:middle;fill:#4d4d4d" /></flowRoot>      <g
+         id="g19770"
+         transform="translate(1119.1773,-206.31928)">
+        <rect
+           y="630.06134"
+           x="293.69916"
+           height="16.30084"
+           width="16.30084"
+           id="rect19772"
+           style="fill:#666666;fill-opacity:1;stroke:none" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="rect19774"
+           width="12.22563"
+           height="12.22563"
+           x="295.73676"
+           y="632.09894" />
+      </g>
+      <flowRoot
+         transform="translate(1151.4614,274.40653)"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         id="flowRoot3341"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3343"><rect
+             style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000"
+             y="139.95587"
+             x="284.92627"
+             height="35.829586"
+             width="202.80615"
+             id="rect3345"
+             ry="0" /></flowRegion><flowPara
+           style="font-size:13px;font-weight:bold;fill:#000000"
+           id="flowPara3363">worm/UTRome_V2_3_three_</flowPara><flowPara
+           id="flowPara3409"
+           style="font-size:13px;font-weight:bold;fill:#000000">prime_UTR_6102_2745</flowPara></flowRoot>      <text
+         sodipodi:linespacing="125%"
+         id="text12224"
          y="580.22107"
-         style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic">4 Subtracks</tspan></text>
+         x="1525.1084"
+         style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic"
+           y="580.22107"
+           x="1525.1084"
+           id="tspan12226"
+           sodipodi:role="line">4 Subtracks</tspan></text>
+      <image
+         width="16"
+         height="16"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAp9JREFU OI1tk11IU2EYx3+TcRhrG3h06iynaGghFnMiIgaSHxe2DI2hN6JBFiKCGhQkmiFe2I1BCBpJxC78 yJRyRkSEEHghWwMryIvKtmqKbZN1Gms3p4szT4U9Vy8vz/99nv/Hq5FlWc7umceeL/K/CoZjfNuL Y88XWe6rBWBpfYvR5Q2mOqrQ7oRjALhXN0Gn+xcdjiLkpuO/dZ4vkTjZPfME338FvQCxBHRUoTUY 9AS9n3A47Tx/FyTxI6GA43E8k+34Q1GyumYgHlcGJMGWY4c5kqpDC8AhAffqJo7qIrwfw9jzRYYb Sym7vvQHCAhGgdkrNTSV57G/uUb6JcsG54TSFI6qU5t758BsAMBiNeO76cBg0NM68UKhuyvhcXWi lSTlJXuhmYaTpZT1z4BOx+LtFlUofyiK9eojErvRAyJr9w8WUY8vEFLF8/kjTHVUAdB69xWJz98V /sBgWyXdp4vIFPVoZFmWNS3TKtdBZyk2a6oCSk5cHDiDNc2EPxSlqTyPoQUfY8/eMnvpFCk74RiC UXnZUZGLLxDC549QX2yBXQnBbFLBPn8EAJs1VaWgiFg9pnL2bgQglsBeUYBnpJGdcIyslimlO0nB UV3EvfZKMkU9KZIUw15znObRFSyiHovVjKOhhIGzJ9Ccm2Di5Sbbc5exVxQo4UmGLstxB++HcFKD unEQTQdtzElXtVlM+j+04GPEtQaBPTwPu9D+TAZPMApcc1arNnpcnQw/ea14DjSPrqgOyI+71SCl SFIMRBP1xRZGXGsIZhMAZf0z2HLS2L5/AUuGUVlfp2PEtYambhzbDfdfIrZN/xNZteJx1cbKoxlc fLCG++kb9T94JtuVIAlGgZJC84GU7Ve3ax2A5d5alvtqWVrfUu9+A2r3KLu5hd6MAAAAAElFTkSu QmCC "
+         id="image5150"
+         x="1629.1938"
+         y="568.15662" />
+    </g>
     <rect
        y="412.74298"
-       x="765.32367"
+       x="1925.3237"
        height="171.41367"
        width="239.87015"
        id="rect7453"
@@ -1732,10 +2567,10 @@
        id="rect7455"
        width="239.87015"
        height="37.449005"
-       x="765.32367"
+       x="1925.3237"
        y="412.74298" />
     <flowRoot
-       transform="translate(485.55617,279.45388)"
+       transform="translate(1645.5562,279.45388)"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot7457"
        xml:space="preserve"><flowRegion
@@ -1765,7 +2600,7 @@
          style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">L1 8 hr post-L1 stage larvae; L1 stage larvae;20 degree celcius;RACE</flowPara><flowPara
          style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
          id="flowPara7479" /></flowRoot>    <g
-       transform="translate(479.17729,-206.31928)"
+       transform="translate(1639.1773,-206.31928)"
        id="g7481">
       <rect
          style="fill:#666666;fill-opacity:1;stroke:none"
@@ -1786,7 +2621,7 @@
        xml:space="preserve"
        id="flowRoot7487"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="translate(511.46138,275.04037)"><flowRegion
+       transform="translate(1671.4614,275.04037)"><flowRegion
          id="flowRegion7489"><rect
            ry="0"
            id="rect7491"
@@ -1800,7 +2635,7 @@
          style="font-size:13px;font-weight:bold;fill:#000000"
          id="flowPara5797">.sorted</flowPara></flowRoot>    <rect
        y="568.15662"
-       x="765.32367"
+       x="1925.3237"
        height="16.000013"
        width="239.87018"
        id="rect3550"
@@ -1809,785 +2644,326 @@
        sodipodi:linespacing="125%"
        id="text12266"
        y="580.08368"
-       x="885.10834"
+       x="2045.1084"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
          style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic"
          y="580.08368"
-         x="885.10834"
+         x="2045.1084"
          sodipodi:role="line"
          id="tspan12270">2 Subtracks</tspan></text>
-    <rect
-       y="604.74298"
-       x="505.32367"
-       height="171.41367"
-       width="239.87015"
-       id="rect12377"
-       style="fill:#e0eaf9;fill-opacity:1;stroke:none" />
-    <rect
-       style="fill:#adc5e3;fill-opacity:1;stroke:none"
-       id="rect12379"
-       width="239.87015"
-       height="37.449005"
-       x="505.32367"
-       y="604.74298" />
-    <flowRoot
-       transform="translate(225.55617,471.45392)"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       id="flowRoot12381"
-       xml:space="preserve"><flowRegion
-         id="flowRegion12383"><rect
-           style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000"
-           y="139.95587"
-           x="284.92627"
-           height="162.9991"
-           width="227.49887"
-           id="rect12385"
-           ry="0" /></flowRegion><flowPara
-         style="font-size:13px;fill:#000000"
-         id="flowPara12387" /><flowPara
-         style="font-size:13px;font-weight:bold;text-align:center;word-spacing:0px;text-anchor:middle;fill:#000000"
-         id="flowPara12389" /><flowPara
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d"
-         id="flowPara12391">Target</flowPara><flowPara
-         id="flowPara12393"
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">mRNA</flowPara><flowPara
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d"
-         id="flowPara12395">Factor</flowPara><flowPara
-         id="flowPara12397"
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">3-prime-UTR</flowPara><flowPara
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d"
-         id="flowPara12399">Conditions</flowPara><flowPara
-         id="flowPara12401"
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">L1 8 hr post-L1 stage larvae; L1 stage larvae;20 degree celcius;RACE</flowPara><flowPara
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
-         id="flowPara12403" /></flowRoot>    <g
-       transform="translate(219.17729,-14.31928)"
-       id="g12405">
-      <rect
-         style="fill:#666666;fill-opacity:1;stroke:none"
-         id="rect12407"
-         width="16.30084"
-         height="16.30084"
-         x="293.69916"
-         y="630.06134" />
-      <rect
-         y="632.09894"
-         x="295.73676"
-         height="12.22563"
-         width="12.22563"
-         id="rect12409"
-         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <g
+       id="g6485">
+      <path
+         style="fill:#fd3f49;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
+         d="m 2125.5607,420.65145 22.5,0 3,4 -3,4 -22.5,0 z"
+         id="path3547-8"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path8622"
+         d="m 2133.5607,432.65145 22.5,0 3,4 -3,4 -22.5,0 z"
+         style="fill:#fd3f49;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new" />
     </g>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot12411"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="translate(251.46138,466.40653)"><flowRegion
-         id="flowRegion12413"><rect
-           ry="0"
-           id="rect12415"
-           width="202.80615"
-           height="35.829586"
-           x="284.92627"
-           y="139.95587"
-           style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000" /></flowRegion><flowPara
-         style="font-size:13px;font-weight:bold;fill:#000000"
-         id="flowPara12417">worm/UTRome_V2_3_polyA_</flowPara><flowPara
-         style="font-size:13px;font-weight:bold;fill:#000000"
-         id="flowPara12419">site_6102_2745</flowPara></flowRoot>    <rect
-       y="604.74298"
-       x="245.32365"
-       height="171.41367"
-       width="239.87015"
-       id="rect12423"
-       style="fill:#e0eaf9;fill-opacity:1;stroke:none" />
-    <rect
-       style="fill:#adc5e3;fill-opacity:1;stroke:none"
-       id="rect12425"
-       width="239.87015"
-       height="37.449005"
-       x="245.32365"
-       y="604.74298" />
-    <flowRoot
-       transform="translate(-34.44383,471.45392)"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       id="flowRoot12427"
-       xml:space="preserve"><flowRegion
-         id="flowRegion12429"><rect
-           style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000"
-           y="139.95587"
-           x="284.92627"
-           height="162.9991"
-           width="227.49887"
-           id="rect12431"
-           ry="0" /></flowRegion><flowPara
-         style="font-size:13px;fill:#000000"
-         id="flowPara12433" /><flowPara
-         style="font-size:13px;font-weight:bold;text-align:center;word-spacing:0px;text-anchor:middle;fill:#000000"
-         id="flowPara12435" /><flowPara
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d"
-         id="flowPara12437">Target</flowPara><flowPara
-         id="flowPara12439"
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">mRNA</flowPara><flowPara
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d"
-         id="flowPara12441">Factor</flowPara><flowPara
-         id="flowPara12443"
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">3-prime-UTR</flowPara><flowPara
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d"
-         id="flowPara12445">Conditions</flowPara><flowPara
-         id="flowPara12447"
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">L1 8 hr post-L1 stage larvae; L1 stage larvae;20 degree celcius;RACE</flowPara><flowPara
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
-         id="flowPara12449" /></flowRoot>    <g
-       transform="translate(-40.82271,-14.31928)"
-       id="g12451">
-      <rect
-         style="fill:#666666;fill-opacity:1;stroke:none"
-         id="rect12453"
-         width="16.30084"
-         height="16.30084"
-         x="293.69916"
-         y="630.06134" />
-      <rect
-         y="632.09894"
-         x="295.73676"
-         height="12.22563"
-         width="12.22563"
-         id="rect12455"
-         style="fill:#ffffff;fill-opacity:1;stroke:none" />
-    </g>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot12457"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="translate(-8.53861,466.40653)"><flowRegion
-         id="flowRegion12459"><rect
-           ry="0"
-           id="rect12461"
-           width="202.80615"
-           height="35.829586"
-           x="284.92627"
-           y="139.95587"
-           style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000" /></flowRegion><flowPara
-         style="font-size:13px;font-weight:bold;fill:#000000"
-         id="flowPara12463">worm/UTRome_V2_3_polyA_</flowPara><flowPara
-         style="font-size:13px;font-weight:bold;fill:#000000"
-         id="flowPara12465">signal_sequence_6102_2745</flowPara></flowRoot>    <rect
-       style="fill:#e0eaf9;fill-opacity:1;stroke:none"
-       id="rect12469"
-       width="239.87015"
-       height="171.41367"
-       x="765.32367"
-       y="604.74298" />
-    <rect
-       y="604.74298"
-       x="765.32367"
-       height="37.449005"
-       width="239.87015"
-       id="rect12471"
-       style="fill:#adc5e3;fill-opacity:1;stroke:none" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot12473"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="translate(485.55617,471.45392)"><flowRegion
-         id="flowRegion12475"><rect
-           ry="0"
-           id="rect12477"
-           width="227.77747"
-           height="140.21695"
-           x="284.92627"
-           y="139.95587"
-           style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000" /></flowRegion><flowPara
-         id="flowPara12479"
-         style="font-size:13px;fill:#000000" /><flowPara
-         id="flowPara12481"
-         style="font-size:13px;font-weight:bold;text-align:center;word-spacing:0px;text-anchor:middle;fill:#000000" /><flowPara
-         id="flowPara12483"
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Target</flowPara><flowPara
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
-         id="flowPara12485">mRNA</flowPara><flowPara
-         id="flowPara12487"
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Factor</flowPara><flowPara
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
-         id="flowPara12489">3-prime-UTR</flowPara><flowPara
-         id="flowPara12491"
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Conditions</flowPara><flowPara
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
-         id="flowPara12493">L1 8 hr post-L1 stage larvae; L1z stage larvae;20 degree celcius;RACE</flowPara><flowPara
-         id="flowPara12495"
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;text-anchor:middle;fill:#666666" /><flowPara
-         id="flowPara12497"
-         style="font-size:11px;font-style:italic;text-align:center;text-anchor:middle;fill:#4d4d4d" /><flowPara
-         id="flowPara12499"
-         style="font-size:11px;font-style:italic;text-align:center;text-anchor:middle;fill:#4d4d4d" /></flowRoot>    <g
-       id="g12501"
-       transform="translate(479.17729,-14.31928)">
-      <rect
-         y="630.06134"
-         x="293.69916"
-         height="16.30084"
-         width="16.30084"
-         id="rect12503"
-         style="fill:#666666;fill-opacity:1;stroke:none" />
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
-         id="rect12505"
-         width="12.22563"
-         height="12.22563"
-         x="295.73676"
-         y="632.09894" />
-    </g>
-    <flowRoot
-       transform="translate(511.46138,466.40653)"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       id="flowRoot12507"
-       xml:space="preserve"><flowRegion
-         id="flowRegion12509"><rect
-           style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000"
-           y="139.95587"
-           x="284.92627"
-           height="35.829586"
-           width="202.80615"
-           id="rect12511"
-           ry="0" /></flowRegion><flowPara
-         style="font-size:13px;font-weight:bold;fill:#000000"
-         id="flowPara12513">worm/UTRome_V2_3_three_</flowPara><flowPara
-         id="flowPara12515"
-         style="font-size:13px;font-weight:bold;fill:#000000">prime_UTR_6102_2745</flowPara></flowRoot>    <rect
-       style="fill:#adc5e3;fill-opacity:1;stroke:none"
-       id="rect3584"
-       width="239.87015"
-       height="17.522413"
-       x="765.32367"
-       y="758.63422" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text12517"
-       y="771.51404"
-       x="885.10834"
-       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       xml:space="preserve"><tspan
-         style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic"
-         y="771.51404"
-         x="885.10834"
-         id="tspan12519"
-         sodipodi:role="line">3 Subtracks</tspan></text>
-    <rect
-       style="fill:#e0eaf9;fill-opacity:1;stroke:none"
-       id="rect12523"
-       width="239.87015"
-       height="171.41367"
-       x="1025.3236"
-       y="604.74298" />
-    <rect
-       y="604.74298"
-       x="1025.3236"
-       height="37.449005"
-       width="239.87015"
-       id="rect12525"
-       style="fill:#adc5e3;fill-opacity:1;stroke:none" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot12527"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="translate(745.55617,471.45392)"><flowRegion
-         id="flowRegion12529"><rect
-           ry="0"
-           id="rect12531"
-           width="227.49887"
-           height="162.9991"
-           x="284.92627"
-           y="139.95587"
-           style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000" /></flowRegion><flowPara
-         id="flowPara12533"
-         style="font-size:13px;fill:#000000" /><flowPara
-         id="flowPara12535"
-         style="font-size:13px;font-weight:bold;text-align:center;word-spacing:0px;text-anchor:middle;fill:#000000" /><flowPara
-         id="flowPara12537"
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Target</flowPara><flowPara
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
-         id="flowPara12539">mRNA</flowPara><flowPara
-         id="flowPara12541"
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Factor</flowPara><flowPara
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
-         id="flowPara12543">3-prime-UTR</flowPara><flowPara
-         id="flowPara12545"
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Conditions</flowPara><flowPara
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
-         id="flowPara12547">L1 8 hr post-L1 stage larvae; L1 stage larvae;20 degree celcius;RACE</flowPara><flowPara
-         id="flowPara12549"
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000" /></flowRoot>    <g
-       id="g12551"
-       transform="translate(739.17729,-14.31928)">
-      <rect
-         y="630.06134"
-         x="293.69916"
-         height="16.30084"
-         width="16.30084"
-         id="rect12553"
-         style="fill:#666666;fill-opacity:1;stroke:none" />
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
-         id="rect12555"
-         width="12.22563"
-         height="12.22563"
-         x="295.73676"
-         y="632.09894" />
-    </g>
-    <flowRoot
-       transform="translate(771.46138,475.04037)"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       id="flowRoot12557"
-       xml:space="preserve"><flowRegion
-         id="flowRegion12559"><rect
-           style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000"
-           y="139.95587"
-           x="284.92627"
-           height="35.829586"
-           width="202.80615"
-           id="rect12561"
-           ry="0" /></flowRegion><flowPara
-         style="font-size:13px;font-weight:bold;fill:#000000"
-         id="flowPara12563">worm/L1.ws220.sam.sorted</flowPara></flowRoot>    <text
-       sodipodi:linespacing="125%"
-       id="text12569"
-       y="814.40833"
-       x="251.41161"
-       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       xml:space="preserve"><tspan
-         style="font-size:24px;fill:#333333"
-         y="814.40833"
-         x="251.41161"
-         id="tspan12571"
-         sodipodi:role="line">D. Melanogaster</tspan></text>
-    <rect
-       style="fill:#e3f9e0;fill-opacity:1;stroke:none"
-       id="rect12575"
-       width="239.87015"
-       height="171.41367"
-       x="505.32367"
-       y="834.74298" />
-    <rect
-       y="834.74298"
-       x="505.32367"
-       height="37.449005"
-       width="239.87015"
-       id="rect12577"
-       style="fill:#8ee885;fill-opacity:1;stroke:none" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot12579"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="translate(225.55617,701.45392)"><flowRegion
-         id="flowRegion12581"><rect
-           ry="0"
-           id="rect12583"
-           width="227.49887"
-           height="162.9991"
-           x="284.92627"
-           y="139.95587"
-           style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000" /></flowRegion><flowPara
-         id="flowPara12585"
-         style="font-size:13px;fill:#000000" /><flowPara
-         id="flowPara12587"
-         style="font-size:13px;font-weight:bold;text-align:center;word-spacing:0px;text-anchor:middle;fill:#000000" /><flowPara
-         id="flowPara12589"
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Target</flowPara><flowPara
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
-         id="flowPara12591">mRNA</flowPara><flowPara
-         id="flowPara12593"
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Factor</flowPara><flowPara
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
-         id="flowPara12595">3-prime-UTR</flowPara><flowPara
-         id="flowPara12597"
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Conditions</flowPara><flowPara
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
-         id="flowPara12599">Adult mixed-sex flies, eclosion + 8 days</flowPara><flowPara
-         id="flowPara12601"
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000" /></flowRoot>    <g
-       id="g12603"
-       transform="translate(219.17729,215.68072)">
-      <rect
-         y="630.06134"
-         x="293.69916"
-         height="16.30084"
-         width="16.30084"
-         id="rect12605"
-         style="fill:#666666;fill-opacity:1;stroke:none" />
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
-         id="rect12607"
-         width="12.22563"
-         height="12.22563"
-         x="295.73676"
-         y="632.09894" />
-    </g>
-    <flowRoot
-       transform="translate(257.46138,696.40653)"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       id="flowRoot12609"
-       xml:space="preserve"><flowRegion
-         id="flowRegion12611"><rect
-           style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000"
-           y="139.95587"
-           x="284.92627"
-           height="35.829586"
-           width="202.80615"
-           id="rect12613"
-           ry="0" /></flowRegion><flowPara
-         id="flowPara12617"
-         style="font-size:13px;font-weight:bold;fill:#000000">fly/White_CC_embryo_20_24h/E20_24</flowPara></flowRoot>    <rect
-       style="fill:#e3f9e0;fill-opacity:1;stroke:none"
-       id="rect12621"
-       width="239.87015"
-       height="171.41367"
-       x="245.32365"
-       y="834.74298" />
-    <rect
-       y="834.74298"
-       x="245.32365"
-       height="37.449005"
-       width="239.87015"
-       id="rect12623"
-       style="fill:#8ee885;fill-opacity:1;stroke:none" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot12625"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="translate(-34.44383,701.45392)"><flowRegion
-         id="flowRegion12627"><rect
-           ry="0"
-           id="rect12629"
-           width="227.49887"
-           height="162.9991"
-           x="284.92627"
-           y="139.95587"
-           style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000" /></flowRegion><flowPara
-         id="flowPara12631"
-         style="font-size:13px;fill:#000000" /><flowPara
-         id="flowPara12633"
-         style="font-size:13px;font-weight:bold;text-align:center;word-spacing:0px;text-anchor:middle;fill:#000000" /><flowPara
-         id="flowPara12635"
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Target</flowPara><flowPara
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
-         id="flowPara12637">mRNA</flowPara><flowPara
-         id="flowPara12639"
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Factor</flowPara><flowPara
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
-         id="flowPara12641">3-prime-UTR</flowPara><flowPara
-         id="flowPara12643"
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Conditions</flowPara><flowPara
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
-         id="flowPara12645">Adult mixed-sex flies, eclosion + 4 days</flowPara><flowPara
-         id="flowPara12647"
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000" /></flowRoot>    <g
-       id="g12649"
-       transform="translate(-40.82271,215.68072)">
-      <rect
-         y="630.06134"
-         x="293.69916"
-         height="16.30084"
-         width="16.30084"
-         id="rect12651"
-         style="fill:#666666;fill-opacity:1;stroke:none" />
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
-         id="rect12653"
-         width="12.22563"
-         height="12.22563"
-         x="295.73676"
-         y="632.09894" />
-    </g>
-    <flowRoot
-       transform="translate(-2.53861,696.40653)"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       id="flowRoot12655"
-       xml:space="preserve"><flowRegion
-         id="flowRegion12657"><rect
-           style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000"
-           y="139.95587"
-           x="284.92627"
-           height="35.829586"
-           width="202.80615"
-           id="rect12659"
-           ry="0" /></flowRegion><flowPara
-         id="flowPara12663"
-         style="font-size:13px;font-weight:bold;fill:#000000">fly/White_CC_embryo_20_24h/E20_24_K27Me3</flowPara></flowRoot>    <rect
-       y="834.74298"
-       x="765.32367"
-       height="171.41367"
-       width="239.87015"
-       id="rect12667"
-       style="fill:#e3f9e0;fill-opacity:1;stroke:none" />
-    <rect
-       style="fill:#8ee885;fill-opacity:1;stroke:none"
-       id="rect12669"
-       width="239.87015"
-       height="37.449005"
-       x="765.32367"
-       y="834.74298" />
-    <flowRoot
-       transform="translate(485.55617,701.45392)"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       id="flowRoot12671"
-       xml:space="preserve"><flowRegion
-         id="flowRegion12673"><rect
-           style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000"
-           y="139.95587"
-           x="284.92627"
-           height="140.21695"
-           width="227.77747"
-           id="rect12675"
-           ry="0" /></flowRegion><flowPara
-         style="font-size:13px;fill:#000000"
-         id="flowPara12677" /><flowPara
-         style="font-size:13px;font-weight:bold;text-align:center;word-spacing:0px;text-anchor:middle;fill:#000000"
-         id="flowPara12679" /><flowPara
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d"
-         id="flowPara12681">Target</flowPara><flowPara
-         id="flowPara12683"
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">mRNA</flowPara><flowPara
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d"
-         id="flowPara12685">Factor</flowPara><flowPara
-         id="flowPara12687"
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">3-prime-UTR</flowPara><flowPara
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d"
-         id="flowPara12689">Conditions</flowPara><flowPara
-         id="flowPara12691"
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">L3 stage wandering stage larvae</flowPara><flowPara
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;text-anchor:middle;fill:#666666"
-         id="flowPara12693" /><flowPara
-         style="font-size:11px;font-style:italic;text-align:center;text-anchor:middle;fill:#4d4d4d"
-         id="flowPara12695" /><flowPara
-         style="font-size:11px;font-style:italic;text-align:center;text-anchor:middle;fill:#4d4d4d"
-         id="flowPara12697" /></flowRoot>    <g
-       transform="translate(479.17729,215.68072)"
-       id="g12699">
-      <rect
-         style="fill:#666666;fill-opacity:1;stroke:none"
-         id="rect12701"
-         width="16.30084"
-         height="16.30084"
-         x="293.69916"
-         y="630.06134" />
-      <rect
-         y="632.09894"
-         x="295.73676"
-         height="12.22563"
-         width="12.22563"
-         id="rect12703"
-         style="fill:#ffffff;fill-opacity:1;stroke:none" />
-    </g>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot12705"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="translate(517.46138,696.40653)"><flowRegion
-         id="flowRegion12707"><rect
-           ry="0"
-           id="rect12709"
-           width="202.80615"
-           height="35.829586"
-           x="284.92627"
-           y="139.95587"
-           style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000" /></flowRegion><flowPara
-         style="font-size:13px;font-weight:bold;fill:#000000"
-         id="flowPara12713">fly/White_CC_embryo_20_24h/E20</flowPara></flowRoot>    <rect
-       y="834.74298"
-       x="1025.3236"
-       height="171.41367"
-       width="239.87015"
-       id="rect12721"
-       style="fill:#e3f9e0;fill-opacity:1;stroke:none" />
-    <rect
-       style="fill:#8ee885;fill-opacity:1;stroke:none"
-       id="rect12723"
-       width="239.87015"
-       height="37.449005"
-       x="1025.3236"
-       y="834.74298" />
-    <flowRoot
-       transform="translate(745.55617,701.45392)"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       id="flowRoot12725"
-       xml:space="preserve"><flowRegion
-         id="flowRegion12727"><rect
-           style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000"
-           y="139.95587"
-           x="284.92627"
-           height="162.9991"
-           width="227.49887"
-           id="rect12729"
-           ry="0" /></flowRegion><flowPara
-         style="font-size:13px;fill:#000000"
-         id="flowPara12731" /><flowPara
-         style="font-size:13px;font-weight:bold;text-align:center;word-spacing:0px;text-anchor:middle;fill:#000000"
-         id="flowPara12733" /><flowPara
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d"
-         id="flowPara12735">Target</flowPara><flowPara
-         id="flowPara12737"
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">mRNA</flowPara><flowPara
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d"
-         id="flowPara12739">Factor</flowPara><flowPara
-         id="flowPara12741"
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">3-prime-UTR</flowPara><flowPara
-         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d"
-         id="flowPara12743">Conditions</flowPara><flowPara
-         id="flowPara12745"
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000">Adult mixed-sex flies, eclosion + 4 days</flowPara><flowPara
-         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
-         id="flowPara12747" /></flowRoot>    <g
-       transform="translate(739.17729,215.68072)"
-       id="g12749">
-      <rect
-         style="fill:#666666;fill-opacity:1;stroke:none"
-         id="rect12751"
-         width="16.30084"
-         height="16.30084"
-         x="293.69916"
-         y="630.06134" />
-      <rect
-         y="632.09894"
-         x="295.73676"
-         height="12.22563"
-         width="12.22563"
-         id="rect12753"
-         style="fill:#ffffff;fill-opacity:1;stroke:none" />
-    </g>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot12755"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="translate(777.46138,705.04037)"><flowRegion
-         id="flowRegion12757"><rect
-           ry="0"
-           id="rect12759"
-           width="202.80615"
-           height="35.829586"
-           x="284.92627"
-           y="139.95587"
-           style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000" /></flowRegion><flowPara
-         id="flowPara12761"
-         style="font-size:13px;font-weight:bold;fill:#000000">fly/L1.ws220.sam.sorted</flowPara></flowRoot>    <path
-       style="fill:none;stroke:#000000;stroke-width:1.00856912px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 245.33251,821.6122 1019.35259,0"
-       id="path12777"
-       inkscape:connector-curvature="0" />
-    <path
-       sodipodi:nodetypes="cccccc"
-       inkscape:connector-curvature="0"
-       id="path3547-8"
-       d="m 965.56073,420.65145 22.5,0 3,4 -3,4 -22.5,0 z"
-       style="fill:#fd3f49;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new" />
-    <path
-       style="fill:#fd3f49;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
-       d="m 973.56073,432.65145 22.5,0 2.99997,4 -2.99997,4 -22.5,0 z"
-       id="path8622"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccc" />
-    <rect
-       y="758.63422"
-       x="1025.3237"
-       height="17.522413"
-       width="239.87015"
-       id="rect3586"
-       style="fill:#adc5e3;fill-opacity:1;stroke:none" />
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1145.1083"
-       y="771.51404"
-       id="text12565"
-       sodipodi:linespacing="125%"><tspan
-         id="tspan12567"
-         sodipodi:role="line"
-         x="1145.1083"
-         y="771.51404"
-         style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic">1 Subtrack</tspan></text>
-    <rect
-       y="988.63422"
-       x="765.32367"
-       height="17.522413"
-       width="239.87015"
-       id="rect3588"
-       style="fill:#8ee885;fill-opacity:1;stroke:none" />
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="885.10834"
-       y="1001.514"
-       id="text12715"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan12717"
-         x="885.10834"
-         y="1001.514"
-         style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic">5 Subtracks</tspan></text>
-    <rect
-       style="fill:#8ee885;fill-opacity:1;stroke:none"
-       id="rect4358"
-       width="239.87015"
-       height="17.522413"
-       x="1025.3236"
-       y="988.63422" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text12763"
-       y="1001.514"
-       x="1145.1083"
-       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       xml:space="preserve"><tspan
-         style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic"
-         y="1001.514"
-         x="1145.1083"
-         sodipodi:role="line"
-         id="tspan12765">1 Subtrack</tspan></text>
-    <image
-       y="568.15662"
-       x="469.19382"
-       id="image5150"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAp9JREFU
-OI1tk11IU2EYx3+TcRhrG3h06iynaGghFnMiIgaSHxe2DI2hN6JBFiKCGhQkmiFe2I1BCBpJxC78
-yJRyRkSEEHghWwMryIvKtmqKbZN1Gms3p4szT4U9Vy8vz/99nv/Hq5FlWc7umceeL/K/CoZjfNuL
-Y88XWe6rBWBpfYvR5Q2mOqrQ7oRjALhXN0Gn+xcdjiLkpuO/dZ4vkTjZPfME338FvQCxBHRUoTUY
-9AS9n3A47Tx/FyTxI6GA43E8k+34Q1GyumYgHlcGJMGWY4c5kqpDC8AhAffqJo7qIrwfw9jzRYYb
-Sym7vvQHCAhGgdkrNTSV57G/uUb6JcsG54TSFI6qU5t758BsAMBiNeO76cBg0NM68UKhuyvhcXWi
-lSTlJXuhmYaTpZT1z4BOx+LtFlUofyiK9eojErvRAyJr9w8WUY8vEFLF8/kjTHVUAdB69xWJz98V
-/sBgWyXdp4vIFPVoZFmWNS3TKtdBZyk2a6oCSk5cHDiDNc2EPxSlqTyPoQUfY8/eMnvpFCk74RiC
-UXnZUZGLLxDC549QX2yBXQnBbFLBPn8EAJs1VaWgiFg9pnL2bgQglsBeUYBnpJGdcIyslimlO0nB
-UV3EvfZKMkU9KZIUw15znObRFSyiHovVjKOhhIGzJ9Ccm2Di5Sbbc5exVxQo4UmGLstxB++HcFKD
-unEQTQdtzElXtVlM+j+04GPEtQaBPTwPu9D+TAZPMApcc1arNnpcnQw/ea14DjSPrqgOyI+71SCl
-SFIMRBP1xRZGXGsIZhMAZf0z2HLS2L5/AUuGUVlfp2PEtYambhzbDfdfIrZN/xNZteJx1cbKoxlc
-fLCG++kb9T94JtuVIAlGgZJC84GU7Ve3ax2A5d5alvtqWVrfUu9+A2r3KLu5hd6MAAAAAElFTkSu
-QmCC
-"
-       height="16"
-       width="16" />
     <image
        style="display:inline"
        y="568.15662"
-       x="1249.1937"
-       id="image5150-4"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAp9JREFU OI1tk11IU2EYx3+TcRhrG3h06iynaGghFnMiIgaSHxe2DI2hN6JBFiKCGhQkmiFe2I1BCBpJxC78 yJRyRkSEEHghWwMryIvKtmqKbZN1Gms3p4szT4U9Vy8vz/99nv/Hq5FlWc7umceeL/K/CoZjfNuL Y88XWe6rBWBpfYvR5Q2mOqrQ7oRjALhXN0Gn+xcdjiLkpuO/dZ4vkTjZPfME338FvQCxBHRUoTUY 9AS9n3A47Tx/FyTxI6GA43E8k+34Q1GyumYgHlcGJMGWY4c5kqpDC8AhAffqJo7qIrwfw9jzRYYb Sym7vvQHCAhGgdkrNTSV57G/uUb6JcsG54TSFI6qU5t758BsAMBiNeO76cBg0NM68UKhuyvhcXWi lSTlJXuhmYaTpZT1z4BOx+LtFlUofyiK9eojErvRAyJr9w8WUY8vEFLF8/kjTHVUAdB69xWJz98V /sBgWyXdp4vIFPVoZFmWNS3TKtdBZyk2a6oCSk5cHDiDNc2EPxSlqTyPoQUfY8/eMnvpFCk74RiC UXnZUZGLLxDC549QX2yBXQnBbFLBPn8EAJs1VaWgiFg9pnL2bgQglsBeUYBnpJGdcIyslimlO0nB UV3EvfZKMkU9KZIUw15znObRFSyiHovVjKOhhIGzJ9Ccm2Di5Sbbc5exVxQo4UmGLstxB++HcFKD unEQTQdtzElXtVlM+j+04GPEtQaBPTwPu9D+TAZPMApcc1arNnpcnQw/ea14DjSPrqgOyI+71SCl SFIMRBP1xRZGXGsIZhMAZf0z2HLS2L5/AUuGUVlfp2PEtYambhzbDfdfIrZN/xNZteJx1cbKoxlc fLCG++kb9T94JtuVIAlGgZJC84GU7Ve3ax2A5d5alvtqWVrfUu9+A2r3KLu5hd6MAAAAAElFTkSu QmCC "
-       height="16"
-       width="16" />
-    <image
-       style="display:inline"
-       y="568.15662"
-       x="989.19385"
+       x="2149.1938"
        id="image5150-5"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAp9JREFU OI1tk11IU2EYx3+TcRhrG3h06iynaGghFnMiIgaSHxe2DI2hN6JBFiKCGhQkmiFe2I1BCBpJxC78 yJRyRkSEEHghWwMryIvKtmqKbZN1Gms3p4szT4U9Vy8vz/99nv/Hq5FlWc7umceeL/K/CoZjfNuL Y88XWe6rBWBpfYvR5Q2mOqrQ7oRjALhXN0Gn+xcdjiLkpuO/dZ4vkTjZPfME338FvQCxBHRUoTUY 9AS9n3A47Tx/FyTxI6GA43E8k+34Q1GyumYgHlcGJMGWY4c5kqpDC8AhAffqJo7qIrwfw9jzRYYb Sym7vvQHCAhGgdkrNTSV57G/uUb6JcsG54TSFI6qU5t758BsAMBiNeO76cBg0NM68UKhuyvhcXWi lSTlJXuhmYaTpZT1z4BOx+LtFlUofyiK9eojErvRAyJr9w8WUY8vEFLF8/kjTHVUAdB69xWJz98V /sBgWyXdp4vIFPVoZFmWNS3TKtdBZyk2a6oCSk5cHDiDNc2EPxSlqTyPoQUfY8/eMnvpFCk74RiC UXnZUZGLLxDC549QX2yBXQnBbFLBPn8EAJs1VaWgiFg9pnL2bgQglsBeUYBnpJGdcIyslimlO0nB UV3EvfZKMkU9KZIUw15znObRFSyiHovVjKOhhIGzJ9Ccm2Di5Sbbc5exVxQo4UmGLstxB++HcFKD unEQTQdtzElXtVlM+j+04GPEtQaBPTwPu9D+TAZPMApcc1arNnpcnQw/ea14DjSPrqgOyI+71SCl SFIMRBP1xRZGXGsIZhMAZf0z2HLS2L5/AUuGUVlfp2PEtYambhzbDfdfIrZN/xNZteJx1cbKoxlc fLCG++kb9T94JtuVIAlGgZJC84GU7Ve3ax2A5d5alvtqWVrfUu9+A2r3KLu5hd6MAAAAAElFTkSu QmCC "
        height="16"
        width="16" />
+    <rect
+       style="fill:#e0eaf9;fill-opacity:1;stroke:none"
+       id="rect7407"
+       width="239.87015"
+       height="171.41367"
+       x="1665.3237"
+       y="412.74298" />
+    <rect
+       y="412.74298"
+       x="1665.3237"
+       height="37.449005"
+       width="239.87015"
+       id="rect7409"
+       style="fill:#adc5e3;fill-opacity:1;stroke:none" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7411"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       transform="translate(1385.5562,279.45392)"><flowRegion
+         id="flowRegion7413"><rect
+           ry="0"
+           id="rect7415"
+           width="227.49887"
+           height="162.9991"
+           x="284.92627"
+           y="139.95587"
+           style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000" /></flowRegion><flowPara
+         id="flowPara7417"
+         style="font-size:13px;fill:#000000" /><flowPara
+         id="flowPara7419"
+         style="font-size:13px;font-weight:bold;text-align:center;word-spacing:0px;text-anchor:middle;fill:#000000" /><flowPara
+         id="flowPara7421"
+         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Target</flowPara><flowPara
+         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
+         id="flowPara7423">mRNA</flowPara><flowPara
+         id="flowPara7425"
+         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Factor</flowPara><flowPara
+         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
+         id="flowPara7427">3-prime-UTR</flowPara><flowPara
+         id="flowPara7429"
+         style="font-size:11px;font-style:italic;font-weight:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#4d4d4d">Conditions</flowPara><flowPara
+         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000"
+         id="flowPara7431">L1 8 hr post-L1 stage larvae; L1 stage larvae;20 degree celcius;RACE</flowPara><flowPara
+         id="flowPara7433"
+         style="font-size:13px;text-align:center;text-anchor:middle;fill:#000000" /></flowRoot>    <g
+       id="g7435"
+       transform="translate(1379.1773,-206.31928)">
+      <rect
+         y="630.06134"
+         x="293.69916"
+         height="16.30084"
+         width="16.30084"
+         id="rect7437"
+         style="fill:#666666;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect7439"
+         width="12.22563"
+         height="12.22563"
+         x="295.73676"
+         y="632.09894" />
+    </g>
+    <flowRoot
+       transform="matrix(0.83871133,0,0,0.83871133,1454.813,297.11784)"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       id="flowRoot7441"
+       xml:space="preserve"><flowRegion
+         id="flowRegion7443"><rect
+           style="font-size:16px;letter-spacing:0px;word-spacing:0px;fill:#000000"
+           y="139.95587"
+           x="284.92627"
+           height="40.170639"
+           width="244.91139"
+           id="rect7445"
+           ry="0" /></flowRegion><flowPara
+         id="flowPara7590"
+         style="font-size:15.49996948px;font-weight:bold;fill:#000000">worm/UTRome_V2_3_polyA_</flowPara><flowPara
+         id="flowPara7594"
+         style="font-size:15.49996948px;font-weight:bold;fill:#000000">signal_sequence_6102_2745</flowPara></flowRoot>    <g
+       id="g8707"
+       style="fill:#4284d3;display:inline;enable-background:new"
+       transform="matrix(0.61247666,0,0,0.61247666,1632.6212,188.37865)">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect8652"
+         d="m 404,376.0625 0,10.25 -3,0 0,12.125 -3,0 0,16.625 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 2.90625,0 0.0937,0 2.90625,0 0,-10.6875 -2.90625,0 0,-11.5 -3,0 0,-6.5625 -3,0 0,-10.25 -3,0 0,13.5 -3,0 0,-13.5 -3,0 0,10.25 -3,0 0,9.5 -3,0 0,5.9375 -3,0 0,-25.6875 -3,0 z"
+         style="fill:#4284d3;fill-opacity:1;stroke:none" />
+    </g>
     <image
        style="display:inline"
        y="568.15662"
-       x="729.19385"
+       x="1889.1938"
        id="image5150-47"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAp9JREFU OI1tk11IU2EYx3+TcRhrG3h06iynaGghFnMiIgaSHxe2DI2hN6JBFiKCGhQkmiFe2I1BCBpJxC78 yJRyRkSEEHghWwMryIvKtmqKbZN1Gms3p4szT4U9Vy8vz/99nv/Hq5FlWc7umceeL/K/CoZjfNuL Y88XWe6rBWBpfYvR5Q2mOqrQ7oRjALhXN0Gn+xcdjiLkpuO/dZ4vkTjZPfME338FvQCxBHRUoTUY 9AS9n3A47Tx/FyTxI6GA43E8k+34Q1GyumYgHlcGJMGWY4c5kqpDC8AhAffqJo7qIrwfw9jzRYYb Sym7vvQHCAhGgdkrNTSV57G/uUb6JcsG54TSFI6qU5t758BsAMBiNeO76cBg0NM68UKhuyvhcXWi lSTlJXuhmYaTpZT1z4BOx+LtFlUofyiK9eojErvRAyJr9w8WUY8vEFLF8/kjTHVUAdB69xWJz98V /sBgWyXdp4vIFPVoZFmWNS3TKtdBZyk2a6oCSk5cHDiDNc2EPxSlqTyPoQUfY8/eMnvpFCk74RiC UXnZUZGLLxDC549QX2yBXQnBbFLBPn8EAJs1VaWgiFg9pnL2bgQglsBeUYBnpJGdcIyslimlO0nB UV3EvfZKMkU9KZIUw15znObRFSyiHovVjKOhhIGzJ9Ccm2Di5Sbbc5exVxQo4UmGLstxB++HcFKD unEQTQdtzElXtVlM+j+04GPEtQaBPTwPu9D+TAZPMApcc1arNnpcnQw/ea14DjSPrqgOyI+71SCl SFIMRBP1xRZGXGsIZhMAZf0z2HLS2L5/AUuGUVlfp2PEtYambhzbDfdfIrZN/xNZteJx1cbKoxlc fLCG++kb9T94JtuVIAlGgZJC84GU7Ve3ax2A5d5alvtqWVrfUu9+A2r3KLu5hd6MAAAAAElFTkSu QmCC "
        height="16"
        width="16" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="363.16541"
+       y="374.91138"
+       id="text4661-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="363.16541"
+         y="374.91138"
+         style="font-size:18px"
+         id="tspan5500">Track</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5508"
+       y="374.91138"
+       x="583.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         id="tspan5510"
+         style="font-size:18px"
+         y="374.91138"
+         x="583.16541"
+         sodipodi:role="line">Conditions</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="795.16541"
+       y="374.91138"
+       id="text5512"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="795.16541"
+         y="374.91138"
+         style="font-size:18px"
+         id="tspan5514">Factor</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5516"
+       y="374.91138"
+       x="913.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         style="font-size:18px"
+         y="374.91138"
+         x="913.16541"
+         sodipodi:role="line"
+         id="tspan6659">Target</tspan></text>
+    <g
+       style="display:inline"
+       transform="translate(-48.37161,-239.30028)"
+       id="g4500-2-3">
+      <rect
+         style="fill:#666666;fill-opacity:1;stroke:none"
+         id="rect4502-4-6"
+         width="16.30084"
+         height="16.30084"
+         x="293.69916"
+         y="630.06134" />
+      <rect
+         y="632.09894"
+         x="295.73676"
+         height="12.22563"
+         width="12.22563"
+         id="rect4504-8-2"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    </g>
+    <image
+       width="16"
+       height="16"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAp9JREFU OI1tk11IU2EYx3+TcRhrG3h06iynaGghFnMiIgaSHxe2DI2hN6JBFiKCGhQkmiFe2I1BCBpJxC78 yJRyRkSEEHghWwMryIvKtmqKbZN1Gms3p4szT4U9Vy8vz/99nv/Hq5FlWc7umceeL/K/CoZjfNuL Y88XWe6rBWBpfYvR5Q2mOqrQ7oRjALhXN0Gn+xcdjiLkpuO/dZ4vkTjZPfME338FvQCxBHRUoTUY 9AS9n3A47Tx/FyTxI6GA43E8k+34Q1GyumYgHlcGJMGWY4c5kqpDC8AhAffqJo7qIrwfw9jzRYYb Sym7vvQHCAhGgdkrNTSV57G/uUb6JcsG54TSFI6qU5t758BsAMBiNeO76cBg0NM68UKhuyvhcXWi lSTlJXuhmYaTpZT1z4BOx+LtFlUofyiK9eojErvRAyJr9w8WUY8vEFLF8/kjTHVUAdB69xWJz98V /sBgWyXdp4vIFPVoZFmWNS3TKtdBZyk2a6oCSk5cHDiDNc2EPxSlqTyPoQUfY8/eMnvpFCk74RiC UXnZUZGLLxDC549QX2yBXQnBbFLBPn8EAJs1VaWgiFg9pnL2bgQglsBeUYBnpJGdcIyslimlO0nB UV3EvfZKMkU9KZIUw15znObRFSyiHovVjKOhhIGzJ9Ccm2Di5Sbbc5exVxQo4UmGLstxB++HcFKD unEQTQdtzElXtVlM+j+04GPEtQaBPTwPu9D+TAZPMApcc1arNnpcnQw/ea14DjSPrqgOyI+71SCl SFIMRBP1xRZGXGsIZhMAZf0z2HLS2L5/AUuGUVlfp2PEtYambhzbDfdfIrZN/xNZteJx1cbKoxlc fLCG++kb9T94JtuVIAlGgZJC84GU7Ve3ax2A5d5alvtqWVrfUu9+A2r3KLu5hd6MAAAAAElFTkSu QmCC "
+       id="image6365"
+       x="269.62839"
+       y="390.91147" />
+    <g
+       id="g8707-9"
+       style="fill:#4284d3;display:inline;enable-background:new"
+       transform="matrix(0.61247666,0,0,0.61247666,57.286959,156.63867)">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect8652-3"
+         d="m 404,376.0625 0,10.25 -3,0 0,12.125 -3,0 0,16.625 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 2.90625,0 0.0937,0 2.90625,0 0,-10.6875 -2.90625,0 0,-11.5 -3,0 0,-6.5625 -3,0 0,-10.25 -3,0 0,13.5 -3,0 0,-13.5 -3,0 0,10.25 -3,0 0,9.5 -3,0 0,5.9375 -3,0 0,-25.6875 -3,0 z"
+         style="fill:#4284d3;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g6443"
+       transform="translate(801.72445,-131.32531)">
+      <rect
+         y="630.06134"
+         x="293.69916"
+         height="16.30084"
+         width="16.30084"
+         id="rect6445"
+         style="fill:#666666;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect6447"
+         width="12.22563"
+         height="12.22563"
+         x="295.73676"
+         y="632.09894" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 1111.7736,500.51621 -1.8711,-1.47577 c -0.058,-0.0477 -0.1296,-0.0818 -0.2114,-0.0818 -0.082,0 -0.1567,0.0341 -0.2147,0.0852 l -6.8062,8.74554 c 0,0 -2.6755,-2.57322 -2.7505,-2.6482 -0.075,-0.075 -0.1738,-0.20109 -0.3237,-0.20109 -0.15,0 -0.2182,0.10566 -0.2966,0.18405 -0.058,0.0614 -1.0122,1.06337 -1.4826,1.56097 -0.027,0.0307 -0.044,0.0477 -0.068,0.0716 -0.041,0.058 -0.068,0.1227 -0.068,0.19427 0,0.075 0.027,0.13633 0.068,0.19428 l 0.095,0.0886 c 0,0 4.7477,4.56022 4.8261,4.63861 0.078,0.0784 0.1738,0.17723 0.3135,0.17723 0.1364,0 0.2488,-0.14656 0.3136,-0.21131 l 8.4899,-10.90637 c 0.041,-0.058 0.068,-0.12269 0.068,-0.19767 0,-0.0852 -0.034,-0.15679 -0.082,-0.21813 z"
+       id="path6451"
+       style="fill:#1a1a1a" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text6453"
+       y="374.91138"
+       x="301.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         id="tspan6455"
+         style="font-size:18px"
+         y="374.91138"
+         x="301.16541"
+         sodipodi:role="line">Type</tspan></text>
+    <g
+       transform="translate(-1824.508,7.3279809)"
+       style="display:inline"
+       id="g6485-9">
+      <path
+         style="fill:#fd3f49;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
+         d="m 2125.5607,420.65145 22.5,0 3,4 -3,4 -22.5,0 z"
+         id="path3547-8-6"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path8622-3"
+         d="m 2133.5607,432.65145 22.5,0 3,4 -3,4 -22.5,0 z"
+         style="fill:#fd3f49;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text6663"
+       y="393.80951"
+       x="363.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         id="tspan6665"
+         style="font-size:14px"
+         y="393.80951"
+         x="363.16541"
+         sodipodi:role="line">Worm sequencing ligands </tspan><tspan
+         style="font-size:14px"
+         y="411.30951"
+         x="363.16541"
+         sodipodi:role="line"
+         id="tspan6667">peptides gene expression gmod</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="583.16541"
+       y="393.80951"
+       id="text6669"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan6673"
+         sodipodi:role="line"
+         x="583.16541"
+         y="393.80951"
+         style="font-size:14px">3-Prime-UTR; happy life; wife</tspan><tspan
+         sodipodi:role="line"
+         x="583.16541"
+         y="411.30951"
+         style="font-size:14px"
+         id="tspan6677">and 3 kids</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text6679"
+       y="402.70764"
+       x="795.16541"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         id="tspan6683"
+         style="font-size:14px"
+         y="402.70764"
+         x="795.16541"
+         sodipodi:role="line">3-Prime-UTR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="913.16541"
+       y="402.70764"
+       id="text6687"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="913.16541"
+         y="402.70764"
+         style="font-size:14px"
+         id="tspan6689">mRNA</tspan></text>
   </g>
 </svg>

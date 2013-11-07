@@ -64,9 +64,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1151726"
-     inkscape:cx="699.83414"
-     inkscape:cy="584.67728"
+     inkscape:zoom="0.90755208"
+     inkscape:cx="683"
+     inkscape:cy="472.14921"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2923,33 +2923,28 @@
        x="363.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
-         id="tspan6665"
          style="font-size:14px"
          y="393.80951"
          x="363.16541"
-         sodipodi:role="line">Worm sequencing ligands </tspan><tspan
+         sodipodi:role="line"
+         id="tspan6667"> worm/Hillier_confirmed_polyA_</tspan><tspan
          style="font-size:14px"
          y="411.30951"
          x="363.16541"
          sodipodi:role="line"
-         id="tspan6667">peptides gene expression gmod</tspan></text>
+         id="tspan7944">L4JK1107_NODNASE</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        x="583.16541"
-       y="393.80951"
+       y="402.70624"
        id="text6669"
        sodipodi:linespacing="125%"><tspan
-         id="tspan6673"
          sodipodi:role="line"
          x="583.16541"
-         y="393.80951"
-         style="font-size:14px">3-Prime-UTR; happy life; wife</tspan><tspan
-         sodipodi:role="line"
-         x="583.16541"
-         y="411.30951"
+         y="402.70624"
          style="font-size:14px"
-         id="tspan6691">and 1.2 kids</tspan></text>
+         id="tspan6691">Mixed Embryos</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text6679"
@@ -3421,33 +3416,28 @@
        y="433.80951"
        id="text7511"
        sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="363.16541"
-         y="433.80951"
-         style="font-size:14px"
-         id="tspan7513">Worm sequencing ligands </tspan><tspan
          id="tspan7515"
          sodipodi:role="line"
          x="363.16541"
+         y="433.80951"
+         style="font-size:14px"> worm/Hillier_confirmed_polyA_</tspan><tspan
+         sodipodi:role="line"
+         x="363.16541"
          y="451.30951"
-         style="font-size:14px">peptides gene expression gmod</tspan></text>
+         style="font-size:14px"
+         id="tspan7948">L4DPY28</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7517"
-       y="433.80951"
+       y="442.70624"
        x="583.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
-         style="font-size:14px"
-         y="433.80951"
-         x="583.16541"
-         sodipodi:role="line"
-         id="tspan7519">3-Prime-UTR; happy life; wife</tspan><tspan
          id="tspan7521"
          style="font-size:14px"
-         y="451.30951"
+         y="442.70624"
          x="583.16541"
-         sodipodi:role="line">and 1.2 kids</tspan></text>
+         sodipodi:role="line">Mixed Embryos</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -3479,33 +3469,23 @@
        x="363.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
-         id="tspan7533"
          style="font-size:14px"
          y="472.70624"
          x="363.16541"
-         sodipodi:role="line">Worm sequencing ligands </tspan><tspan
-         style="font-size:14px"
-         y="490.20624"
-         x="363.16541"
          sodipodi:role="line"
-         id="tspan7535">peptides gene expression gmod</tspan></text>
+         id="tspan7535"> worm/L1_pilot.sam_sorted</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        x="583.16541"
-       y="472.70624"
+       y="481.60297"
        id="text7537"
        sodipodi:linespacing="125%"><tspan
-         id="tspan7539"
          sodipodi:role="line"
          x="583.16541"
-         y="472.70624"
-         style="font-size:14px">3-Prime-UTR; happy life; wife</tspan><tspan
-         sodipodi:role="line"
-         x="583.16541"
-         y="490.20624"
+         y="481.60297"
          style="font-size:14px"
-         id="tspan7541">and 1.2 kids</tspan></text>
+         id="tspan7541">Mixed Embryos</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7543"
@@ -3550,20 +3530,15 @@
     <text
        sodipodi:linespacing="125%"
        id="text7557"
-       y="511.80951"
+       y="520.70624"
        x="583.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
-         style="font-size:14px"
-         y="511.80951"
-         x="583.16541"
-         sodipodi:role="line"
-         id="tspan7559">3-Prime-UTR; happy life; wife</tspan><tspan
          id="tspan7561"
          style="font-size:14px"
-         y="529.30951"
+         y="520.70624"
          x="583.16541"
-         sodipodi:role="line">and 1.2 kids</tspan></text>
+         sodipodi:role="line">Mixed Embryos</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -3609,19 +3584,14 @@
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        x="583.16541"
-       y="551.80951"
+       y="560.70624"
        id="text7577"
        sodipodi:linespacing="125%"><tspan
-         id="tspan7579"
          sodipodi:role="line"
          x="583.16541"
-         y="551.80951"
-         style="font-size:14px">3-Prime-UTR; happy life; wife</tspan><tspan
-         sodipodi:role="line"
-         x="583.16541"
-         y="569.30951"
+         y="560.70624"
          style="font-size:14px"
-         id="tspan7581">and 1.2 kids</tspan></text>
+         id="tspan7581">L4 45 hr post-L1 stage larvae</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7583"
@@ -3666,20 +3636,15 @@
     <text
        sodipodi:linespacing="125%"
        id="text7597"
-       y="590.91278"
+       y="599.80951"
        x="583.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
-         style="font-size:14px"
-         y="590.91278"
-         x="583.16541"
-         sodipodi:role="line"
-         id="tspan7599">3-Prime-UTR; happy life; wife</tspan><tspan
          id="tspan7601"
          style="font-size:14px"
-         y="608.41278"
+         y="599.80951"
          x="583.16541"
-         sodipodi:role="line">and 1.2 kids</tspan></text>
+         sodipodi:role="line">L4 45 hr post-L1 stage larvae</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -3711,33 +3676,23 @@
        y="629.80951"
        id="text7615"
        sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="363.16541"
-         y="629.80951"
-         style="font-size:14px"
-         id="tspan7617">Worm sequencing ligands </tspan><tspan
          id="tspan7619"
          sodipodi:role="line"
          x="363.16541"
-         y="647.30951"
-         style="font-size:14px">peptides gene expression gmod</tspan></text>
+         y="629.80951"
+         style="font-size:14px"> worm/L3.ws220.sam_sorted</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7621"
-       y="629.80951"
+       y="638.70624"
        x="583.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
-         style="font-size:14px"
-         y="629.80951"
-         x="583.16541"
-         sodipodi:role="line"
-         id="tspan7623">3-Prime-UTR; happy life; wife</tspan><tspan
          id="tspan7625"
          style="font-size:14px"
-         y="647.30951"
+         y="638.70624"
          x="583.16541"
-         sodipodi:role="line">and 1.2 kids</tspan></text>
+         sodipodi:role="line">L4 45 hr post-L1 stage larvae</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -3749,7 +3704,7 @@
          x="795.16541"
          y="638.70764"
          style="font-size:14px"
-         id="tspan7629">3-Prime-UTR</tspan></text>
+         id="tspan7629">H3</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7631"
@@ -3761,7 +3716,7 @@
          style="font-size:14px"
          y="638.70764"
          x="913.16541"
-         sodipodi:role="line">mRNA</tspan></text>
+         sodipodi:role="line">Histone Modification</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7635"
@@ -3769,33 +3724,28 @@
        x="363.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
-         id="tspan7637"
          style="font-size:14px"
          y="669.80951"
          x="363.16541"
-         sodipodi:role="line">Worm sequencing ligands </tspan><tspan
+         sodipodi:role="line"
+         id="tspan7639"> worm/PEMBRYO_FAX_WIG/L2_</tspan><tspan
          style="font-size:14px"
          y="687.30951"
          x="363.16541"
          sodipodi:role="line"
-         id="tspan7639">peptides gene expression gmod</tspan></text>
+         id="tspan7984">reference</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        x="583.16541"
-       y="669.80951"
+       y="678.70624"
        id="text7641"
        sodipodi:linespacing="125%"><tspan
-         id="tspan7643"
          sodipodi:role="line"
          x="583.16541"
-         y="669.80951"
-         style="font-size:14px">3-Prime-UTR; happy life; wife</tspan><tspan
-         sodipodi:role="line"
-         x="583.16541"
-         y="687.30951"
+         y="678.70624"
          style="font-size:14px"
-         id="tspan7645">and 1.2 kids</tspan></text>
+         id="tspan7645">Dauer Larvae</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7647"
@@ -3807,7 +3757,7 @@
          style="font-size:14px"
          y="678.70764"
          x="795.16541"
-         sodipodi:role="line">3-Prime-UTR</tspan></text>
+         sodipodi:role="line">H3</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -3819,24 +3769,19 @@
          x="913.16541"
          y="678.70764"
          style="font-size:14px"
-         id="tspan7653">mRNA</tspan></text>
+         id="tspan7653">Histone Modification</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7655"
-       y="708.70624"
+       y="717.60297"
        x="583.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
-         style="font-size:14px"
-         y="708.70624"
-         x="583.16541"
-         sodipodi:role="line"
-         id="tspan7657">3-Prime-UTR; happy life; wife</tspan><tspan
          id="tspan7659"
          style="font-size:14px"
-         y="726.20624"
+         y="717.60297"
          x="583.16541"
-         sodipodi:role="line">and 1.2 kids</tspan></text>
+         sodipodi:role="line">Dauer Larvae</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -3848,7 +3793,7 @@
          x="795.16541"
          y="717.60437"
          style="font-size:14px"
-         id="tspan7663">3-Prime-UTR</tspan></text>
+         id="tspan7663">H3</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7665"
@@ -3860,7 +3805,7 @@
          style="font-size:14px"
          y="717.60437"
          x="913.16541"
-         sodipodi:role="line">mRNA</tspan></text>
+         sodipodi:role="line">Histone Modification</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7669"
@@ -3868,33 +3813,28 @@
        x="363.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
-         id="tspan7671"
          style="font-size:14px"
          y="746.91278"
          x="363.16541"
-         sodipodi:role="line">Worm sequencing ligands </tspan><tspan
+         sodipodi:role="line"
+         id="tspan7673"> worm/Hillier_confirmed_polyA_</tspan><tspan
          style="font-size:14px"
          y="764.41278"
          x="363.16541"
          sodipodi:role="line"
-         id="tspan7673">peptides gene expression gmod</tspan></text>
+         id="tspan7960">L4DPY28</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        x="583.16541"
-       y="748.91278"
+       y="757.80951"
        id="text7675"
        sodipodi:linespacing="125%"><tspan
-         id="tspan7677"
          sodipodi:role="line"
          x="583.16541"
-         y="748.91278"
-         style="font-size:14px">3-Prime-UTR; happy life; wife</tspan><tspan
-         sodipodi:role="line"
-         x="583.16541"
-         y="766.41278"
+         y="757.80951"
          style="font-size:14px"
-         id="tspan7679">and 1.2 kids</tspan></text>
+         id="tspan7679">Dauer Larvae</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7681"
@@ -3906,7 +3846,7 @@
          style="font-size:14px"
          y="755.81091"
          x="795.16541"
-         sodipodi:role="line">3-Prime-UTR</tspan></text>
+         sodipodi:role="line">H3K36me3</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -3918,7 +3858,7 @@
          x="913.16541"
          y="755.81091"
          style="font-size:14px"
-         id="tspan7687">mRNA</tspan></text>
+         id="tspan7687">Histone Modification</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -3926,33 +3866,23 @@
        y="786.91278"
        id="text7689"
        sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="363.16541"
-         y="786.91278"
-         style="font-size:14px"
-         id="tspan7691">Worm sequencing ligands </tspan><tspan
          id="tspan7693"
          sodipodi:role="line"
          x="363.16541"
-         y="804.41278"
-         style="font-size:14px">peptides gene expression gmod</tspan></text>
+         y="786.91278"
+         style="font-size:14px">worm/REINKE_TF_WIG/N2EE</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7695"
-       y="786.91278"
+       y="795.80951"
        x="583.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
-         style="font-size:14px"
-         y="786.91278"
-         x="583.16541"
-         sodipodi:role="line"
-         id="tspan7697">3-Prime-UTR; happy life; wife</tspan><tspan
          id="tspan7699"
          style="font-size:14px"
-         y="804.41278"
+         y="795.80951"
          x="583.16541"
-         sodipodi:role="line">and 1.2 kids</tspan></text>
+         sodipodi:role="line">Dauer Larvae</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -3964,7 +3894,7 @@
          x="795.16541"
          y="795.81091"
          style="font-size:14px"
-         id="tspan7703">3-Prime-UTR</tspan></text>
+         id="tspan7703">H3K36me3</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7705"
@@ -3976,7 +3906,7 @@
          style="font-size:14px"
          y="795.81091"
          x="913.16541"
-         sodipodi:role="line">mRNA</tspan></text>
+         sodipodi:role="line">Histone Modification</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7709"
@@ -3984,33 +3914,28 @@
        x="363.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
-         id="tspan7711"
          style="font-size:14px"
          y="825.80951"
          x="363.16541"
-         sodipodi:role="line">Worm sequencing ligands </tspan><tspan
+         sodipodi:role="line"
+         id="tspan7713"> worm/Hillier_confirmed_polyA_</tspan><tspan
          style="font-size:14px"
          y="843.30951"
          x="363.16541"
          sodipodi:role="line"
-         id="tspan7713">peptides gene expression gmod</tspan></text>
+         id="tspan7968">L4JK1107_NODNASE</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        x="583.16541"
-       y="825.80951"
+       y="834.70624"
        id="text7715"
        sodipodi:linespacing="125%"><tspan
-         id="tspan7717"
          sodipodi:role="line"
          x="583.16541"
-         y="825.80951"
-         style="font-size:14px">3-Prime-UTR; happy life; wife</tspan><tspan
-         sodipodi:role="line"
-         x="583.16541"
-         y="843.30951"
+         y="834.70624"
          style="font-size:14px"
-         id="tspan7719">and 1.2 kids</tspan></text>
+         id="tspan7719">Dauer Larvae</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7721"
@@ -4022,7 +3947,7 @@
          style="font-size:14px"
          y="834.70764"
          x="795.16541"
-         sodipodi:role="line">3-Prime-UTR</tspan></text>
+         sodipodi:role="line">H3K36me3</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -4034,7 +3959,7 @@
          x="913.16541"
          y="834.70764"
          style="font-size:14px"
-         id="tspan7727">mRNA</tspan></text>
+         id="tspan7727">Histone Modification</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7729"
@@ -4042,16 +3967,16 @@
        x="363.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
-         id="tspan7731"
          style="font-size:14px"
          y="707.80951"
          x="363.16541"
-         sodipodi:role="line">Worm sequencing ligands </tspan><tspan
+         sodipodi:role="line"
+         id="tspan7733">worm/SNYDER_ANTIGFP_</tspan><tspan
          style="font-size:14px"
          y="725.30951"
          x="363.16541"
          sodipodi:role="line"
-         id="tspan7733">peptides gene expression gmod</tspan></text>
+         id="tspan7992">CHIPCHIP_R02D3</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -4059,33 +3984,28 @@
        y="866.70624"
        id="text7735"
        sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="363.16541"
-         y="866.70624"
-         style="font-size:14px"
-         id="tspan7737">Worm sequencing ligands </tspan><tspan
          id="tspan7739"
          sodipodi:role="line"
          x="363.16541"
+         y="866.70624"
+         style="font-size:14px"> worm/PEMBRYO_FAX_WIG/L2_</tspan><tspan
+         sodipodi:role="line"
+         x="363.16541"
          y="884.20624"
-         style="font-size:14px">peptides gene expression gmod</tspan></text>
+         style="font-size:14px"
+         id="tspan7980">reference</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7741"
-       y="866.70624"
+       y="875.60297"
        x="583.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
-         style="font-size:14px"
-         y="866.70624"
-         x="583.16541"
-         sodipodi:role="line"
-         id="tspan7743">3-Prime-UTR; happy life; wife</tspan><tspan
          id="tspan7745"
          style="font-size:14px"
-         y="884.20624"
+         y="875.60297"
          x="583.16541"
-         sodipodi:role="line">and 1.2 kids</tspan></text>
+         sodipodi:role="line">Dauer Larvae</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -4097,7 +4017,7 @@
          x="795.16541"
          y="875.60437"
          style="font-size:14px"
-         id="tspan7749">3-Prime-UTR</tspan></text>
+         id="tspan7749">H3K36me3</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7751"
@@ -4109,7 +4029,7 @@
          style="font-size:14px"
          y="875.60437"
          x="913.16541"
-         sodipodi:role="line">mRNA</tspan></text>
+         sodipodi:role="line">Transcriptional Factor</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -4117,16 +4037,16 @@
        y="905.60297"
        id="text7755"
        sodipodi:linespacing="125%"><tspan
-         id="tspan7757"
          sodipodi:role="line"
          x="583.16541"
          y="905.60297"
-         style="font-size:14px">3-Prime-UTR; happy life; wife</tspan><tspan
+         style="font-size:14px"
+         id="tspan7759">Lin-35(n745) mid-L1 4.0 hrs </tspan><tspan
          sodipodi:role="line"
          x="583.16541"
          y="923.10297"
          style="font-size:14px"
-         id="tspan7759">and 1.2 kids</tspan></text>
+         id="tspan7932">post-L1 stage larvae</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7761"
@@ -4138,7 +4058,7 @@
          style="font-size:14px"
          y="914.5011"
          x="795.16541"
-         sodipodi:role="line">3-Prime-UTR</tspan></text>
+         sodipodi:role="line">H3K36me3</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -4150,7 +4070,7 @@
          x="913.16541"
          y="914.5011"
          style="font-size:14px"
-         id="tspan7767">mRNA</tspan></text>
+         id="tspan7767">Transcriptional Factor</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -4158,16 +4078,11 @@
        y="943.80951"
        id="text7769"
        sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="363.16541"
-         y="943.80951"
-         style="font-size:14px"
-         id="tspan7771">Worm sequencing ligands </tspan><tspan
          id="tspan7773"
          sodipodi:role="line"
          x="363.16541"
-         y="961.30951"
-         style="font-size:14px">peptides gene expression gmod</tspan></text>
+         y="943.80951"
+         style="font-size:14px">worm/REINKE_TF_WIG/N2EE</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7775"
@@ -4175,16 +4090,16 @@
        x="583.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
+         id="tspan7779"
          style="font-size:14px"
          y="943.80951"
          x="583.16541"
-         sodipodi:role="line"
-         id="tspan7777">3-Prime-UTR; happy life; wife</tspan><tspan
-         id="tspan7779"
+         sodipodi:role="line">Lin-35(n745) mid-L1 4.0 hrs </tspan><tspan
          style="font-size:14px"
          y="961.30951"
          x="583.16541"
-         sodipodi:role="line">and 1.2 kids</tspan></text>
+         sodipodi:role="line"
+         id="tspan7934">post-L1 stage larvae</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -4196,7 +4111,7 @@
          x="795.16541"
          y="952.70764"
          style="font-size:14px"
-         id="tspan7783">3-Prime-UTR</tspan></text>
+         id="tspan7783">H3K36me3</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7785"
@@ -4208,7 +4123,7 @@
          style="font-size:14px"
          y="952.70764"
          x="913.16541"
-         sodipodi:role="line">mRNA</tspan></text>
+         sodipodi:role="line">Transcriptional Factor</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7789"
@@ -4216,16 +4131,16 @@
        x="363.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
-         id="tspan7791"
          style="font-size:14px"
          y="983.80951"
          x="363.16541"
-         sodipodi:role="line">Worm sequencing ligands </tspan><tspan
+         sodipodi:role="line"
+         id="tspan7793"> worm/PEMBRYO_FAX_WIG/L2_</tspan><tspan
          style="font-size:14px"
          y="1001.3095"
          x="363.16541"
          sodipodi:role="line"
-         id="tspan7793">peptides gene expression gmod</tspan></text>
+         id="tspan7976">reference</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -4233,16 +4148,16 @@
        y="983.80951"
        id="text7795"
        sodipodi:linespacing="125%"><tspan
-         id="tspan7797"
          sodipodi:role="line"
          x="583.16541"
          y="983.80951"
-         style="font-size:14px">3-Prime-UTR; happy life; wife</tspan><tspan
+         style="font-size:14px"
+         id="tspan7799">Lin-35(n745) mid-L1 4.0 hrs </tspan><tspan
          sodipodi:role="line"
          x="583.16541"
          y="1001.3095"
          style="font-size:14px"
-         id="tspan7799">and 1.2 kids</tspan></text>
+         id="tspan7936">post-L1 stage larvae</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7801"
@@ -4254,7 +4169,7 @@
          style="font-size:14px"
          y="992.70764"
          x="795.16541"
-         sodipodi:role="line">3-Prime-UTR</tspan></text>
+         sodipodi:role="line">H3K36me3</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -4266,7 +4181,7 @@
          x="913.16541"
          y="992.70764"
          style="font-size:14px"
-         id="tspan7807">mRNA</tspan></text>
+         id="tspan7807">Transcriptional Factor</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -4274,16 +4189,16 @@
        y="1022.7063"
        id="text7809"
        sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="363.16541"
-         y="1022.7063"
-         style="font-size:14px"
-         id="tspan7811">Worm sequencing ligands </tspan><tspan
          id="tspan7813"
          sodipodi:role="line"
          x="363.16541"
+         y="1022.7063"
+         style="font-size:14px"> worm/Hillier_confirmed_polyA_</tspan><tspan
+         sodipodi:role="line"
+         x="363.16541"
          y="1040.2063"
-         style="font-size:14px">peptides gene expression gmod</tspan></text>
+         style="font-size:14px"
+         id="tspan7972">L4JK1107_NODNASE</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7815"
@@ -4324,7 +4239,7 @@
          style="font-size:14px"
          y="1031.6042"
          x="913.16541"
-         sodipodi:role="line">mRNA</tspan></text>
+         sodipodi:role="line">Transcriptional Factor</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -4332,16 +4247,16 @@
        y="904.70624"
        id="text7829"
        sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="363.16541"
-         y="904.70624"
-         style="font-size:14px"
-         id="tspan7831">Worm sequencing ligands </tspan><tspan
          id="tspan7833"
          sodipodi:role="line"
          x="363.16541"
+         y="904.70624"
+         style="font-size:14px"> worm/Hillier_confirmed_polyA_</tspan><tspan
+         sodipodi:role="line"
+         x="363.16541"
          y="922.20624"
-         style="font-size:14px">peptides gene expression gmod</tspan></text>
+         style="font-size:14px"
+         id="tspan7964">L4DPY28</tspan></text>
     <path
        inkscape:connector-curvature="0"
        d="m 260.77813,432.91297 -1.8711,-1.47577 c -0.058,-0.0477 -0.1296,-0.0818 -0.2114,-0.0818 -0.082,0 -0.1567,0.0341 -0.2147,0.0852 l -6.8062,8.74554 c 0,0 -2.6755,-2.57322 -2.7505,-2.6482 -0.075,-0.075 -0.1738,-0.20109 -0.3237,-0.20109 -0.15,0 -0.2182,0.10566 -0.2966,0.18405 -0.058,0.0614 -1.0122,1.06337 -1.4826,1.56097 -0.027,0.0307 -0.044,0.0477 -0.068,0.0716 -0.041,0.058 -0.068,0.1227 -0.068,0.19427 0,0.075 0.027,0.13633 0.068,0.19428 l 0.095,0.0886 c 0,0 4.7477,4.56022 4.8261,4.63861 0.078,0.0784 0.1738,0.17723 0.3135,0.17723 0.1364,0 0.2488,-0.14656 0.3136,-0.21131 l 8.4899,-10.90637 c 0.041,-0.058 0.068,-0.12269 0.068,-0.19767 0,-0.0852 -0.034,-0.15679 -0.082,-0.21813 z"
@@ -4367,5 +4282,15 @@
        d="m 260.77813,944.42937 -1.8711,-1.47577 c -0.058,-0.0477 -0.1296,-0.0818 -0.2114,-0.0818 -0.082,0 -0.1567,0.0341 -0.2147,0.0852 l -6.8062,8.74554 c 0,0 -2.6755,-2.57322 -2.7505,-2.6482 -0.075,-0.075 -0.1738,-0.20109 -0.3237,-0.20109 -0.15,0 -0.2182,0.10566 -0.2966,0.18405 -0.058,0.0614 -1.0122,1.06337 -1.4826,1.56097 -0.027,0.0307 -0.044,0.0477 -0.068,0.0716 -0.041,0.058 -0.068,0.1227 -0.068,0.19427 0,0.075 0.027,0.13633 0.068,0.19428 l 0.095,0.0886 c 0,0 4.7477,4.56022 4.8261,4.63861 0.078,0.0784 0.1738,0.17723 0.3135,0.17723 0.1364,0 0.2488,-0.14656 0.3136,-0.21131 l 8.4899,-10.90637 c 0.041,-0.058 0.068,-0.12269 0.068,-0.19767 0,-0.0852 -0.034,-0.15679 -0.082,-0.21813 z"
        id="path7898"
        style="fill:#1a1a1a;display:inline" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 285.67626,510.91297 -1.8711,-1.47577 c -0.058,-0.0477 -0.1296,-0.0818 -0.2114,-0.0818 -0.082,0 -0.1567,0.0341 -0.2147,0.0852 l -6.8062,8.74554 c 0,0 -2.6755,-2.57322 -2.7505,-2.6482 -0.075,-0.075 -0.1738,-0.20109 -0.3237,-0.20109 -0.15,0 -0.2182,0.10566 -0.2966,0.18405 -0.058,0.0614 -1.0122,1.06337 -1.4826,1.56097 -0.027,0.0307 -0.044,0.0477 -0.068,0.0716 -0.041,0.058 -0.068,0.1227 -0.068,0.19427 0,0.075 0.027,0.13633 0.068,0.19428 l 0.095,0.0886 c 0,0 4.7477,4.56022 4.8261,4.63861 0.078,0.0784 0.1738,0.17723 0.3135,0.17723 0.1364,0 0.2488,-0.14656 0.3136,-0.21131 l 8.4899,-10.90637 c 0.041,-0.058 0.068,-0.12269 0.068,-0.19767 0,-0.0852 -0.034,-0.15679 -0.082,-0.21813 z"
+       id="path7938"
+       style="fill:#1a1a1a;display:inline" />
+    <path
+       style="fill:#1a1a1a;display:inline"
+       id="path7940"
+       d="m 285.67626,550.91297 -1.8711,-1.47577 c -0.058,-0.0477 -0.1296,-0.0818 -0.2114,-0.0818 -0.082,0 -0.1567,0.0341 -0.2147,0.0852 l -6.8062,8.74554 c 0,0 -2.6755,-2.57322 -2.7505,-2.6482 -0.075,-0.075 -0.1738,-0.20109 -0.3237,-0.20109 -0.15,0 -0.2182,0.10566 -0.2966,0.18405 -0.058,0.0614 -1.0122,1.06337 -1.4826,1.56097 -0.027,0.0307 -0.044,0.0477 -0.068,0.0716 -0.041,0.058 -0.068,0.1227 -0.068,0.19427 0,0.075 0.027,0.13633 0.068,0.19428 l 0.095,0.0886 c 0,0 4.7477,4.56022 4.8261,4.63861 0.078,0.0784 0.1738,0.17723 0.3135,0.17723 0.1364,0 0.2488,-0.14656 0.3136,-0.21131 l 8.4899,-10.90637 c 0.041,-0.058 0.068,-0.12269 0.068,-0.19767 0,-0.0852 -0.034,-0.15679 -0.082,-0.21813 z"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

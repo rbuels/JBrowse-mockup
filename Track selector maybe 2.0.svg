@@ -64,17 +64,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1051992"
-     inkscape:cx="404.6208"
-     inkscape:cy="599.70764"
+     inkscape:zoom="1"
+     inkscape:cx="730.71544"
+     inkscape:cy="344.82605"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showborder="true"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1600"
-     inkscape:window-height="876"
-     inkscape:window-x="1440"
+     inkscape:window-width="1615"
+     inkscape:window-height="1026"
+     inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:snap-global="false"
@@ -133,7 +133,7 @@
      transform="translate(0,-284.36218)"
      style="display:inline">
     <rect
-       y="693.64886"
+       y="701.64886"
        x="229.77156"
        height="39.526424"
        width="1136.2285"
@@ -141,7 +141,7 @@
        style="fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        transform="scale(1,-1)"
-       y="-772.21985"
+       y="-780.21985"
        x="229.77156"
        height="39.044518"
        width="1136.2285"
@@ -149,7 +149,7 @@
        style="fill:#e0eaf9;fill-opacity:1;stroke:none" />
     <rect
        transform="scale(1,-1)"
-       y="-693.64886"
+       y="-701.64886"
        x="229.77156"
        height="39.044518"
        width="1136.2285"
@@ -201,7 +201,7 @@
        id="rect6573"
        style="fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
-       y="772.21985"
+       y="780.21985"
        x="229.77156"
        height="39.526424"
        width="1136.2285"
@@ -209,14 +209,14 @@
        style="fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        transform="scale(1,-1)"
-       y="-850.79077"
+       y="-858.79077"
        x="229.77156"
        height="39.044518"
        width="1136.2285"
        id="rect6599"
        style="fill:#e0eaf9;fill-opacity:1;stroke:none" />
     <rect
-       y="850.79077"
+       y="858.79077"
        x="229.77156"
        height="39.526424"
        width="1136.2285"
@@ -224,14 +224,14 @@
        style="fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        transform="scale(1,-1)"
-       y="-929.36176"
+       y="-937.36176"
        x="229.77156"
        height="39.044518"
        width="1136.2285"
        id="rect6605"
        style="fill:#e0eaf9;fill-opacity:1;stroke:none" />
     <rect
-       y="929.36176"
+       y="937.36176"
        x="229.77156"
        height="39.526424"
        width="1136.2285"
@@ -239,14 +239,14 @@
        style="fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        transform="scale(1,-1)"
-       y="-1007.9327"
+       y="-1015.9327"
        x="229.77156"
        height="39.044518"
        width="1136.2285"
        id="rect6611"
        style="fill:#e0eaf9;fill-opacity:1;stroke:none" />
     <rect
-       y="1007.9327"
+       y="1015.9327"
        x="229.77156"
        height="39.526424"
        width="1136.2285"
@@ -254,7 +254,7 @@
        style="fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        transform="scale(1,-1)"
-       y="-1052.3622"
+       y="-1060.3622"
        x="229.77156"
        height="4.9030647"
        width="1136.2285"
@@ -2992,7 +2992,7 @@
        y="0"
        inkscape:tiled-clone-of="#g4500-2-3"
        xlink:href="#g4500-2-3"
-       transform="translate(0,235.95466)"
+       transform="translate(0,243.95466)"
        id="use7157"
        width="1366"
        height="768" />
@@ -3001,7 +3001,7 @@
        y="0"
        inkscape:tiled-clone-of="#g4500-2-3"
        xlink:href="#g4500-2-3"
-       transform="translate(0,275.28044)"
+       transform="translate(0,283.28044)"
        id="use7159"
        width="1366"
        height="768" />
@@ -3010,7 +3010,7 @@
        y="0"
        inkscape:tiled-clone-of="#g4500-2-3"
        xlink:href="#g4500-2-3"
-       transform="translate(0,314.60622)"
+       transform="translate(0,322.60622)"
        id="use7161"
        width="1366"
        height="768" />
@@ -3019,7 +3019,7 @@
        y="0"
        inkscape:tiled-clone-of="#g4500-2-3"
        xlink:href="#g4500-2-3"
-       transform="translate(0,353.932)"
+       transform="translate(0,361.932)"
        id="use7163"
        width="1366"
        height="768" />
@@ -3028,7 +3028,7 @@
        y="0"
        inkscape:tiled-clone-of="#g4500-2-3"
        xlink:href="#g4500-2-3"
-       transform="translate(0,393.25777)"
+       transform="translate(0,401.25777)"
        id="use7165"
        width="1366"
        height="768" />
@@ -3037,7 +3037,7 @@
        y="0"
        inkscape:tiled-clone-of="#g4500-2-3"
        xlink:href="#g4500-2-3"
-       transform="translate(0,432.58355)"
+       transform="translate(0,440.58355)"
        id="use7167"
        width="1366"
        height="768" />
@@ -3046,7 +3046,7 @@
        y="0"
        inkscape:tiled-clone-of="#g4500-2-3"
        xlink:href="#g4500-2-3"
-       transform="translate(0,471.90933)"
+       transform="translate(0,479.90933)"
        id="use7169"
        width="1366"
        height="768" />
@@ -3055,7 +3055,7 @@
        y="0"
        inkscape:tiled-clone-of="#g4500-2-3"
        xlink:href="#g4500-2-3"
-       transform="translate(0,511.23511)"
+       transform="translate(0,519.23511)"
        id="use7171"
        width="1366"
        height="768" />
@@ -3064,7 +3064,7 @@
        y="0"
        inkscape:tiled-clone-of="#g4500-2-3"
        xlink:href="#g4500-2-3"
-       transform="translate(0,550.56088)"
+       transform="translate(0,558.56088)"
        id="use7173"
        width="1366"
        height="768" />
@@ -3073,7 +3073,7 @@
        y="0"
        inkscape:tiled-clone-of="#g4500-2-3"
        xlink:href="#g4500-2-3"
-       transform="translate(0,589.88666)"
+       transform="translate(0,597.88666)"
        id="use7175"
        width="1366"
        height="768" />
@@ -3082,8 +3082,10 @@
        y="0"
        inkscape:tiled-clone-of="#g4500-2-3"
        xlink:href="#g4500-2-3"
-       transform="translate(0,629.21244)"
-       id="use7177" />
+       transform="translate(0,637.21244)"
+       id="use7177"
+       width="1366"
+       height="768" />
     <g
        transform="matrix(0.45863051,0,0,0.45863051,129.27974,297.49445)"
        style="fill:#4284d3;display:inline;enable-background:new"
@@ -3132,7 +3134,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(0.82089553,0,0,0.82089553,-1432.8107,282.45957)"
+       transform="matrix(0.82089553,0,0,0.82089553,-1432.8107,290.45957)"
        style="display:inline"
        id="g7197">
       <path
@@ -3149,7 +3151,7 @@
          style="fill:#fd3f49;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new" />
     </g>
     <g
-       transform="matrix(0.45863051,0,0,0.45863051,129.27974,493.49445)"
+       transform="matrix(0.45863051,0,0,0.45863051,129.27974,501.49445)"
        style="fill:#4284d3;display:inline;enable-background:new"
        id="g7203">
       <path
@@ -3161,7 +3163,7 @@
     <g
        id="g7207"
        style="display:inline"
-       transform="matrix(0.82089553,0,0,0.82089553,-1432.8107,358.45957)">
+       transform="matrix(0.82089553,0,0,0.82089553,-1432.8107,366.45957)">
       <path
          sodipodi:nodetypes="cccccc"
          inkscape:connector-curvature="0"
@@ -3178,7 +3180,7 @@
     <g
        id="g7213"
        style="fill:#4284d3;display:inline;enable-background:new"
-       transform="matrix(0.45863051,0,0,0.45863051,129.27974,610.61908)">
+       transform="matrix(0.45863051,0,0,0.45863051,129.27974,618.61908)">
       <path
          inkscape:connector-curvature="0"
          id="path7215"
@@ -3186,7 +3188,7 @@
          style="fill:#4284d3;fill-opacity:1;stroke:none" />
     </g>
     <g
-       transform="matrix(0.82089553,0,0,0.82089553,-1432.8107,399.44829)"
+       transform="matrix(0.82089553,0,0,0.82089553,-1432.8107,407.44829)"
        style="display:inline"
        id="g7217">
       <path
@@ -3203,7 +3205,7 @@
          style="fill:#fd3f49;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new" />
     </g>
     <g
-       transform="matrix(0.45863051,0,0,0.45863051,129.27974,651.49445)"
+       transform="matrix(0.45863051,0,0,0.45863051,129.27974,659.49445)"
        style="fill:#4284d3;display:inline;enable-background:new"
        id="g7223">
       <path
@@ -3215,7 +3217,7 @@
     <g
        id="g7227"
        style="fill:#4284d3;display:inline;enable-background:new"
-       transform="matrix(0.45863051,0,0,0.45863051,129.27974,728.61908)">
+       transform="matrix(0.45863051,0,0,0.45863051,129.27974,736.61908)">
       <path
          inkscape:connector-curvature="0"
          id="path7229"
@@ -3225,7 +3227,7 @@
     <g
        id="g7231"
        style="display:inline"
-       transform="matrix(0.82089553,0,0,0.82089553,-1432.8107,517.44829)">
+       transform="matrix(0.82089553,0,0,0.82089553,-1432.8107,525.44829)">
       <path
          sodipodi:nodetypes="cccccc"
          inkscape:connector-curvature="0"
@@ -3242,7 +3244,7 @@
     <g
        id="g7237"
        style="display:inline"
-       transform="matrix(0.82089553,0,0,0.82089553,-1432.8107,594.45957)">
+       transform="matrix(0.82089553,0,0,0.82089553,-1432.8107,602.45957)">
       <path
          sodipodi:nodetypes="cccccc"
          inkscape:connector-curvature="0"
@@ -3259,7 +3261,7 @@
     <g
        id="g7243"
        style="fill:#4284d3;display:inline;enable-background:new"
-       transform="matrix(0.45863051,0,0,0.45863051,129.27974,807.49445)">
+       transform="matrix(0.45863051,0,0,0.45863051,129.27974,815.49445)">
       <path
          inkscape:connector-curvature="0"
          id="path7245"
@@ -3267,7 +3269,7 @@
          style="fill:#4284d3;fill-opacity:1;stroke:none" />
     </g>
     <g
-       transform="matrix(0.45863051,0,0,0.45863051,129.27974,847.49445)"
+       transform="matrix(0.45863051,0,0,0.45863051,129.27974,855.49445)"
        style="fill:#4284d3;display:inline;enable-background:new"
        id="g7247">
       <path
@@ -3307,7 +3309,7 @@
        y="0"
        inkscape:tiled-clone-of="#image6365"
        xlink:href="#image6365"
-       transform="translate(0,275.408)"
+       transform="translate(0,283.408)"
        id="use7491"
        width="1366"
        height="768" />
@@ -3316,7 +3318,7 @@
        y="0"
        inkscape:tiled-clone-of="#image6365"
        xlink:href="#image6365"
-       transform="translate(0,314.752)"
+       transform="translate(0,322.752)"
        id="use7493"
        width="1366"
        height="768" />
@@ -3325,7 +3327,7 @@
        y="0"
        inkscape:tiled-clone-of="#image6365"
        xlink:href="#image6365"
-       transform="translate(0,354.096)"
+       transform="translate(0,362.096)"
        id="use7495"
        width="1366"
        height="768" />
@@ -3334,12 +3336,12 @@
        y="0"
        inkscape:tiled-clone-of="#image6365"
        xlink:href="#image6365"
-       transform="translate(0,393.44)"
+       transform="translate(0,401.44)"
        id="use7497"
        width="1366"
        height="768" />
     <image
-       y="823.6955"
+       y="831.6955"
        x="281.62839"
        id="image8134"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAeBJREFU OI11kz9oU0Ecxz+1Vn4BsS+D+OL2JnkutS2FKC4JXZIxdKiuGSs4VBfJIPp0qlurg3WSKghJsyQP pKaDIX2TdLJbM6abKUhzonAO93p9jzY/uDvu7vf93vd+fwC0HRKvwarm5zfNj5bmsKfxXY2T8EuP xMZ1Na1NTa9ugA8rGhGNhy5187r0Na8ppgkukbQPAfi3wXGgtgafGqAU9M319DVYfp2H2TNImsDz QI2gs2fACQuXIg66GQCW3+XHEAyOzIuDgSFL2NzjOW7OjwA4Ho1TcNAHEXhUhdWqPZ5ZK3Bj/gpM GXD4MrJ3k8Bzu2t3QP0G5yrkrsP3HjO1Bfz7I/5MAiewux3x78vZmxPEqThn5SKzJbi1cGJkA+GL fWirlFvqC3I6+SBex4KbHyPCZxNQq8N6MJ5AAVIDqULhgYl0sxuhtoD+EfwaQLkIlbLFXE7LFgqL d5jGBKv5OQYrAdcByZg0F+9Bo31eQempAQPs7kSoDfsxCJ5A1oHhEDx3jIIhHE9B+DaCPUxFZrNQ rUBGDJc4sL51cQzC9/vwF1O6fSCXg5WKkSwCQyDYgEa6Sm1jCGh8NCuO5q5vGuu0I1ubGs+NfcVi UnUgcSY47JlgqTjn9Q68esNF9h+PNME/5TophwAAAABJRU5ErkJggg== "
@@ -3588,7 +3590,7 @@
          x="583.16541"
          sodipodi:role="line">L4 45 hr post-L1 stage larvae</tspan></text>
     <rect
-       y="615.07794"
+       y="623.07794"
        x="229.77156"
        height="39.526424"
        width="1136.2285"
@@ -3622,64 +3624,64 @@
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        x="363.16541"
-       y="638.97699"
+       y="646.97699"
        id="text7615"
        sodipodi:linespacing="125%"><tspan
          id="tspan7619"
          sodipodi:role="line"
          x="363.16541"
-         y="638.97699"
+         y="646.97699"
          style="font-size:14px"> worm/L3.ws220.sam_sorted</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7621"
-       y="638.70624"
+       y="646.70624"
        x="583.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
          id="tspan7625"
          style="font-size:14px"
-         y="638.70624"
+         y="646.70624"
          x="583.16541"
          sodipodi:role="line">L4 45 hr post-L1 stage larvae</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        x="795.16541"
-       y="638.70764"
+       y="646.70764"
        id="text7627"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="795.16541"
-         y="638.70764"
+         y="646.70764"
          style="font-size:14px"
          id="tspan7629">H3</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7631"
-       y="638.70764"
+       y="646.70764"
        x="913.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
          id="tspan7633"
          style="font-size:14px"
-         y="638.70764"
+         y="646.70764"
          x="913.16541"
          sodipodi:role="line">Histone Modification</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7635"
-       y="669.80951"
+       y="677.80951"
        x="363.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
          style="font-size:14px"
-         y="669.80951"
+         y="677.80951"
          x="363.16541"
          sodipodi:role="line"
          id="tspan7639"> worm/PEMBRYO_FAX_WIG/L2_</tspan><tspan
          style="font-size:14px"
-         y="687.30951"
+         y="695.30951"
          x="363.16541"
          sodipodi:role="line"
          id="tspan7984">reference</tspan></text>
@@ -3687,88 +3689,88 @@
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        x="583.16541"
-       y="678.70624"
+       y="686.70624"
        id="text7641"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="583.16541"
-         y="678.70624"
+         y="686.70624"
          style="font-size:14px"
          id="tspan7645">Dauer Larvae</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7647"
-       y="678.70764"
+       y="686.70764"
        x="795.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
          id="tspan7649"
          style="font-size:14px"
-         y="678.70764"
+         y="686.70764"
          x="795.16541"
          sodipodi:role="line">H3</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        x="913.16541"
-       y="678.70764"
+       y="686.70764"
        id="text7651"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="913.16541"
-         y="678.70764"
+         y="686.70764"
          style="font-size:14px"
          id="tspan7653">Histone Modification</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7655"
-       y="717.60297"
+       y="725.60297"
        x="583.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
          id="tspan7659"
          style="font-size:14px"
-         y="717.60297"
+         y="725.60297"
          x="583.16541"
          sodipodi:role="line">Dauer Larvae</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        x="795.16541"
-       y="717.60437"
+       y="725.60437"
        id="text7661"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="795.16541"
-         y="717.60437"
+         y="725.60437"
          style="font-size:14px"
          id="tspan7663">H3</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7665"
-       y="717.60437"
+       y="725.60437"
        x="913.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
          id="tspan7667"
          style="font-size:14px"
-         y="717.60437"
+         y="725.60437"
          x="913.16541"
          sodipodi:role="line">Histone Modification</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7669"
-       y="746.91278"
+       y="754.91278"
        x="363.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
          style="font-size:14px"
-         y="746.91278"
+         y="754.91278"
          x="363.16541"
          sodipodi:role="line"
          id="tspan7673"> worm/Hillier_confirmed_polyA_</tspan><tspan
          style="font-size:14px"
-         y="764.41278"
+         y="772.41278"
          x="363.16541"
          sodipodi:role="line"
          id="tspan7960">L4DPY28</tspan></text>
@@ -3776,100 +3778,100 @@
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        x="583.16541"
-       y="757.80951"
+       y="765.80951"
        id="text7675"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="583.16541"
-         y="757.80951"
+         y="765.80951"
          style="font-size:14px"
          id="tspan7679">Dauer Larvae</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7681"
-       y="755.81091"
+       y="763.81091"
        x="795.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
          id="tspan7683"
          style="font-size:14px"
-         y="755.81091"
+         y="763.81091"
          x="795.16541"
          sodipodi:role="line">H3K36me3</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        x="913.16541"
-       y="755.81091"
+       y="763.81091"
        id="text7685"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="913.16541"
-         y="755.81091"
+         y="763.81091"
          style="font-size:14px"
          id="tspan7687">Histone Modification</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        x="363.16541"
-       y="796.08026"
+       y="804.08026"
        id="text7689"
        sodipodi:linespacing="125%"><tspan
          id="tspan7693"
          sodipodi:role="line"
          x="363.16541"
-         y="796.08026"
+         y="804.08026"
          style="font-size:14px">worm/REINKE_TF_WIG/N2EE</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7695"
-       y="795.80951"
+       y="803.80951"
        x="583.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
          id="tspan7699"
          style="font-size:14px"
-         y="795.80951"
+         y="803.80951"
          x="583.16541"
          sodipodi:role="line">Dauer Larvae</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        x="795.16541"
-       y="795.81091"
+       y="803.81091"
        id="text7701"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="795.16541"
-         y="795.81091"
+         y="803.81091"
          style="font-size:14px"
          id="tspan7703">H3K36me3</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7705"
-       y="795.81091"
+       y="803.81091"
        x="913.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
          id="tspan7707"
          style="font-size:14px"
-         y="795.81091"
+         y="803.81091"
          x="913.16541"
          sodipodi:role="line">Histone Modification</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7709"
-       y="825.80951"
+       y="833.80951"
        x="363.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
          style="font-size:14px"
-         y="825.80951"
+         y="833.80951"
          x="363.16541"
          sodipodi:role="line"
          id="tspan7713"> worm/Hillier_confirmed_polyA_</tspan><tspan
          style="font-size:14px"
-         y="843.30951"
+         y="851.30951"
          x="363.16541"
          sodipodi:role="line"
          id="tspan7968">L4JK1107_NODNASE</tspan></text>
@@ -3877,52 +3879,52 @@
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        x="583.16541"
-       y="834.70624"
+       y="842.70624"
        id="text7715"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="583.16541"
-         y="834.70624"
+         y="842.70624"
          style="font-size:14px"
          id="tspan7719">Dauer Larvae</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7721"
-       y="834.70764"
+       y="842.70764"
        x="795.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
          id="tspan7723"
          style="font-size:14px"
-         y="834.70764"
+         y="842.70764"
          x="795.16541"
          sodipodi:role="line">H3K36me3</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        x="913.16541"
-       y="834.70764"
+       y="842.70764"
        id="text7725"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="913.16541"
-         y="834.70764"
+         y="842.70764"
          style="font-size:14px"
          id="tspan7727">Histone Modification</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7729"
-       y="707.80951"
+       y="715.80951"
        x="363.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
          style="font-size:14px"
-         y="707.80951"
+         y="715.80951"
          x="363.16541"
          sodipodi:role="line"
          id="tspan7733">worm/SNYDER_ANTIGFP_</tspan><tspan
          style="font-size:14px"
-         y="725.30951"
+         y="733.30951"
          x="363.16541"
          sodipodi:role="line"
          id="tspan7992">CHIPCHIP_R02D3</tspan></text>
@@ -3930,122 +3932,122 @@
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        x="363.16541"
-       y="866.70624"
+       y="874.70624"
        id="text7735"
        sodipodi:linespacing="125%"><tspan
          id="tspan7739"
          sodipodi:role="line"
          x="363.16541"
-         y="866.70624"
+         y="874.70624"
          style="font-size:14px"> worm/PEMBRYO_FAX_WIG/L2_</tspan><tspan
          sodipodi:role="line"
          x="363.16541"
-         y="884.20624"
+         y="892.20624"
          style="font-size:14px"
          id="tspan7980">reference</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7741"
-       y="875.60297"
+       y="883.60297"
        x="583.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
          id="tspan7745"
          style="font-size:14px"
-         y="875.60297"
+         y="883.60297"
          x="583.16541"
          sodipodi:role="line">Dauer Larvae</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        x="795.16541"
-       y="875.60437"
+       y="883.60437"
        id="text7747"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="795.16541"
-         y="875.60437"
+         y="883.60437"
          style="font-size:14px"
          id="tspan7749">H3K36me3</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7751"
-       y="875.60437"
+       y="883.60437"
        x="913.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
          id="tspan7753"
          style="font-size:14px"
-         y="875.60437"
+         y="883.60437"
          x="913.16541"
          sodipodi:role="line">Transcriptional Factor</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        x="583.16541"
-       y="905.60297"
+       y="913.60297"
        id="text7755"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="583.16541"
-         y="905.60297"
+         y="913.60297"
          style="font-size:14px"
          id="tspan7759">Lin-35(n745) mid-L1 4.0 hrs </tspan><tspan
          sodipodi:role="line"
          x="583.16541"
-         y="923.10297"
+         y="931.10297"
          style="font-size:14px"
          id="tspan7932">post-L1 stage larvae</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7761"
-       y="914.5011"
+       y="922.5011"
        x="795.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
          id="tspan7763"
          style="font-size:14px"
-         y="914.5011"
+         y="922.5011"
          x="795.16541"
          sodipodi:role="line">H3K36me3</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        x="913.16541"
-       y="914.5011"
+       y="922.5011"
        id="text7765"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="913.16541"
-         y="914.5011"
+         y="922.5011"
          style="font-size:14px"
          id="tspan7767">Transcriptional Factor</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        x="363.16541"
-       y="952.97699"
+       y="960.97699"
        id="text7769"
        sodipodi:linespacing="125%"><tspan
          id="tspan7773"
          sodipodi:role="line"
          x="363.16541"
-         y="952.97699"
+         y="960.97699"
          style="font-size:14px">worm/REINKE_TF_WIG/N2EE</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7775"
-       y="943.80951"
+       y="951.80951"
        x="583.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
          id="tspan7779"
          style="font-size:14px"
-         y="943.80951"
+         y="951.80951"
          x="583.16541"
          sodipodi:role="line">Lin-35(n745) mid-L1 4.0 hrs </tspan><tspan
          style="font-size:14px"
-         y="961.30951"
+         y="969.30951"
          x="583.16541"
          sodipodi:role="line"
          id="tspan7934">post-L1 stage larvae</tspan></text>
@@ -4053,40 +4055,40 @@
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        x="795.16541"
-       y="952.70764"
+       y="960.70764"
        id="text7781"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="795.16541"
-         y="952.70764"
+         y="960.70764"
          style="font-size:14px"
          id="tspan7783">H3K36me3</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7785"
-       y="952.70764"
+       y="960.70764"
        x="913.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
          id="tspan7787"
          style="font-size:14px"
-         y="952.70764"
+         y="960.70764"
          x="913.16541"
          sodipodi:role="line">Transcriptional Factor</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7789"
-       y="983.80951"
+       y="991.80951"
        x="363.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
          style="font-size:14px"
-         y="983.80951"
+         y="991.80951"
          x="363.16541"
          sodipodi:role="line"
          id="tspan7793"> worm/PEMBRYO_FAX_WIG/L2_</tspan><tspan
          style="font-size:14px"
-         y="1001.3095"
+         y="1009.3095"
          x="363.16541"
          sodipodi:role="line"
          id="tspan7976">reference</tspan></text>
@@ -4094,116 +4096,116 @@
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        x="583.16541"
-       y="983.80951"
+       y="991.80951"
        id="text7795"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="583.16541"
-         y="983.80951"
+         y="991.80951"
          style="font-size:14px"
          id="tspan7799">Lin-35(n745) mid-L1 4.0 hrs </tspan><tspan
          sodipodi:role="line"
          x="583.16541"
-         y="1001.3095"
+         y="1009.3095"
          style="font-size:14px"
          id="tspan7936">post-L1 stage larvae</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7801"
-       y="992.70764"
+       y="1000.7076"
        x="795.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
          id="tspan7803"
          style="font-size:14px"
-         y="992.70764"
+         y="1000.7076"
          x="795.16541"
          sodipodi:role="line">H3K36me3</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        x="913.16541"
-       y="992.70764"
+       y="1000.7076"
        id="text7805"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="913.16541"
-         y="992.70764"
+         y="1000.7076"
          style="font-size:14px"
          id="tspan7807">Transcriptional Factor</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        x="363.16541"
-       y="1022.7063"
+       y="1030.7063"
        id="text7809"
        sodipodi:linespacing="125%"><tspan
          id="tspan7813"
          sodipodi:role="line"
          x="363.16541"
-         y="1022.7063"
+         y="1030.7063"
          style="font-size:14px"> worm/Hillier_confirmed_polyA_</tspan><tspan
          sodipodi:role="line"
          x="363.16541"
-         y="1040.2063"
+         y="1048.2063"
          style="font-size:14px"
          id="tspan7972">L4JK1107_NODNASE</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7815"
-       y="1022.7063"
+       y="1030.7063"
        x="583.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
          style="font-size:14px"
-         y="1022.7063"
+         y="1030.7063"
          x="583.16541"
          sodipodi:role="line"
          id="tspan7817">3-Prime-UTR; happy life; wife</tspan><tspan
          id="tspan7819"
          style="font-size:14px"
-         y="1040.2063"
+         y="1048.2063"
          x="583.16541"
          sodipodi:role="line">and 1.2 kids</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        x="795.16541"
-       y="1031.6042"
+       y="1039.6042"
        id="text7821"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="795.16541"
-         y="1031.6042"
+         y="1039.6042"
          style="font-size:14px"
          id="tspan7823">3-Prime-UTR</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7825"
-       y="1031.6042"
+       y="1039.6042"
        x="913.16541"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
          id="tspan7827"
          style="font-size:14px"
-         y="1031.6042"
+         y="1039.6042"
          x="913.16541"
          sodipodi:role="line">Transcriptional Factor</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        x="363.16541"
-       y="904.70624"
+       y="912.70624"
        id="text7829"
        sodipodi:linespacing="125%"><tspan
          id="tspan7833"
          sodipodi:role="line"
          x="363.16541"
-         y="904.70624"
+         y="912.70624"
          style="font-size:14px"> worm/Hillier_confirmed_polyA_</tspan><tspan
          sodipodi:role="line"
          x="363.16541"
-         y="922.20624"
+         y="930.20624"
          style="font-size:14px"
          id="tspan7964">L4DPY28</tspan></text>
     <path
@@ -4220,24 +4222,24 @@
        height="768"
        width="1366"
        id="use9337"
-       transform="translate(0,235.28044)"
+       transform="translate(0,243.28044)"
        xlink:href="#g4500-2-3"
        inkscape:tiled-clone-of="#g4500-2-3"
        y="0"
        x="0" />
     <path
        inkscape:connector-curvature="0"
-       d="m 260.77813,629.32609 -1.8711,-1.47577 c -0.058,-0.0477 -0.1296,-0.0818 -0.2114,-0.0818 -0.082,0 -0.1567,0.0341 -0.2147,0.0852 l -6.8062,8.74554 c 0,0 -2.6755,-2.57322 -2.7505,-2.6482 -0.075,-0.075 -0.1738,-0.20109 -0.3237,-0.20109 -0.15,0 -0.2182,0.10566 -0.2966,0.18405 -0.058,0.0614 -1.0122,1.06337 -1.4826,1.56097 -0.027,0.0307 -0.044,0.0477 -0.068,0.0716 -0.041,0.058 -0.068,0.1227 -0.068,0.19427 0,0.075 0.027,0.13633 0.068,0.19428 l 0.095,0.0886 c 0,0 4.7477,4.56022 4.8261,4.63861 0.078,0.0784 0.1738,0.17723 0.3135,0.17723 0.1364,0 0.2488,-0.14656 0.3136,-0.21131 l 8.4899,-10.90637 c 0.041,-0.058 0.068,-0.12269 0.068,-0.19767 0,-0.0852 -0.034,-0.15679 -0.082,-0.21813 z"
+       d="m 260.77813,637.32609 -1.8711,-1.47577 c -0.058,-0.0477 -0.1296,-0.0818 -0.2114,-0.0818 -0.082,0 -0.1567,0.0341 -0.2147,0.0852 l -6.8062,8.74554 c 0,0 -2.6755,-2.57322 -2.7505,-2.6482 -0.075,-0.075 -0.1738,-0.20109 -0.3237,-0.20109 -0.15,0 -0.2182,0.10566 -0.2966,0.18405 -0.058,0.0614 -1.0122,1.06337 -1.4826,1.56097 -0.027,0.0307 -0.044,0.0477 -0.068,0.0716 -0.041,0.058 -0.068,0.1227 -0.068,0.19427 0,0.075 0.027,0.13633 0.068,0.19428 l 0.095,0.0886 c 0,0 4.7477,4.56022 4.8261,4.63861 0.078,0.0784 0.1738,0.17723 0.3135,0.17723 0.1364,0 0.2488,-0.14656 0.3136,-0.21131 l 8.4899,-10.90637 c 0.041,-0.058 0.068,-0.12269 0.068,-0.19767 0,-0.0852 -0.034,-0.15679 -0.082,-0.21813 z"
        id="path7894"
        style="fill:#1a1a1a;display:inline" />
     <path
        style="fill:#1a1a1a;display:inline"
        id="path7896"
-       d="m 260.77813,826.42937 -1.8711,-1.47577 c -0.058,-0.0477 -0.1296,-0.0818 -0.2114,-0.0818 -0.082,0 -0.1567,0.0341 -0.2147,0.0852 l -6.8062,8.74554 c 0,0 -2.6755,-2.57322 -2.7505,-2.6482 -0.075,-0.075 -0.1738,-0.20109 -0.3237,-0.20109 -0.15,0 -0.2182,0.10566 -0.2966,0.18405 -0.058,0.0614 -1.0122,1.06337 -1.4826,1.56097 -0.027,0.0307 -0.044,0.0477 -0.068,0.0716 -0.041,0.058 -0.068,0.1227 -0.068,0.19427 0,0.075 0.027,0.13633 0.068,0.19428 l 0.095,0.0886 c 0,0 4.7477,4.56022 4.8261,4.63861 0.078,0.0784 0.1738,0.17723 0.3135,0.17723 0.1364,0 0.2488,-0.14656 0.3136,-0.21131 l 8.4899,-10.90637 c 0.041,-0.058 0.068,-0.12269 0.068,-0.19767 0,-0.0852 -0.034,-0.15679 -0.082,-0.21813 z"
+       d="m 260.77813,834.42937 -1.8711,-1.47577 c -0.058,-0.0477 -0.1296,-0.0818 -0.2114,-0.0818 -0.082,0 -0.1567,0.0341 -0.2147,0.0852 l -6.8062,8.74554 c 0,0 -2.6755,-2.57322 -2.7505,-2.6482 -0.075,-0.075 -0.1738,-0.20109 -0.3237,-0.20109 -0.15,0 -0.2182,0.10566 -0.2966,0.18405 -0.058,0.0614 -1.0122,1.06337 -1.4826,1.56097 -0.027,0.0307 -0.044,0.0477 -0.068,0.0716 -0.041,0.058 -0.068,0.1227 -0.068,0.19427 0,0.075 0.027,0.13633 0.068,0.19428 l 0.095,0.0886 c 0,0 4.7477,4.56022 4.8261,4.63861 0.078,0.0784 0.1738,0.17723 0.3135,0.17723 0.1364,0 0.2488,-0.14656 0.3136,-0.21131 l 8.4899,-10.90637 c 0.041,-0.058 0.068,-0.12269 0.068,-0.19767 0,-0.0852 -0.034,-0.15679 -0.082,-0.21813 z"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
-       d="m 260.77813,944.42937 -1.8711,-1.47577 c -0.058,-0.0477 -0.1296,-0.0818 -0.2114,-0.0818 -0.082,0 -0.1567,0.0341 -0.2147,0.0852 l -6.8062,8.74554 c 0,0 -2.6755,-2.57322 -2.7505,-2.6482 -0.075,-0.075 -0.1738,-0.20109 -0.3237,-0.20109 -0.15,0 -0.2182,0.10566 -0.2966,0.18405 -0.058,0.0614 -1.0122,1.06337 -1.4826,1.56097 -0.027,0.0307 -0.044,0.0477 -0.068,0.0716 -0.041,0.058 -0.068,0.1227 -0.068,0.19427 0,0.075 0.027,0.13633 0.068,0.19428 l 0.095,0.0886 c 0,0 4.7477,4.56022 4.8261,4.63861 0.078,0.0784 0.1738,0.17723 0.3135,0.17723 0.1364,0 0.2488,-0.14656 0.3136,-0.21131 l 8.4899,-10.90637 c 0.041,-0.058 0.068,-0.12269 0.068,-0.19767 0,-0.0852 -0.034,-0.15679 -0.082,-0.21813 z"
+       d="m 260.77813,952.42937 -1.8711,-1.47577 c -0.058,-0.0477 -0.1296,-0.0818 -0.2114,-0.0818 -0.082,0 -0.1567,0.0341 -0.2147,0.0852 l -6.8062,8.74554 c 0,0 -2.6755,-2.57322 -2.7505,-2.6482 -0.075,-0.075 -0.1738,-0.20109 -0.3237,-0.20109 -0.15,0 -0.2182,0.10566 -0.2966,0.18405 -0.058,0.0614 -1.0122,1.06337 -1.4826,1.56097 -0.027,0.0307 -0.044,0.0477 -0.068,0.0716 -0.041,0.058 -0.068,0.1227 -0.068,0.19427 0,0.075 0.027,0.13633 0.068,0.19428 l 0.095,0.0886 c 0,0 4.7477,4.56022 4.8261,4.63861 0.078,0.0784 0.1738,0.17723 0.3135,0.17723 0.1364,0 0.2488,-0.14656 0.3136,-0.21131 l 8.4899,-10.90637 c 0.041,-0.058 0.068,-0.12269 0.068,-0.19767 0,-0.0852 -0.034,-0.15679 -0.082,-0.21813 z"
        id="path7898"
        style="fill:#1a1a1a;display:inline" />
     <path
@@ -4495,14 +4497,14 @@
        y="0"
        inkscape:tiled-clone-of="#image6365"
        xlink:href="#image6365"
-       transform="translate(0,236.064)"
+       transform="translate(0,244.064)"
        id="use7489"
        width="1366"
        height="768" />
     <g
        id="g4697"
        style="fill:#4284d3;display:inline;enable-background:new"
-       transform="matrix(0.45863051,0,0,0.45863051,129.27974,451.49445)">
+       transform="matrix(0.45863051,0,0,0.45863051,129.27974,459.49445)">
       <path
          inkscape:connector-curvature="0"
          id="path4699"
@@ -4511,38 +4513,36 @@
     </g>
     <path
        style="fill:none;stroke:#ff0000;stroke-width:1.05436075px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 253.42708,502.19561 c 0,0 0,57.55588 0,71.02642 0,13.47051 2.20431,22.04267 14.32805,22.04267"
+       d="m -46.971255,298.6124 c 0,0 0,57.55588 0,71.02642 0,13.47051 2.20431,22.04267 14.32805,22.04267"
        id="path9347"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path9349"
-       d="m 253.31619,500.52477 c 0,0 0,-9.51865 0,0 0,9.51862 2.2294,15.57594 14.49107,15.57594"
+       d="m -47.082145,296.94156 c 0,0 0,-9.51865 0,0 0,9.51862 2.2294,15.57594 14.49107,15.57594"
        style="fill:none;stroke:#ff0000;stroke-width:0.89133531px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        sodipodi:nodetypes="csc" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:1.05436075px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 253.44126,496.37577 c 0,0 0.0152,23.14643 0.0152,36.61696 0,13.47052 2.20431,22.04267 14.32805,22.04267"
+       d="m -46.957075,292.79256 c 0,0 0.0152,23.14643 0.0152,36.61696 0,13.47052 2.20431,22.04267 14.32805,22.04267"
        id="path9351"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 263.59772,235.36625 4.20954,-3.62772 -4.20954,-3.72998"
+       d="m -36.800615,316.14522 4.20954,-3.62772 -4.20954,-3.72998"
        id="path9353"
        inkscape:connector-curvature="0"
-       transform="translate(0,284.36218)"
        sodipodi:nodetypes="ccc" />
     <path
        sodipodi:nodetypes="ccc"
-       transform="translate(0,284.36218)"
        inkscape:connector-curvature="0"
        id="path9355"
-       d="m 263.59772,235.36625 4.20954,-3.62772 -4.20954,-3.72998"
+       d="m -36.800615,316.14522 4.20954,-3.62772 -4.20954,-3.72998"
        style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 263.59772,558.44883 4.20954,-3.62772 -4.20954,-3.72998"
+       d="m -36.800615,354.86562 4.20954,-3.62772 -4.20954,-3.72998"
        id="path9357"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
@@ -4550,7 +4550,21 @@
        sodipodi:nodetypes="ccc"
        inkscape:connector-curvature="0"
        id="path9359"
-       d="m 263.59772,599.08863 4.20954,-3.62772 -4.20954,-3.72998"
+       d="m -36.800615,395.50542 4.20954,-3.62772 -4.20954,-3.72998"
        style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="497.65533"
+       x="231.02136"
+       height="122.76356"
+       width="39.791794"
+       id="rect4634"
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none"
+       id="rect4640"
+       width="1139.2919"
+       height="6.2635574"
+       x="231.02136"
+       y="614.15533" />
   </g>
 </svg>

@@ -65,10 +65,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="730.71544"
-     inkscape:cy="344.82605"
+     inkscape:cx="499.38366"
+     inkscape:cy="312.2024"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g19904"
      showgrid="false"
      showborder="true"
      inkscape:showpageshadow="false"
@@ -276,7 +276,7 @@
          height="26.269077"
          width="217.72984"
          id="rect19848"
-         style="fill:#b3b3b3" />
+         style="fill:#e6e6e6;fill-opacity:1" />
     </g>
     <g
        id="g5054"
@@ -693,7 +693,7 @@
            height="26.269077"
            width="217.72984"
            id="rect19530"
-           style="fill:#b3b3b3" />
+           style="fill:#e6e6e6;fill-opacity:1" />
       </g>
       <text
          sodipodi:linespacing="125%"
@@ -1000,7 +1000,7 @@
          id="rect19692"
          style="fill:#808080" />
       <rect
-         style="fill:#b3b3b3"
+         style="fill:#e6e6e6;fill-opacity:1"
          id="rect19694"
          width="217.72984"
          height="26.269077"
@@ -1129,7 +1129,7 @@
            height="26.269077"
            width="217.72984"
            id="rect19862"
-           style="fill:#b3b3b3" />
+           style="fill:#e6e6e6;fill-opacity:1" />
       </g>
       <text
          sodipodi:linespacing="125%"
@@ -1180,7 +1180,7 @@
            height="26.269077"
            width="217.72984"
            id="rect19876"
-           style="fill:#b3b3b3" />
+           style="fill:#e6e6e6;fill-opacity:1" />
       </g>
       <text
          sodipodi:linespacing="125%"
@@ -1239,7 +1239,7 @@
              height="26.269077"
              width="217.72984"
              id="rect19894"
-             style="fill:#b3b3b3" />
+             style="fill:#e6e6e6;fill-opacity:1" />
         </g>
         <text
            sodipodi:linespacing="125%"
@@ -1293,7 +1293,7 @@
          height="26.269077"
          width="217.72984"
          id="rect19908"
-         style="fill:#b3b3b3" />
+         style="fill:#e6e6e6;fill-opacity:1" />
       <text
          xml:space="preserve"
          style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"

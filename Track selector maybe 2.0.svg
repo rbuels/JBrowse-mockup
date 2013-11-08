@@ -448,9 +448,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98930379"
-     inkscape:cx="802.95369"
-     inkscape:cy="349.55296"
+     inkscape:zoom="2.2449761"
+     inkscape:cx="605.9983"
+     inkscape:cy="573.98506"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -516,6 +516,27 @@
      id="layer1"
      transform="translate(0,-284.36218)"
      style="display:inline">
+    <rect
+       y="412.74298"
+       x="253.32361"
+       height="171.41367"
+       width="239.87015"
+       id="rect19728"
+       style="fill:#adc5e3;fill-opacity:1;stroke:none;filter:url(#filter5426)" />
+    <rect
+       style="fill:#4284d3;fill-opacity:1;stroke:none"
+       id="rect5638"
+       width="239.87015"
+       height="37.449005"
+       x="253.32361"
+       y="412.74298" />
+    <image
+       y="423.89249"
+       x="261.02689"
+       id="image5150"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAp9JREFU OI1tk11IU2EYx3+TcRhrG3h06iynaGghFnMiIgaSHxe2DI2hN6JBFiKCGhQkmiFe2I1BCBpJxC78 yJRyRkSEEHghWwMryIvKtmqKbZN1Gms3p4szT4U9Vy8vz/99nv/Hq5FlWc7umceeL/K/CoZjfNuL Y88XWe6rBWBpfYvR5Q2mOqrQ7oRjALhXN0Gn+xcdjiLkpuO/dZ4vkTjZPfME338FvQCxBHRUoTUY 9AS9n3A47Tx/FyTxI6GA43E8k+34Q1GyumYgHlcGJMGWY4c5kqpDC8AhAffqJo7qIrwfw9jzRYYb Sym7vvQHCAhGgdkrNTSV57G/uUb6JcsG54TSFI6qU5t758BsAMBiNeO76cBg0NM68UKhuyvhcXWi lSTlJXuhmYaTpZT1z4BOx+LtFlUofyiK9eojErvRAyJr9w8WUY8vEFLF8/kjTHVUAdB69xWJz98V /sBgWyXdp4vIFPVoZFmWNS3TKtdBZyk2a6oCSk5cHDiDNc2EPxSlqTyPoQUfY8/eMnvpFCk74RiC UXnZUZGLLxDC549QX2yBXQnBbFLBPn8EAJs1VaWgiFg9pnL2bgQglsBeUYBnpJGdcIyslimlO0nB UV3EvfZKMkU9KZIUw15znObRFSyiHovVjKOhhIGzJ9Ccm2Di5Sbbc5exVxQo4UmGLstxB++HcFKD unEQTQdtzElXtVlM+j+04GPEtQaBPTwPu9D+TAZPMApcc1arNnpcnQw/ea14DjSPrqgOyI+71SCl SFIMRBP1xRZGXGsIZhMAZf0z2HLS2L5/AUuGUVlfp2PEtYambhzbDfdfIrZN/xNZteJx1cbKoxlc fLCG++kb9T94JtuVIAlGgZJC84GU7Ve3ax2A5d5alvtqWVrfUu9+A2r3KLu5hd6MAAAAAElFTkSu QmCC "
+       height="16"
+       width="16" />
     <rect
        y="701.64886"
        x="-1190.2285"
@@ -2430,26 +2451,12 @@
          sodipodi:role="line"
          id="tspan12765">1 Subtrack</tspan></text>
     <rect
-       y="412.74298"
-       x="253.32361"
-       height="171.41367"
-       width="239.87015"
-       id="rect19728"
-       style="fill:#e0eaf9;fill-opacity:1;stroke:none;filter:url(#filter5426)" />
-    <rect
-       style="fill:#adc5e3;fill-opacity:1;stroke:none"
+       style="fill:#4284d3;fill-opacity:1;stroke:none"
        id="rect3556"
        width="239.87015"
        height="16.000013"
        x="253.32373"
        y="568.15662" />
-    <rect
-       style="fill:#adc5e3;fill-opacity:1;stroke:none"
-       id="rect5638"
-       width="239.87015"
-       height="37.449005"
-       x="253.32361"
-       y="412.74298" />
     <flowRoot
        transform="translate(-26.4438,279.45392)"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -2484,25 +2491,7 @@
          style="font-size:11px;font-style:italic;text-align:center;text-anchor:middle;fill:#4d4d4d"
          id="flowPara19766" /><flowPara
          style="font-size:11px;font-style:italic;text-align:center;text-anchor:middle;fill:#4d4d4d"
-         id="flowPara12209" /></flowRoot>    <g
-       transform="translate(-32.8227,-206.31928)"
-       id="g19770">
-      <rect
-         style="fill:#666666;fill-opacity:1;stroke:none"
-         id="rect19772"
-         width="16.30084"
-         height="16.30084"
-         x="293.69916"
-         y="630.06134" />
-      <rect
-         y="632.09894"
-         x="295.73676"
-         height="12.22563"
-         width="12.22563"
-         id="rect19774"
-         style="fill:#ffffff;fill-opacity:1;stroke:none" />
-    </g>
-    <flowRoot
+         id="flowPara12209" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3341"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -2530,13 +2519,6 @@
          x="373.1084"
          y="580.22107"
          style="font-size:11px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans Italic">4 Subtracks</tspan></text>
-    <image
-       y="568.15662"
-       x="477.19385"
-       id="image5150"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAp9JREFU OI1tk11IU2EYx3+TcRhrG3h06iynaGghFnMiIgaSHxe2DI2hN6JBFiKCGhQkmiFe2I1BCBpJxC78 yJRyRkSEEHghWwMryIvKtmqKbZN1Gms3p4szT4U9Vy8vz/99nv/Hq5FlWc7umceeL/K/CoZjfNuL Y88XWe6rBWBpfYvR5Q2mOqrQ7oRjALhXN0Gn+xcdjiLkpuO/dZ4vkTjZPfME338FvQCxBHRUoTUY 9AS9n3A47Tx/FyTxI6GA43E8k+34Q1GyumYgHlcGJMGWY4c5kqpDC8AhAffqJo7qIrwfw9jzRYYb Sym7vvQHCAhGgdkrNTSV57G/uUb6JcsG54TSFI6qU5t758BsAMBiNeO76cBg0NM68UKhuyvhcXWi lSTlJXuhmYaTpZT1z4BOx+LtFlUofyiK9eojErvRAyJr9w8WUY8vEFLF8/kjTHVUAdB69xWJz98V /sBgWyXdp4vIFPVoZFmWNS3TKtdBZyk2a6oCSk5cHDiDNc2EPxSlqTyPoQUfY8/eMnvpFCk74RiC UXnZUZGLLxDC549QX2yBXQnBbFLBPn8EAJs1VaWgiFg9pnL2bgQglsBeUYBnpJGdcIyslimlO0nB UV3EvfZKMkU9KZIUw15znObRFSyiHovVjKOhhIGzJ9Ccm2Di5Sbbc5exVxQo4UmGLstxB++HcFKD unEQTQdtzElXtVlM+j+04GPEtQaBPTwPu9D+TAZPMApcc1arNnpcnQw/ea14DjSPrqgOyI+71SCl SFIMRBP1xRZGXGsIZhMAZf0z2HLS2L5/AUuGUVlfp2PEtYambhzbDfdfIrZN/xNZteJx1cbKoxlc fLCG++kb9T94JtuVIAlGgZJC84GU7Ve3ax2A5d5alvtqWVrfUu9+A2r3KLu5hd6MAAAAAElFTkSu QmCC "
-       height="16"
-       width="16" />
     <rect
        y="412.74298"
        x="773.32373"
@@ -4745,5 +4727,15 @@
        transform="translate(0,-30.808004)"
        width="1366"
        height="768" />
+    <g
+       transform="matrix(0.61247666,0,0,0.61247666,220.6212,188.37865)"
+       style="fill:#053671;display:inline;enable-background:new"
+       id="g6206">
+      <path
+         style="fill:#053671;fill-opacity:1;stroke:none"
+         d="m 404,376.0625 0,10.25 -3,0 0,12.125 -3,0 0,16.625 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 3,0 2.90625,0 0.0937,0 2.90625,0 0,-10.6875 -2.90625,0 0,-11.5 -3,0 0,-6.5625 -3,0 0,-10.25 -3,0 0,13.5 -3,0 0,-13.5 -3,0 0,10.25 -3,0 0,9.5 -3,0 0,5.9375 -3,0 0,-25.6875 -3,0 z"
+         id="path6208"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
 </svg>

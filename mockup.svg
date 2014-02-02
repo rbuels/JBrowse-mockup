@@ -414,8 +414,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="627.06994"
-     inkscape:cy="455.88939"
+     inkscape:cx="608.29765"
+     inkscape:cy="461.79303"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1128,15 +1128,6 @@
              id="tspan8926"
              style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Open Sans;-inkscape-font-specification:Open Sans">60k</tspan></text>
       </g>
-      <use
-         style="display:inline;enable-background:new"
-         x="0"
-         y="0"
-         xlink:href="#g7001"
-         id="use8693"
-         transform="matrix(1,0,0,0.98863642,6.62705,286.02616)"
-         width="1286.9908"
-         height="819.05554" />
     </g>
     <rect
        y="-233.58228"
@@ -2159,7 +2150,7 @@
              sodipodi:role="line"
              id="tspan5293"
              x="445"
-             y="644.05554"></tspan></text>
+             y="644.05554" /></text>
         <g
            id="g5312"
            transform="translate(-481,1)">
@@ -2412,15 +2403,6 @@
          x="450.78717"
          y="-241.04674"
          style="fill:#ececec">Hub:</tspan></text>
-    <use
-       transform="translate(6.0382412,-7.7348297)"
-       style="display:inline;enable-background:new"
-       x="0"
-       y="0"
-       xlink:href="#g7001"
-       id="use8673"
-       width="1"
-       height="1" />
     <path
        sodipodi:type="star"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
@@ -2484,6 +2466,52 @@
          x="394.79446"
          id="tspan5154-1"
          sodipodi:role="line">File</tspan></text>
+    <g
+       transform="translate(-2.2304506,-7.638)"
+       style="display:inline;enable-background:new"
+       id="g3958-2">
+      <rect
+         y="-111.94446"
+         x="176.83743"
+         height="19"
+         width="36"
+         id="rect3952-6"
+         style="fill:#999999;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3954-2"
+         y="-97.944458"
+         x="178.21243"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         xml:space="preserve"><tspan
+           y="-97.944458"
+           x="178.21243"
+           id="tspan3956-4"
+           sodipodi:role="line">ctgA</tspan></text>
+    </g>
+    <g
+       transform="translate(0.24442351,-90.723047)"
+       style="display:inline;enable-background:new"
+       id="g3958-4">
+      <rect
+         y="-111.94446"
+         x="176.83743"
+         height="19"
+         width="36"
+         id="rect3952-4"
+         style="fill:#999999;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3954-5"
+         y="-97.944458"
+         x="178.21243"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         xml:space="preserve"><tspan
+           y="-97.944458"
+           x="178.21243"
+           id="tspan3956-2"
+           sodipodi:role="line">ctgA</tspan></text>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2727,69 +2755,6 @@
            id="rect7112"
            d="m 250,553.36218 230,0 12,7.5 -12,7.5 -230,0 z"
            style="fill:#fd3f49;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      </g>
-      <g
-         id="g7001"
-         transform="matrix(0.74217685,0,0,0.74102175,1163.9567,-400.66694)"
-         style="fill:#ffffff;display:inline;enable-background:new">
-        <g
-           transform="translate(-4.5895691,0)"
-           id="g7030">
-          <rect
-             y="389.62753"
-             x="-589.72705"
-             height="25.640272"
-             width="204.71873"
-             id="rect7003"
-             style="fill:#cccccc;fill-opacity:1;stroke:none" />
-          <text
-             xml:space="preserve"
-             style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-             x="-474.62915"
-             y="407.84482"
-             id="text8832"
-             sodipodi:linespacing="125%"><tspan
-               sodipodi:role="line"
-               id="tspan8834"
-               x="-474.62915"
-               y="407.84482"
-               style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans">1120-1900</tspan></text>
-          <g
-             id="g8848"
-             transform="translate(2.6947755,0)">
-            <rect
-               y="391.65176"
-               x="-584.4892"
-               height="21.59181"
-               width="94.303047"
-               id="rect8830"
-               style="fill:#ffffff;fill-opacity:1;stroke:none" />
-            <text
-               xml:space="preserve"
-               style="font-size:17.95026016px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-               x="-581.78888"
-               y="406.70151"
-               id="text7005"
-               sodipodi:linespacing="125%"><tspan
-                 sodipodi:role="line"
-                 id="tspan7007"
-                 x="-581.78888"
-                 y="406.70151"
-                 style="font-size:17.95026016px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans">ctgA</tspan></text>
-            <rect
-               y="391.65176"
-               x="-512.16803"
-               height="21.59181"
-               width="22.905592"
-               id="rect8836"
-               style="fill:#b3b3b3;fill-opacity:1;stroke:none" />
-            <path
-               inkscape:connector-curvature="0"
-               id="rect8838"
-               d="m -506.44166,400.01234 5.71566,5.72473 5.66842,-5.67742 -0.0472,-0.0473 -11.33683,0 z"
-               style="fill:#333333;fill-opacity:1;stroke:none" />
-          </g>
-        </g>
       </g>
       <g
          transform="translate(4.0000365,-268.74637)"
@@ -6663,6 +6628,27 @@
              inkscape:transform-center-x="-4.25" />
         </g>
       </g>
+      <g
+         id="g3958">
+        <rect
+           y="-111.94446"
+           x="176.83743"
+           height="19"
+           width="36"
+           id="rect3952"
+           style="fill:#999999;fill-opacity:1;stroke:none" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3954"
+           y="-97.944458"
+           x="178.21243"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           xml:space="preserve"><tspan
+             y="-97.944458"
+             x="178.21243"
+             id="tspan3956"
+             sodipodi:role="line">ctgA</tspan></text>
+      </g>
     </g>
     <g
        style="display:inline"
@@ -6838,6 +6824,69 @@
          id="tspan8806"
          x="-222"
          y="-147.94446">TODO: Track selector(s)</tspan></text>
+    <g
+       id="g7001"
+       transform="matrix(0.74217685,0,0,0.74102175,1103.9567,-966.16693)"
+       style="fill:#ffffff;display:inline;enable-background:new">
+      <g
+         transform="translate(-4.5895691,0)"
+         id="g7030">
+        <rect
+           y="389.62753"
+           x="-589.72705"
+           height="25.640272"
+           width="204.71873"
+           id="rect7003"
+           style="fill:#cccccc;fill-opacity:1;stroke:none" />
+        <text
+           xml:space="preserve"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           x="-474.62915"
+           y="407.84482"
+           id="text8832"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan8834"
+             x="-474.62915"
+             y="407.84482"
+             style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans">1120-1900</tspan></text>
+        <g
+           id="g8848"
+           transform="translate(2.6947755,0)">
+          <rect
+             y="391.65176"
+             x="-584.4892"
+             height="21.59181"
+             width="94.303047"
+             id="rect8830"
+             style="fill:#ffffff;fill-opacity:1;stroke:none" />
+          <text
+             xml:space="preserve"
+             style="font-size:17.95026016px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+             x="-581.78888"
+             y="406.70151"
+             id="text7005"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan7007"
+               x="-581.78888"
+               y="406.70151"
+               style="font-size:17.95026016px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans">ctgA</tspan></text>
+          <rect
+             y="391.65176"
+             x="-512.16803"
+             height="21.59181"
+             width="22.905592"
+             id="rect8836"
+             style="fill:#b3b3b3;fill-opacity:1;stroke:none" />
+          <path
+             inkscape:connector-curvature="0"
+             id="rect8838"
+             d="m -506.44166,400.01234 5.71566,5.72473 5.66842,-5.67742 -0.0472,-0.0473 -11.33683,0 z"
+             style="fill:#333333;fill-opacity:1;stroke:none" />
+        </g>
+      </g>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
